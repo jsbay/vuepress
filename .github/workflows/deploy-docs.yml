@@ -32,7 +32,9 @@ jobs:
 
       # run build script
       - name: Build VuePress site
-        run: yarn docs:build
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: pnpm docs:build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
