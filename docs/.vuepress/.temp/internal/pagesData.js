@@ -3,8 +3,6 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /home.html
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
-  // path: /slide.html
-  "v-0e503981": () => import(/* webpackChunkName: "v-0e503981" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/slide.html.js").then(({ data }) => data),
   // path: /web/vue2/depoly.html
   "v-181f3646": () => import(/* webpackChunkName: "v-181f3646" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/depoly.html.js").then(({ data }) => data),
   // path: /404.html

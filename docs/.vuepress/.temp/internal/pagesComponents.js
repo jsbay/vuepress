@@ -5,8 +5,6 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /home.html
   "v-79fdd481": defineAsyncComponent(() => import(/* webpackChunkName: "v-79fdd481" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/home.html.vue")),
-  // path: /slide.html
-  "v-0e503981": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e503981" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/slide.html.vue")),
   // path: /web/vue2/depoly.html
   "v-181f3646": defineAsyncComponent(() => import(/* webpackChunkName: "v-181f3646" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/depoly.html.vue")),
   // path: /404.html
