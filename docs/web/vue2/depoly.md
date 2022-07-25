@@ -1,9 +1,8 @@
-# vue 2 depoly
+# vue2 部署 
 
-## nginx
+## 部署到 nginx
 ```nginx
 # nginx.conf
-
 http {
   server {
     # 监听的端口号
