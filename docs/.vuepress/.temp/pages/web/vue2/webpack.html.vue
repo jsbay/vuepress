@@ -1,4 +1,4 @@
-<template><div><h1 id="vue2-webpack-相关配置" tabindex="-1"><a class="header-anchor" href="#vue2-webpack-相关配置" aria-hidden="true">#</a> vue2 webpack 相关配置</h1>
+<template><div><h1 id="webpack-相关配置" tabindex="-1"><a class="header-anchor" href="#webpack-相关配置" aria-hidden="true">#</a> webpack 相关配置</h1>
 <h2 id="打包时-移除-console" tabindex="-1"><a class="header-anchor" href="#打包时-移除-console" aria-hidden="true">#</a> 打包时 移除 console</h2>
 <h3 id="安装-terser-webpack-plugin" tabindex="-1"><a class="header-anchor" href="#安装-terser-webpack-plugin" aria-hidden="true">#</a> 安装 terser-webpack-plugin</h3>
 <CodeTabs :data='[{"title":"yarn"},{"title":"npm"}]' :active="0" tab-id="bash">

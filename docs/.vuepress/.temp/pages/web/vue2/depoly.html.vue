@@ -1,4 +1,4 @@
-<template><div><h1 id="vue2-部署" tabindex="-1"><a class="header-anchor" href="#vue2-部署" aria-hidden="true">#</a> vue2 部署</h1>
+<template><div><h1 id="部署" tabindex="-1"><a class="header-anchor" href="#部署" aria-hidden="true">#</a> 部署</h1>
 <h2 id="自定义的-deploy-sh-脚本" tabindex="-1"><a class="header-anchor" href="#自定义的-deploy-sh-脚本" aria-hidden="true">#</a> 自定义的 <code v-pre>deploy.sh</code> 脚本</h2>
 <div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token shebang important">#!/bin/bash</span>
 

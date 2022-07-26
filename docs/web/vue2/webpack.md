@@ -1,4 +1,4 @@
-# vue2 webpack 相关配置
+# webpack 相关配置
 
 ## 打包时 移除 console
 
