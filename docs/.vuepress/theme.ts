@@ -3,6 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
+
   navbarLayout: {
     left: ["Brand"], center: [], right: ["Links", "Language", "Repo", "Outlook", "Search"] 
   },
@@ -19,7 +20,7 @@ export default hopeTheme({
 
   repo: "jsbay/vuepress",
 
-  docsDir: "demo/src",
+  docsDir: "/docs",
 
   // navbar
   navbar: navbar,

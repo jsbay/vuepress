@@ -1,0 +1,21 @@
+<template><div><h1 id="渐进式框架" tabindex="-1"><a class="header-anchor" href="#渐进式框架" aria-hidden="true">#</a> 渐进式框架</h1>
+<h2 id="什么叫渐进式框架" tabindex="-1"><a class="header-anchor" href="#什么叫渐进式框架" aria-hidden="true">#</a> 什么叫渐进式框架?</h2>
+<p>Vue 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。</p>
+<p>—— <a href="https://v3.cn.vuejs.org/guide/introduction.html" target="_blank" rel="noopener noreferrer">Vue 官网介绍<ExternalLinkIcon/></a></p>
+<div class="custom-container info"><p class="custom-container-title">解释</p>
+<p>vue.js 只提供了 vue-cli 生态中最核心的组件系统和双向数据绑定</p>
+</div>
+<h2 id="什么是渐进式呢" tabindex="-1"><a class="header-anchor" href="#什么是渐进式呢" aria-hidden="true">#</a> 什么是渐进式呢？</h2>
+<p>简单地说，渐进式的概念是分层设计，每层可选，不同层可以灵活接入其他方案架构模式。</p>
+<p>举个例子，我们要买一台电脑，店家给我们提供了一个 IBM。</p>
+<p>官方可能会提供 windows 作为可选，我们也可以在电脑上安装我们自己喜欢的 Ubuntu。</p>
+<p>装完系统后，官方可能还提供了一系列的“装机必备”，浏览器、编辑器、播放器等等，我们可以选择使用，也可以不用，然后在应用市场选择我们喜欢的软件安装。</p>
+<h2 id="参考" tabindex="-1"><a class="header-anchor" href="#参考" aria-hidden="true">#</a> 参考</h2>
+<div class="custom-container tip"><p class="custom-container-title">参考</p>
+<ol>
+<li><a href="https://blog.51cto.com/u_14482423/2992771" target="_blank" rel="noopener noreferrer">https://blog.51cto.com/u_14482423/2992771<ExternalLinkIcon/></a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/140378027" target="_blank" rel="noopener noreferrer">https://zhuanlan.zhihu.com/p/140378027<ExternalLinkIcon/></a></li>
+<li><a href="https://www.jianshu.com/p/6d4673db54bb" target="_blank" rel="noopener noreferrer">https://www.jianshu.com/p/6d4673db54bb<ExternalLinkIcon/></a></li>
+</ol>
+</div>
+</div></template>

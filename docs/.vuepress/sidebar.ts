@@ -1,5 +1,18 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export default sidebar([
-  
-]);
+export default sidebar({
+  "/web/vue2/": [
+    "PWA",
+    "depoly",
+    "router-lazyload",
+    "dynamic-components",
+    "v-for-v-if",
+    "excel",
+    "eslint",
+    "webpack",
+    "mock",
+  ],
+  "/sys/mac/": [],
+  "/sys/win/": [],
+  "/sys/linux/": [],
+});
