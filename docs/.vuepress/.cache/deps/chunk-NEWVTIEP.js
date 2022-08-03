@@ -65,6 +65,12 @@ var init_define_REVEAL_CONFIG = __esm({
   }
 });
 
+// <define:__DOCSEARCH_OPTIONS__>
+var init_define_DOCSEARCH_OPTIONS = __esm({
+  "<define:__DOCSEARCH_OPTIONS__>"() {
+  }
+});
+
 // <define:__EXTERNAL_LINK_ICON_LOCALES__>
 var init_define_EXTERNAL_LINK_ICON_LOCALES = __esm({
   "<define:__EXTERNAL_LINK_ICON_LOCALES__>"() {
@@ -83,6 +89,7 @@ export {
   init_define_PHOTO_SWIPE_OPTIONS,
   init_define_READING_TIME_LOCALES,
   init_define_REVEAL_CONFIG,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES
 };
-//# sourceMappingURL=chunk-Y3RKTPNZ.js.map
+//# sourceMappingURL=chunk-NEWVTIEP.js.map

@@ -40,19 +40,20 @@ import {
   toHandlerKey,
   toNumber,
   toRawType
-} from "./chunk-4IX46BYU.js";
+} from "./chunk-PDV2ZBU6.js";
 import {
   init_define_BACK_TO_TOP_LOCALES,
   init_define_CODE_COPY_LOCALES,
   init_define_CODE_COPY_OPTIONS,
   init_define_CODE_DEMO_OPTIONS,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
   init_define_MERMAID_OPTIONS,
   init_define_PHOTO_SWIPE_LOCALES,
   init_define_PHOTO_SWIPE_OPTIONS,
   init_define_READING_TIME_LOCALES,
   init_define_REVEAL_CONFIG
-} from "./chunk-Y3RKTPNZ.js";
+} from "./chunk-NEWVTIEP.js";
 
 // node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js
 init_define_BACK_TO_TOP_LOCALES();
@@ -64,6 +65,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function warn(msg, ...args) {
   console.warn(`[Vue warn] ${msg}`, ...args);
@@ -1077,6 +1079,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var stack = [];
 function pushWarningContext(vnode) {
@@ -7094,6 +7097,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var svgNS = "http://www.w3.org/2000/svg";
 var doc = typeof document !== "undefined" ? document : null;
@@ -8485,6 +8489,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function initDev() {
   {
@@ -8640,4 +8645,4 @@ export {
   initDirectivesForSSR,
   compile2 as compile
 };
-//# sourceMappingURL=chunk-LDQVOVV2.js.map
+//# sourceMappingURL=chunk-YRADYFAW.js.map

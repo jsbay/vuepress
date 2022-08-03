@@ -4,13 +4,14 @@ import {
   init_define_CODE_COPY_LOCALES,
   init_define_CODE_COPY_OPTIONS,
   init_define_CODE_DEMO_OPTIONS,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
   init_define_MERMAID_OPTIONS,
   init_define_PHOTO_SWIPE_LOCALES,
   init_define_PHOTO_SWIPE_OPTIONS,
   init_define_READING_TIME_LOCALES,
   init_define_REVEAL_CONFIG
-} from "./chunk-Y3RKTPNZ.js";
+} from "./chunk-NEWVTIEP.js";
 
 // dep:echarts
 init_define_BACK_TO_TOP_LOCALES();
@@ -22,6 +23,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/index.js
@@ -34,6 +36,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/extension.js
@@ -46,6 +49,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/core/echarts.js
@@ -58,6 +62,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/tslib/tslib.es6.js
@@ -70,6 +75,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var extendStatics = function(d, b) {
   extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b2) {
@@ -110,6 +116,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/env.js
@@ -122,6 +129,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Browser = function() {
   function Browser2() {
@@ -256,6 +264,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/platform.js
@@ -268,6 +277,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_FONT_SIZE = 12;
 var DEFAULT_FONT_FAMILY = "sans-serif";
@@ -817,6 +827,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/vector.js
@@ -857,6 +868,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function create(x, y) {
   if (x == null) {
@@ -978,6 +990,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Param = function() {
   function Param2(target, e2) {
@@ -1056,6 +1069,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Eventful = function() {
   function Eventful2(eventProcessors) {
@@ -1219,6 +1233,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/dom.js
@@ -1231,6 +1246,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/fourPointsTransform.js
@@ -1243,6 +1259,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LN2 = Math.log(2);
 function determinant(rows, rank, rowStart, rowMask, colMask, detCache) {
@@ -1475,6 +1492,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GestureMgr = function() {
   function GestureMgr2() {
@@ -1812,6 +1830,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/timsort.js
@@ -1824,6 +1843,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_MIN_MERGE = 32;
 var DEFAULT_MIN_GALLOPING = 7;
@@ -2352,6 +2372,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var REDRAW_BIT = 1;
 var STYLE_CHANGED_BIT = 2;
@@ -2520,6 +2541,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/animation/requestAnimationFrame.js
@@ -2532,6 +2554,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var requestAnimationFrame;
 requestAnimationFrame = env_default.hasGlobalWindow && (window.requestAnimationFrame && window.requestAnimationFrame.bind(window) || window.msRequestAnimationFrame && window.msRequestAnimationFrame.bind(window) || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame) || function(func) {
@@ -2549,6 +2572,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/animation/Clip.js
@@ -2561,6 +2585,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/animation/easing.js
@@ -2573,6 +2598,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var easingFuncs = {
   linear: function(k) {
@@ -2770,6 +2796,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/curve.js
@@ -2782,6 +2809,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathPow = Math.pow;
 var mathSqrt = Math.sqrt;
@@ -3216,6 +3244,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/LRU.js
@@ -3228,6 +3257,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Entry = function() {
   function Entry2(val) {
@@ -3808,6 +3838,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathRound = Math.round;
 function normalizeColor(color) {
@@ -4781,6 +4812,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TOUCH_CLICK_DELAY = 300;
 var globalEventSupported = env_default.domSupported;
@@ -5086,6 +5118,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var dpr = 1;
 if (env_default.hasGlobalWindow) {
@@ -5107,6 +5140,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/Element.js
@@ -5119,6 +5153,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/Transformable.js
@@ -5131,6 +5166,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/matrix.js
@@ -5155,6 +5191,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function create2() {
   return [1, 0, 0, 1, 0, 0];
@@ -5493,6 +5530,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/Point.js
@@ -5505,6 +5543,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Point = function() {
   function Point2(x, y) {
@@ -5847,6 +5886,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var textWidthCache = {};
 function getWidth(text, font) {
@@ -7408,6 +7448,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/model.js
@@ -7420,6 +7461,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/number.js
@@ -7432,6 +7474,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RADIAN_EPSILON = 1e-4;
 var ROUND_SUPPORTED_PRECISION_MAX = 20;
@@ -7733,6 +7776,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ECHARTS_PREFIX = "[ECharts] ";
 var storedLogs = {};
@@ -8256,6 +8300,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/clazz.js
@@ -8268,6 +8313,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TYPE_DELIMITER = ".";
 var IS_CONTAINER = "___EC__COMPONENT__CONTAINER___";
@@ -8433,6 +8479,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/model/mixin/makeStyleMapper.js
@@ -8445,6 +8492,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function makeStyleMapper(properties, ignoreParent) {
   for (var i = 0; i < properties.length; i++) {
@@ -8498,6 +8546,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/label/labelStyle.js
@@ -8510,6 +8559,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/Text.js
@@ -8522,6 +8572,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/helper/parseText.js
@@ -8534,6 +8585,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/helper/image.js
@@ -8546,6 +8598,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var globalImageCache = new LRU_default(50);
 function findExistImage(newImageOrSrc) {
@@ -9045,6 +9098,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/Displayable.js
@@ -9057,6 +9111,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var STYLE_MAGIC_KEY = "__zr_style_" + Math.round(Math.random() * 10);
 var DEFAULT_COMMON_STYLE = {
@@ -9374,6 +9429,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/PathProxy.js
@@ -9386,6 +9442,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/bbox.js
@@ -9398,6 +9455,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathMin2 = Math.min;
 var mathMax2 = Math.max;
@@ -10220,6 +10278,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/contain/line.js
@@ -10232,6 +10291,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function containStroke(x0, y0, x1, y1, lineWidth, x, y) {
   if (lineWidth === 0) {
@@ -10264,6 +10324,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function containStroke2(x0, y0, x1, y1, x2, y2, x3, y3, lineWidth, x, y) {
   if (lineWidth === 0) {
@@ -10287,6 +10348,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function containStroke3(x0, y0, x1, y1, x2, y2, lineWidth, x, y) {
   if (lineWidth === 0) {
@@ -10310,6 +10372,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/contain/util.js
@@ -10322,6 +10385,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI23 = Math.PI * 2;
 function normalizeRadian(angle) {
@@ -10376,6 +10440,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function windingLine(x0, y0, x1, y1, x, y) {
   if (y > y0 && y > y1 || y < y0 && y < y1) {
@@ -11124,6 +11189,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_IMAGE_STYLE = defaults({
   x: 0,
@@ -11201,6 +11267,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/helper/roundRect.js
@@ -11213,6 +11280,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function buildPath(ctx, shape) {
   var x = shape.x;
@@ -11295,6 +11363,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var round2 = Math.round;
 function subPixelOptimizeLine(outputShape, inputShape, style) {
@@ -11903,6 +11972,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/innerStore.js
@@ -11915,6 +11985,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var getECData = makeInner();
 var setCommonECData = function(seriesIndex, dataType, dataIdx, el) {
@@ -12538,6 +12609,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/path.js
@@ -12550,6 +12622,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/transformPath.js
@@ -12562,6 +12635,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CMD3 = PathProxy_default.CMD;
 var points = [[], [], []];
@@ -13006,6 +13080,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CircleShape = function() {
   function CircleShape2() {
@@ -13042,6 +13117,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EllipseShape = function() {
   function EllipseShape2() {
@@ -13090,6 +13166,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/helper/roundSector.js
@@ -13102,6 +13179,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI4 = Math.PI;
 var PI26 = PI4 * 2;
@@ -13361,6 +13439,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RingShape = function() {
   function RingShape2() {
@@ -13403,6 +13482,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/helper/poly.js
@@ -13415,6 +13495,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/helper/smoothBezier.js
@@ -13427,6 +13508,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function smoothBezier(points4, smooth, isLoop, constraint) {
   var cps = [];
@@ -13549,6 +13631,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolylineShape = function() {
   function PolylineShape2() {
@@ -13591,6 +13674,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var subPixelOptimizeOutputShape2 = {};
 var LineShape = function() {
@@ -13667,6 +13751,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var out = [];
 var BezierCurveShape = function() {
@@ -13770,6 +13855,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ArcShape = function() {
   function ArcShape2() {
@@ -13823,6 +13909,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CompoundPath = function(_super) {
   __extends(CompoundPath2, _super);
@@ -13882,6 +13969,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/graphic/Gradient.js
@@ -13894,6 +13982,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Gradient = function() {
   function Gradient2(colorStops) {
@@ -13936,6 +14025,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadialGradient = function(_super) {
   __extends(RadialGradient2, _super);
@@ -13962,6 +14052,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var extent = [0, 0];
 var extent2 = [0, 0];
@@ -14090,6 +14181,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var m = [];
 var IncrementalDisplayable = function(_super) {
@@ -14210,6 +14302,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var transitionStore = makeInner();
 function getAnimationConfig(animationType, animatableModel, dataIndex, extraOpts, extraDelayParams) {
@@ -15051,6 +15144,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LINE_STYLE_KEY_MAP = [
   ["lineWidth", "width"],
@@ -15086,6 +15180,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ITEM_STYLE_KEY_MAP = [
   ["fill", "color"],
@@ -15218,6 +15313,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/component.js
@@ -15230,6 +15326,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var base = Math.round(Math.random() * 10);
 function getUID(type) {
@@ -15349,6 +15446,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/format.js
@@ -15361,6 +15459,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/time.js
@@ -15373,6 +15472,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/core/locale.js
@@ -15385,6 +15485,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/i18n/langEN.js
@@ -15397,6 +15498,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var langEN_default = {
   time: {
@@ -15518,6 +15620,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var langZH_default = {
   time: {
@@ -15892,6 +15995,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getTextRect(text, font, align, verticalAlign, padding, rich, truncate, lineHeight) {
   var textEl = new Text_default({
@@ -16437,6 +16541,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var platform = "";
 if (typeof navigator !== "undefined") {
@@ -16518,6 +16623,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/types.js
@@ -16530,6 +16636,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var VISUAL_DIMENSIONS = createHashMap(["tooltip", "label", "itemName", "itemId", "itemGroupId", "seriesName"]);
 var SOURCE_FORMAT_ORIGINAL = "original";
@@ -16782,6 +16889,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var internalOptionCreatorMap = createHashMap();
 function registerInternalOptionCreator(mainType, creator) {
@@ -16815,6 +16923,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var innerColor = makeInner();
 var innerDecal = makeInner();
@@ -17428,6 +17537,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var availableMethods = [
   "getDom",
@@ -17466,6 +17576,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var coordinateSystemCreators = {};
 var CoordinateSystemManager = function() {
@@ -17508,6 +17619,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var QUERY_REG = /^(min|max)?(.+)$/;
 var OptionManager = function() {
@@ -17699,6 +17811,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/preprocessor/helper/compatStyle.js
@@ -17711,6 +17824,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each3 = each;
 var isObject2 = isObject;
@@ -18192,6 +18306,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataStack(ecModel) {
   var stackInfoMap = createHashMap();
@@ -18270,6 +18385,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/model/mixin/dataFormat.js
@@ -18282,6 +18398,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/helper/dataProvider.js
@@ -18294,6 +18411,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/Source.js
@@ -18306,6 +18424,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SourceImpl = function() {
   function SourceImpl2(fields) {
@@ -18874,6 +18993,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createTask(define) {
   return new Task(define);
@@ -19061,6 +19181,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/helper/transform.js
@@ -19073,6 +19194,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/helper/dataValueHelper.js
@@ -19085,6 +19207,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function parseDataValue(value, opt) {
   var dimType = opt && opt.type;
@@ -19490,6 +19613,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var UNDEFINED = "undefined";
 var CtorUint32Array = typeof Uint32Array === UNDEFINED ? Array : Uint32Array;
@@ -20496,6 +20620,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/tooltip/tooltipMarkup.js
@@ -20508,6 +20633,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TOOLTIP_LINE_HEIGHT_CSS = "line-height:1";
 function getTooltipTextStyle(textStyle, renderMode) {
@@ -21191,6 +21317,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ComponentView = function() {
   function ComponentView2() {
@@ -21233,6 +21360,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/createRenderPlanner.js
@@ -21245,6 +21373,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createRenderPlanner() {
   var inner23 = makeInner();
@@ -21389,6 +21518,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ORIGIN_METHOD = "\0__throttleOriginMethod";
 var RATE = "\0__throttleRate";
@@ -21480,6 +21610,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner4 = makeInner();
 var defaultStyleMappers = {
@@ -21639,6 +21770,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI5 = Math.PI;
 function defaultLoading(api, opts) {
@@ -21751,6 +21883,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Scheduler = function() {
   function Scheduler2(ecInstance, api, dataProcessorHandlers, visualHandlers) {
@@ -22104,6 +22237,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var colorAll = ["#37A2DA", "#32C5E9", "#67E0E3", "#9FE6B8", "#FFDB5C", "#ff9f7f", "#fb7293", "#E062AE", "#E690D1", "#e7bcf3", "#9d96f5", "#8378EA", "#96BFFF"];
 var light_default = {
@@ -22121,6 +22255,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var contrastColor = "#B9B8CE";
 var backgroundColor = "#100C2A";
@@ -22309,6 +22444,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ECEventProcessor = function() {
   function ECEventProcessor2() {
@@ -22392,6 +22528,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SYMBOL_PROPS_WITH_CB = ["symbol", "symbolSize", "symbolRotate", "symbolOffset"];
 var SYMBOL_PROPS = SYMBOL_PROPS_WITH_CB.concat(["symbolKeepAspect"]);
@@ -22478,6 +22615,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getItemVisualFromData(data, dataIndex, key) {
   switch (key) {
@@ -22545,6 +22683,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createLegacyDataSelectAction(seriesType2, ecRegisterAction) {
   function getSeriesIndices(ecModel, payload) {
@@ -22625,6 +22764,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function findEventDispatcher(target, det, returnFirstMatch) {
   var found;
@@ -22650,6 +22790,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/decal.js
@@ -22662,6 +22803,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/WeakMap.js
@@ -22674,6 +22816,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var wmUniqueIndex = Math.round(Math.random() * 9);
 var supportDefineProperty = typeof Object.defineProperty === "function";
@@ -22727,6 +22870,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Triangle = Path_default.extend({
   type: "triangle",
@@ -22989,6 +23133,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/canvas/helper.js
@@ -23001,6 +23146,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function isSafeNum(num) {
   return isFinite(num);
@@ -23088,6 +23234,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function normalizeLineDash(lineType, lineWidth) {
   if (!lineType || lineType === "solid" || !(lineWidth > 0)) {
@@ -23935,6 +24082,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var lifecycle = new Eventful_default();
 var lifecycle_default = lifecycle;
@@ -23949,6 +24097,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var implsStore = {};
 function registerImpl(name, impl) {
@@ -25801,6 +25950,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api.js
@@ -25813,6 +25963,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/SeriesData.js
@@ -25825,6 +25976,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/DataDiffer.js
@@ -25837,6 +25989,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataIndexMapValueLength(valNumOrArrLengthMoreThan2) {
   return valNumOrArrLengthMoreThan2 == null ? 0 : valNumOrArrLengthMoreThan2.length || 1;
@@ -25997,6 +26150,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DimensionUserOuput = function() {
   function DimensionUserOuput2(encode, dimRequest) {
@@ -26102,6 +26256,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SeriesDimensionDefine = function() {
   function SeriesDimensionDefine2(opt) {
@@ -26124,6 +26279,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner5 = makeInner();
 var dimTypeShort = {
@@ -26936,6 +27092,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/createSeriesData.js
@@ -26948,6 +27105,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/helper/createDimensions.js
@@ -26960,6 +27118,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createDimensions(source, opt) {
   return prepareSeriesDataSchema(source, opt).dimensions;
@@ -27176,6 +27335,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CoordSysInfo = function() {
   function CoordSysInfo2(coordSysName) {
@@ -27291,6 +27451,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function enableDataStack(seriesModel, dimensionsInput, opt) {
   opt = opt || {};
@@ -27506,6 +27667,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/scale/Ordinal.js
@@ -27518,6 +27680,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/scale/Scale.js
@@ -27530,6 +27693,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Scale = function() {
   function Scale2(setting) {
@@ -27583,6 +27747,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var uidBase = 0;
 var OrdinalMeta = function() {
@@ -27654,6 +27819,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function isValueNice(val) {
   var exp10 = Math.pow(10, quantityExponent(Math.abs(val)));
@@ -27847,6 +28013,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var roundNumber = round;
 var IntervalScale = function(_super) {
@@ -28040,6 +28207,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/vendor.js
@@ -28052,6 +28220,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var supportFloat32Array = typeof Float32Array !== "undefined";
 var Float32ArrayCtor = !supportFloat32Array ? Array : Float32Array;
@@ -28451,6 +28620,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var bisect = function(a, x, lo, hi) {
   while (lo < hi) {
@@ -28825,6 +28995,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var scaleProto = Scale_default.prototype;
 var intervalScaleProto = Interval_default.prototype;
@@ -28946,6 +29117,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ScaleRawExtentInfo = function() {
   function ScaleRawExtentInfo2(scale4, model, originalExtent) {
@@ -29296,6 +29468,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AxisModelCommonMixin = function() {
   function AxisModelCommonMixin2() {
@@ -29347,6 +29520,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/geo/Region.js
@@ -29359,6 +29533,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/contain/polygon.js
@@ -29371,6 +29546,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EPSILON5 = 1e-8;
 function isAroundEqual2(a, b) {
@@ -29726,6 +29902,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/time.js
@@ -29743,6 +29920,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/graphic.js
@@ -29790,6 +29968,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/format.js
@@ -29815,6 +29994,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/util.js
@@ -29846,6 +30026,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/Axis.js
@@ -29858,6 +30039,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/axisTickLabelBuilder.js
@@ -29870,6 +30052,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner6 = makeInner();
 function createAxisLabels(axis) {
@@ -30287,6 +30470,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/label/LabelManager.js
@@ -30299,6 +30483,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/label/labelGuideHelper.js
@@ -30311,6 +30496,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI27 = Math.PI * 2;
 var CMD4 = PathProxy_default.CMD;
@@ -30746,6 +30932,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function prepareLayoutList(input) {
   var list = [];
@@ -31340,6 +31527,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/renderer/installSVGRenderer.js
@@ -31352,6 +31540,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/svg/Painter.js
@@ -31364,6 +31553,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/svg/graphic.js
@@ -31376,6 +31566,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/svg/SVGPathRebuilder.js
@@ -31388,6 +31579,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathSin5 = Math.sin;
 var mathCos5 = Math.cos;
@@ -31498,6 +31690,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var NONE = "none";
 var mathRound2 = Math.round;
@@ -31579,6 +31772,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SVGNS = "http://www.w3.org/2000/svg";
 var XLINKNS = "http://www.w3.org/1999/xlink";
@@ -31692,6 +31886,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EASING_MAP = {
   cubicIn: "0.32,0,0.67,0",
@@ -32350,6 +32545,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/svg/domapi.js
@@ -32362,6 +32558,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createTextNode(text) {
   return document.createTextNode(text);
@@ -32848,6 +33045,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/canvas/Painter.js
@@ -32860,6 +33058,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/canvas/Layer.js
@@ -32872,6 +33071,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createDom(id, painter, dpr2) {
   var newDom = platformApi.createCanvas();
@@ -33768,6 +33968,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/line/install.js
@@ -33780,6 +33981,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/line/LineSeries.js
@@ -33792,6 +33994,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LineSeriesModel = function(_super) {
   __extends(LineSeriesModel2, _super);
@@ -33888,6 +34091,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/SymbolDraw.js
@@ -33900,6 +34104,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/Symbol.js
@@ -33912,6 +34117,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/labelHelper.js
@@ -33924,6 +34130,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getDefaultLabel(data, dataIndex) {
   var labelDims = data.mapDimensionsAll("defaultedLabel");
@@ -34351,6 +34558,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/line/helper.js
@@ -34363,6 +34571,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function prepareDataCoordInfo(coordSys, data, valueOrigin) {
   var baseAxis = coordSys.getBaseAxis();
@@ -34556,6 +34765,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathMin6 = Math.min;
 var mathMax6 = Math.max;
@@ -34851,6 +35061,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createGridClipPath(cartesian, hasAnimation, seriesModel, done, during) {
   var rect = cartesian.getArea();
@@ -34954,6 +35165,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function isCoordinateSystemType(coordSys, type) {
   return coordSys.type === type;
@@ -35913,6 +36125,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function pointsLayout(seriesType2, forceStoreInTypedArray) {
   return {
@@ -35980,6 +36193,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var samplers = {
   average: function(frame) {
@@ -36084,6 +36298,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/bar/BarSeries.js
@@ -36096,6 +36311,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/bar/BaseBarSeries.js
@@ -36108,6 +36324,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BaseBarSeriesModel = function(_super) {
   __extends(BaseBarSeriesModel2, _super);
@@ -36218,6 +36435,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/shape/sausage.js
@@ -36230,6 +36448,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SausageShape = function() {
   function SausageShape2() {
@@ -36298,6 +36517,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createSectorCalculateTextPosition(positionMapping, opts) {
   opts = opts || {};
@@ -37230,6 +37450,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/pie/pieLayout.js
@@ -37242,6 +37463,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI29 = Math.PI * 2;
 var RADIAN = Math.PI / 180;
@@ -37379,6 +37601,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataFilter(seriesType2) {
   return {
@@ -37414,6 +37637,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/pie/labelLayout.js
@@ -37426,6 +37650,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RADIAN2 = Math.PI / 180;
 function adjustSingleSide(list, cx, cy, r, dir3, viewWidth, viewHeight, viewLeft, viewTop, farthestX) {
@@ -37812,6 +38037,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getSectorCornerRadius(model, shape, zeroIfNull) {
   var cornerRadius = model.get("borderRadius");
@@ -38049,6 +38275,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/createSeriesDataSimply.js
@@ -38061,6 +38288,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createSeriesDataSimply(seriesModel, opt, nameList) {
   opt = isArray(opt) && {
@@ -38085,6 +38313,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LegendVisualProvider = function() {
   function LegendVisualProvider2(getDataWithEncodedVisual, getRawData2) {
@@ -38229,6 +38458,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function negativeDataFilter(seriesType2) {
   return {
@@ -38267,6 +38497,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/scatter/ScatterSeries.js
@@ -38279,6 +38510,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ScatterSeriesModel = function(_super) {
   __extends(ScatterSeriesModel2, _super);
@@ -38352,6 +38584,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/LargeSymbolDraw.js
@@ -38364,6 +38597,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BOOST_SIZE_THRESHOLD = 4;
 var LargeSymbolPathShape = function() {
@@ -38690,6 +38924,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/cartesian/GridModel.js
@@ -38702,6 +38937,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GridModel = function(_super) {
   __extends(GridModel2, _super);
@@ -38737,6 +38973,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CartesianAxisModel = function(_super) {
   __extends(CartesianAxisModel2, _super);
@@ -38761,6 +38998,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/axisDefault.js
@@ -38773,6 +39011,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var defaultOption = {
   show: true,
@@ -38910,6 +39149,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AXIS_TYPES = {
   value: 1,
@@ -38980,6 +39220,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/cartesian/Cartesian2D.js
@@ -38992,6 +39233,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/cartesian/Cartesian.js
@@ -39004,6 +39246,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Cartesian = function() {
   function Cartesian2(name) {
@@ -39151,6 +39394,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Axis2D = function(_super) {
   __extends(Axis2D2, _super);
@@ -39196,6 +39440,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function layout2(gridModel, axisModel, opt) {
   opt = opt || {};
@@ -39273,6 +39518,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathLog2 = Math.log;
 function alignScaleTicks(scale4, axisModel, alignToScale) {
@@ -39732,6 +39978,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axis/AxisBuilder.js
@@ -39744,6 +39991,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI7 = Math.PI;
 var AxisBuilder = function() {
@@ -40215,6 +40463,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/modelHelper.js
@@ -40227,6 +40476,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function collect(ecModel, api) {
   var result = {
@@ -40468,6 +40718,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner7 = makeInner();
 function rectCoordAxisBuildSplitArea(axisView, axisGroup, axisModel, gridModel) {
@@ -40775,6 +41026,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/radar/radarLayout.js
@@ -40787,6 +41039,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function radarLayout(ecModel) {
   ecModel.eachSeriesByType("radar", function(seriesModel) {
@@ -40830,6 +41083,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function radarBackwardCompat(option) {
   var polarOptArr = option.polar;
@@ -40871,6 +41125,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadarView = function(_super) {
   __extends(RadarView3, _super);
@@ -41052,6 +41307,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadarSeriesModel = function(_super) {
   __extends(RadarSeriesModel2, _super);
@@ -41140,6 +41396,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/radar/RadarModel.js
@@ -41152,6 +41409,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var valueAxisDefault = axisDefault_default.value;
 function defaultsShow(opt, show) {
@@ -41260,6 +41518,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var axisBuilderAttrs2 = ["axisLine", "axisTickLabel", "axisName"];
 var RadarView2 = function(_super) {
@@ -41423,6 +41682,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/radar/IndicatorAxis.js
@@ -41435,6 +41695,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var IndicatorAxis = function(_super) {
   __extends(IndicatorAxis2, _super);
@@ -41615,6 +41876,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/map/MapView.js
@@ -41627,6 +41889,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/helper/MapDraw.js
@@ -41639,6 +41902,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/helper/RoamController.js
@@ -41651,6 +41915,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/helper/interactionMutex.js
@@ -41663,6 +41928,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ATTR = "\0_ec_interaction_mutex";
 function take(zr, resourceKey, userKey) {
@@ -41852,6 +42118,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function updateViewOnPan(controllerHost, dx, dy) {
   var target = controllerHost.target;
@@ -41888,6 +42155,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var IRRELEVANT_EXCLUDES = {
   "axisPointer": 1,
@@ -41910,6 +42178,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/geo/GeoSVGResource.js
@@ -41922,6 +42191,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/parseSVG.js
@@ -41934,6 +42204,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/parseXML.js
@@ -41946,6 +42217,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function parseXML(svg) {
   if (isString(svg)) {
@@ -42742,6 +43014,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/geo/fix/nanhai.js
@@ -42754,6 +43027,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var geoCoord = [126, 25];
 var nanhaiName = "\u5357\u6D77\u8BF8\u5C9B";
@@ -42794,6 +43068,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var coordsOffsetMap = {
   "\u5357\u6D77\u8BF8\u5C9B": [32, 80],
@@ -42824,6 +43099,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var points3 = [[[123.45165252685547, 25.73527164402261], [123.49731445312499, 25.73527164402261], [123.49731445312499, 25.750734064600884], [123.45165252685547, 25.750734064600884], [123.45165252685547, 25.73527164402261]]];
 function fixDiaoyuIsland(mapType, region) {
@@ -43556,6 +43832,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var MapSeries = function(_super) {
   __extends(MapSeries2, _super);
@@ -43709,6 +43986,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataStatistics(datas, statisticType) {
   var dataNameMap = {};
@@ -43778,6 +44056,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function mapSymbolLayout(ecModel) {
   var processedMapType = {};
@@ -43828,6 +44107,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/geo/GeoModel.js
@@ -43840,6 +44120,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/geo/geoCreator.js
@@ -43852,6 +44133,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/geo/Geo.js
@@ -43864,6 +44146,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/View.js
@@ -43876,6 +44159,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var v2ApplyTransform = applyTransform;
 var View = function(_super) {
@@ -44476,6 +44760,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getCenterCoord(view, point) {
   return view.pointToProjected ? view.pointToProjected(point) : view.pointToData(point);
@@ -44522,6 +44807,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GeoView = function(_super) {
   __extends(GeoView2, _super);
@@ -44686,6 +44972,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/tree/TreeView.js
@@ -44698,6 +44985,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/tree/layoutHelper.js
@@ -44710,6 +44998,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function init3(inRoot) {
   var root = inRoot;
@@ -45407,6 +45696,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/Tree.js
@@ -45419,6 +45709,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/helper/linkSeriesData.js
@@ -45431,6 +45722,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner8 = makeInner();
 function linkSeriesData(opt) {
@@ -45757,6 +46049,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function retrieveTargetInfo(payload, validPayloadTypes, seriesModel) {
   if (payload && indexOf(validPayloadTypes, payload.type) >= 0) {
@@ -45934,6 +46227,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/tree/traversalHelper.js
@@ -45946,6 +46240,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function eachAfter(root, callback, separation2) {
   var nodes = [root];
@@ -46087,6 +46382,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function treeVisual(ecModel) {
   ecModel.eachSeriesByType("tree", function(seriesModel) {
@@ -46111,6 +46407,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installTreeAction(registers) {
   registers.registerAction({
@@ -46166,6 +46463,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/treemap/treemapAction.js
@@ -46178,6 +46476,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var actionTypes = ["treemapZoomToNode", "treemapRender", "treemapMove"];
 function installTreemapAction(registers) {
@@ -46220,6 +46519,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/enableAriaDecalForTree.js
@@ -46232,6 +46532,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function enableAriaDecalForTree(seriesModel) {
   var data = seriesModel.getData();
@@ -46468,6 +46769,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/treemap/Breadcrumb.js
@@ -46480,6 +46782,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TEXT_PADDING = 8;
 var ITEM_GAP = 8;
@@ -46612,6 +46915,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AnimationWrap = function() {
   function AnimationWrap2() {
@@ -47349,6 +47653,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/visual/VisualMapping.js
@@ -47361,6 +47666,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each4 = each;
 var isObject4 = isObject;
@@ -47863,6 +48169,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathMax8 = Math.max;
 var mathMin8 = Math.min;
@@ -48233,6 +48540,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/graph/categoryFilter.js
@@ -48245,6 +48553,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function categoryFilter(ecModel) {
   var legendModels = ecModel.findComponents({
@@ -48286,6 +48595,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function categoryVisual(ecModel) {
   var paletteScope = {};
@@ -48341,6 +48651,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function normalize3(a) {
   if (!(a instanceof Array)) {
@@ -48397,6 +48708,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/graph/simpleLayoutHelper.js
@@ -48409,6 +48721,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/multipleGraphEdgeHelper.js
@@ -48421,6 +48734,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var KEY_DELIMITER = "-->";
 var getAutoCurvenessParams = function(seriesModel) {
@@ -48607,6 +48921,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/graph/circularLayoutHelper.js
@@ -48619,6 +48934,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/graph/graphHelper.js
@@ -48631,6 +48947,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getNodeGlobalScale(seriesModel) {
   var coordSys = seriesModel.coordinateSystem;
@@ -48745,6 +49062,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/graph/forceHelper.js
@@ -48757,6 +49075,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var scaleAndAdd2 = scaleAndAdd;
 function forceLayout(inNodes, inEdges, opts) {
@@ -48971,6 +49290,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getViewRect3(seriesModel, api, aspect) {
   var option = extend(seriesModel.getBoxLayoutParams(), {
@@ -49034,6 +49354,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/LineDraw.js
@@ -49046,6 +49367,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/Line.js
@@ -49058,6 +49380,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/LinePath.js
@@ -49070,6 +49393,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var straightLineProto = Line_default.prototype;
 var bezierCurveProto = BezierCurve_default.prototype;
@@ -49593,6 +49917,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var v1 = [];
 var v2 = [];
@@ -49929,6 +50254,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/createGraphFromNodeEdge.js
@@ -49941,6 +50267,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/Graph.js
@@ -49953,6 +50280,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function generateNodeKey(id) {
   return "_EC_" + id;
@@ -50537,6 +50865,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/gauge/GaugeView.js
@@ -50549,6 +50878,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/gauge/PointerPath.js
@@ -50561,6 +50891,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PointerShape = function() {
   function PointerShape2() {
@@ -51068,6 +51399,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GaugeSeriesModel = function(_super) {
   __extends(GaugeSeriesModel2, _super);
@@ -51200,6 +51532,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/funnel/FunnelView.js
@@ -51212,6 +51545,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var opacityAccessPath = ["itemStyle", "opacity"];
 var FunnelPiece = function(_super) {
@@ -51368,6 +51702,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var FunnelSeriesModel = function(_super) {
   __extends(FunnelSeriesModel2, _super);
@@ -51458,6 +51793,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getViewRect4(seriesModel, api) {
   return getLayoutRect(seriesModel.getBoxLayoutParams(), {
@@ -51764,6 +52100,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/parallel/ParallelView.js
@@ -51776,6 +52113,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_SMOOTH = 0.3;
 var ParallelView = function(_super) {
@@ -51932,6 +52270,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelSeriesModel = function(_super) {
   __extends(ParallelSeriesModel2, _super);
@@ -52012,6 +52351,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var opacityAccessPath2 = ["lineStyle", "opacity"];
 var parallelVisual = {
@@ -52050,6 +52390,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/parallel/parallelPreprocessor.js
@@ -52062,6 +52403,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function parallelPreprocessor(option) {
   createParallelIfNeeded(option);
@@ -52105,6 +52447,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CLICK_THRESHOLD = 5;
 var ParallelView2 = function(_super) {
@@ -52196,6 +52539,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelModel = function(_super) {
   __extends(ParallelModel2, _super);
@@ -52271,6 +52615,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/parallel/Parallel.js
@@ -52283,6 +52628,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/parallel/ParallelAxis.js
@@ -52295,6 +52641,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelAxis = function(_super) {
   __extends(ParallelAxis2, _super);
@@ -52321,6 +52668,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sliderMove(delta, handleEnds, extent3, handleIndex, minSpan, maxSpan) {
   delta = delta || 0;
@@ -52698,6 +53046,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelAxisModel = function(_super) {
   __extends(ParallelAxisModel2, _super);
@@ -52761,6 +53110,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/helper/BrushController.js
@@ -52773,6 +53123,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BRUSH_PANEL_GLOBAL = true;
 var mathMin10 = Math.min;
@@ -53422,6 +53773,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function makeRectPanelClipPath(rect) {
   rect = normalizeRect(rect);
@@ -53569,6 +53921,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var actionInfo2 = {
   type: "axisAreaSelect",
@@ -53635,6 +53988,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/sankey/SankeyView.js
@@ -53647,6 +54001,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SankeyPathShape = function() {
   function SankeyPathShape2() {
@@ -53897,6 +54252,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SankeySeriesModel = function(_super) {
   __extends(SankeySeriesModel2, _super);
@@ -54055,6 +54411,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sankeyLayout(ecModel, api) {
   ecModel.eachSeriesByType("sankey", function(seriesModel) {
@@ -54447,6 +54804,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sankeyVisual(ecModel) {
   ecModel.eachSeriesByType("sankey", function(seriesModel) {
@@ -54520,6 +54878,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/boxplot/BoxplotSeries.js
@@ -54532,6 +54891,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/whiskerBoxCommon.js
@@ -54544,6 +54904,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var WhiskerBoxCommonMixin = function() {
   function WhiskerBoxCommonMixin2() {
@@ -54684,6 +55045,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BoxplotView = function(_super) {
   __extends(BoxplotView2, _super);
@@ -54816,6 +55178,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function boxplotVisual(ecModel, api) {
 }
@@ -54830,6 +55193,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each7 = each;
 function boxplotLayout(ecModel) {
@@ -54969,6 +55333,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/boxplot/prepareBoxplotData.js
@@ -54981,6 +55346,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function prepareBoxplotData(rawData, opt) {
   opt = opt || {};
@@ -55058,6 +55424,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/candlestick/CandlestickView.js
@@ -55070,6 +55437,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SKIP_PROPS = ["color", "borderColor"];
 var CandlestickView = function(_super) {
@@ -55338,6 +55706,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CandlestickSeriesModel = function(_super) {
   __extends(CandlestickSeriesModel2, _super);
@@ -55413,6 +55782,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function candlestickPreprocessor(option) {
   if (!option || !isArray(option.series)) {
@@ -55435,6 +55805,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var positiveBorderColorQuery = ["itemStyle", "borderColor"];
 var negativeBorderColorQuery = ["itemStyle", "borderColor0"];
@@ -55483,6 +55854,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var candlestickLayout = {
   seriesType: "candlestick",
@@ -55640,6 +56012,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/effectScatter/EffectScatterView.js
@@ -55652,6 +56025,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/EffectSymbol.js
@@ -55664,6 +56038,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function updateRipplePath(rippleGroup, effectCfg) {
   var color = effectCfg.rippleEffectColor || effectCfg.color;
@@ -55870,6 +56245,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EffectScatterSeriesModel = function(_super) {
   __extends(EffectScatterSeriesModel2, _super);
@@ -55929,6 +56305,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/lines/LinesView.js
@@ -55941,6 +56318,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/helper/EffectLine.js
@@ -55953,6 +56331,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EffectLine = function(_super) {
   __extends(EffectLine2, _super);
@@ -56108,6 +56487,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Polyline2 = function(_super) {
   __extends(Polyline3, _super);
@@ -56180,6 +56560,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EffectPolyline = function(_super) {
   __extends(EffectPolyline2, _super);
@@ -56271,6 +56652,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LargeLinesPathShape = function() {
   function LargeLinesPathShape2() {
@@ -56514,6 +56896,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var linesLayout = {
   seriesType: "lines",
@@ -56716,6 +57099,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Uint32Arr = typeof Uint32Array === "undefined" ? Array : Uint32Array;
 var Float64Arr = typeof Float64Array === "undefined" ? Array : Float64Array;
@@ -56970,6 +57354,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function normalize4(a) {
   if (!(a instanceof Array)) {
@@ -57021,6 +57406,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/heatmap/HeatmapView.js
@@ -57033,6 +57419,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/heatmap/HeatmapLayer.js
@@ -57045,6 +57432,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GRADIENT_LEVELS = 256;
 var HeatmapLayer = function() {
@@ -57392,6 +57780,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var HeatmapSeriesModel = function(_super) {
   __extends(HeatmapSeriesModel2, _super);
@@ -57447,6 +57836,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/bar/PictorialBarView.js
@@ -57459,6 +57849,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BAR_BORDER_WIDTH_QUERY = ["itemStyle", "borderWidth"];
 var LAYOUT_ATTRS = [{
@@ -57996,6 +58387,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PictorialBarSeriesModel = function(_super) {
   __extends(PictorialBarSeriesModel2, _super);
@@ -58057,6 +58449,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/themeRiver/ThemeRiverView.js
@@ -58069,6 +58462,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ThemeRiverView = function(_super) {
   __extends(ThemeRiverView2, _super);
@@ -58210,6 +58604,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DATA_NAME_INDEX = 2;
 var ThemeRiverSeriesModel = function(_super) {
@@ -58391,6 +58786,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function themeRiverLayout(ecModel, api) {
   ecModel.eachSeriesByType("themeRiver", function(seriesModel) {
@@ -58506,6 +58902,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/sunburst/SunburstView.js
@@ -58518,6 +58915,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/sunburst/SunburstPiece.js
@@ -58530,6 +58928,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_SECTOR_Z = 2;
 var DEFAULT_TEXT_Z = 4;
@@ -58713,6 +59112,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ROOT_TO_NODE_ACTION = "sunburstRootToNode";
 var HIGHLIGHT_ACTION = "sunburstHighlight";
@@ -58921,6 +59321,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SunburstSeriesModel = function(_super) {
   __extends(SunburstSeriesModel2, _super);
@@ -59056,6 +59457,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RADIAN3 = Math.PI / 180;
 function sunburstLayout(seriesType2, ecModel, api) {
@@ -59210,6 +59612,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sunburstVisual(ecModel) {
   var paletteScope = {};
@@ -59259,6 +59662,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/chart/custom/CustomSeries.js
@@ -59271,6 +59675,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var STYLE_VISUAL_TYPE = {
   color: "fill",
@@ -59327,6 +59732,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/cartesian/prepareCustom.js
@@ -59339,6 +59745,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize(dataSize, dataItem) {
   dataItem = dataItem || [0, 0];
@@ -59378,6 +59785,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize2(dataSize, dataItem) {
   dataItem = dataItem || [0, 0];
@@ -59422,6 +59830,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize3(dataSize, dataItem) {
   var axis = this.getAxis();
@@ -59458,6 +59867,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize4(dataSize, dataItem) {
   dataItem = dataItem || [0, 0];
@@ -59509,6 +59919,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function calendarPrepareCustom(coordSys) {
   var rect = coordSys.getRect();
@@ -59547,6 +59958,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var deprecatedLogs = {};
 function isEC4CompatibleStyle(style, elType, hasOwnTextContentOption, hasOwnTextConfig) {
@@ -59697,6 +60109,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LEGACY_TRANSFORM_PROPS_MAP = {
   position: ["x", "y"],
@@ -60080,6 +60493,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var getStateToRestore = makeInner();
 var KEYFRAME_EXCLUDE_KEYS = ["percent", "easing", "shape", "style", "extra"];
@@ -60819,6 +61233,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/grid/install.js
@@ -60831,6 +61246,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/install.js
@@ -60843,6 +61259,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/CartesianAxisPointer.js
@@ -60855,6 +61272,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/BaseAxisPointer.js
@@ -60867,6 +61285,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner11 = makeInner();
 var clone4 = clone;
@@ -61146,6 +61565,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function buildElStyle(axisPointerModel) {
   var axisPointerType = axisPointerModel.get("type");
@@ -61388,6 +61808,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AxisPointerModel = function(_super) {
   __extends(AxisPointerModel2, _super);
@@ -61455,6 +61876,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/globalListener.js
@@ -61467,6 +61889,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner12 = makeInner();
 var each8 = each;
@@ -61591,6 +62014,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/findPointFromSeries.js
@@ -61603,6 +62027,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function findPointFromSeries(finder, ecModel) {
   var point = [];
@@ -61968,6 +62393,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axisPointer/PolarAxisPointer.js
@@ -61980,6 +62406,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolarAxisPointer = function(_super) {
   __extends(PolarAxisPointer2, _super);
@@ -62086,6 +62513,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolarModel = function(_super) {
   __extends(PolarModel2, _super);
@@ -62125,6 +62553,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolarAxisModel = function(_super) {
   __extends(PolarAxisModel2, _super);
@@ -62169,6 +62598,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/polar/Polar.js
@@ -62181,6 +62611,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/polar/RadiusAxis.js
@@ -62193,6 +62624,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadiusAxis = function(_super) {
   __extends(RadiusAxis2, _super);
@@ -62218,6 +62650,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner14 = makeInner();
 var AngleAxis = function(_super) {
@@ -62496,6 +62929,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var elementList2 = ["axisLine", "axisLabel", "axisTick", "minorTick", "splitLine", "minorSplitLine", "splitArea"];
 function getAxisLineShape(polar, rExtent, angle) {
@@ -62765,6 +63199,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var axisBuilderAttrs3 = ["axisLine", "axisTickLabel", "axisName"];
 var selfBuilderAttrs2 = ["splitLine", "splitArea", "minorSplitLine"];
@@ -62919,6 +63354,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getSeriesStackId2(seriesModel) {
   return seriesModel.get("stack") || "__ec_stack_" + seriesModel.seriesIndex;
@@ -63145,6 +63581,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/axis/SingleAxisView.js
@@ -63157,6 +63594,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/single/singleAxisHelper.js
@@ -63169,6 +63607,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function layout3(axisModel, opt) {
   opt = opt || {};
@@ -63321,6 +63760,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SingleAxisModel = function(_super) {
   __extends(SingleAxisModel2, _super);
@@ -63386,6 +63826,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/single/Single.js
@@ -63398,6 +63839,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/single/SingleAxis.js
@@ -63410,6 +63852,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SingleAxis = function(_super) {
   __extends(SingleAxis2, _super);
@@ -63597,6 +64040,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var XY = ["x", "y"];
 var WH = ["width", "height"];
@@ -63723,6 +64167,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/calendar/CalendarModel.js
@@ -63735,6 +64180,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CalendarModel = function(_super) {
   __extends(CalendarModel2, _super);
@@ -63837,6 +64283,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CalendarView = function(_super) {
   __extends(CalendarView2, _super);
@@ -64167,6 +64614,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PROXIMATE_ONE_DAY = 864e5;
 var Calendar = function() {
@@ -64441,6 +64889,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/graphic/GraphicModel.js
@@ -64453,6 +64902,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function setKeyInfoToNewElOption(resultItem, newElOption) {
   var existElOption = resultItem.existing;
@@ -64618,6 +65068,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var nonShapeGraphicElements = {
   path: null,
@@ -64940,6 +65391,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/installDataZoomSelect.js
@@ -64952,6 +65404,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/SelectZoomModel.js
@@ -64964,6 +65417,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/DataZoomModel.js
@@ -64976,6 +65430,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/helper.js
@@ -64988,6 +65443,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DATA_ZOOM_AXIS_DIMENSIONS = ["x", "y", "radius", "angle", "single"];
 var SERIES_COORDS = ["cartesian2d", "polar", "singleAxis"];
@@ -65386,6 +65842,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/DataZoomView.js
@@ -65398,6 +65855,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DataZoomView = function(_super) {
   __extends(DataZoomView2, _super);
@@ -65439,6 +65897,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/dataZoomProcessor.js
@@ -65451,6 +65910,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/AxisProxy.js
@@ -65463,6 +65923,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each9 = each;
 var asc2 = asc;
@@ -65727,6 +66188,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installDataZoomAction(registers) {
   registers.registerAction("dataZoom", function(payload, ecModel) {
@@ -65773,6 +66235,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/toolbox/featureManager.js
@@ -65785,6 +66248,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ToolboxFeature = function() {
   function ToolboxFeature2() {
@@ -65867,6 +66331,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/helper/listComponent.js
@@ -65879,6 +66344,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function layout4(group, componentModel, api) {
   var boxLayoutParams = componentModel.getBoxLayoutParams();
@@ -66127,6 +66593,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SaveAsImage = function(_super) {
   __extends(SaveAsImage2, _super);
@@ -66220,6 +66687,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var INNER_STACK_KEYWORD = "__ec_magicType_stack__";
 var radioTypes = [["line", "bar"], ["stack"]];
@@ -66377,6 +66845,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BLOCK_SPLITER = new Array(60).join("-");
 var ITEM_SPLITER = "	";
@@ -66743,6 +67212,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/history.js
@@ -66755,6 +67225,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each10 = each;
 var inner16 = makeInner();
@@ -66858,6 +67329,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/helper/BrushTargetManager.js
@@ -66870,6 +67342,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var INCLUDE_FINDER_MAIN_TYPES = ["grid", "xAxis", "yAxis", "geo", "graph", "polar", "radiusAxis", "angleAxis", "bmap"];
 var BrushTargetManager = function() {
@@ -67339,6 +67812,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/tooltip/TooltipModel.js
@@ -67351,6 +67825,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TooltipModel = function(_super) {
   __extends(TooltipModel2, _super);
@@ -67416,6 +67891,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/tooltip/TooltipHTMLContent.js
@@ -67428,6 +67904,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/tooltip/helper.js
@@ -67440,6 +67917,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function shouldTooltipConfine(tooltipModel) {
   var confineOption = tooltipModel.get("confine");
@@ -67761,6 +68239,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TooltipRichContent = function() {
   function TooltipRichContent2(api) {
@@ -68582,6 +69061,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/brush/preprocessor.js
@@ -68594,6 +69074,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_TOOLBOX_BTNS = ["rect", "polygon", "keep", "clear"];
 function brushPreprocessor(option, isNew) {
@@ -68648,6 +69129,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/brush/visualEncoding.js
@@ -68660,6 +69142,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/visual/visualSolution.js
@@ -68672,6 +69155,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each12 = each;
 function hasKeys(obj) {
@@ -68809,6 +69293,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function makeBrushCommonSelectorForSeries(area) {
   var brushType = area.brushType;
@@ -69117,6 +69602,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_OUT_OF_BRUSH_COLOR = "#ddd";
 var BrushModel = function(_super) {
@@ -69198,6 +69684,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ICON_TYPES = ["rect", "polygon", "lineX", "lineY", "keep", "clear"];
 var BrushFeature = function(_super) {
@@ -69323,6 +69810,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TitleModel = function(_super) {
   __extends(TitleModel2, _super);
@@ -69498,6 +69986,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/timeline/SliderTimelineModel.js
@@ -69510,6 +69999,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/timeline/TimelineModel.js
@@ -69522,6 +70012,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TimelineModel = function(_super) {
   __extends(TimelineModel2, _super);
@@ -69745,6 +70236,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/timeline/TimelineView.js
@@ -69757,6 +70249,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TimelineView = function(_super) {
   __extends(TimelineView2, _super);
@@ -69780,6 +70273,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TimelineAxis = function(_super) {
   __extends(TimelineAxis2, _super);
@@ -70353,6 +70847,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installTimelineAction(registers) {
   registers.registerAction({
@@ -70401,6 +70896,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function timelinePreprocessor(option) {
   var timelineOpt = option && option.timeline;
@@ -70489,6 +70985,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/marker/checkMarkerInSeries.js
@@ -70501,6 +70998,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function checkMarkerInSeries(seriesOpts, markerType) {
   if (!seriesOpts) {
@@ -70525,6 +71023,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/marker/MarkerModel.js
@@ -70537,6 +71036,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function fillLabel(opt) {
   defaultEmphasis(opt, "label", ["show"]);
@@ -70682,6 +71182,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/marker/markerHelper.js
@@ -70694,6 +71195,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function hasXOrY(item) {
   return !(isNaN(parseFloat(item.x)) && isNaN(parseFloat(item.y)));
@@ -70812,6 +71314,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner18 = makeInner();
 var MarkerView = function(_super) {
@@ -71009,6 +71512,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/marker/MarkLineModel.js
@@ -71021,6 +71525,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var MarkLineModel = function(_super) {
   __extends(MarkLineModel2, _super);
@@ -71074,6 +71579,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner19 = makeInner();
 var markLineTransform = function(seriesModel, coordSys, mlModel, item) {
@@ -71353,6 +71859,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/marker/MarkAreaModel.js
@@ -71365,6 +71872,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var MarkAreaModel = function(_super) {
   __extends(MarkAreaModel2, _super);
@@ -71411,6 +71919,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner20 = makeInner();
 var markAreaTransform = function(seriesModel, coordSys, maModel, item) {
@@ -71684,6 +72193,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/legend/installLegendPlain.js
@@ -71696,6 +72206,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/legend/LegendModel.js
@@ -71708,6 +72219,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var getDefaultSelectorOptions = function(ecModel, type) {
   if (type === "all") {
@@ -71954,6 +72466,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var curry2 = curry;
 var each13 = each;
@@ -72346,6 +72859,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function legendFilter(ecModel) {
   var legendModels = ecModel.findComponents({
@@ -72373,6 +72887,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function legendSelectActionHandler(methodName, payload, ecModel) {
   var selectedMap = {};
@@ -72437,6 +72952,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/legend/ScrollableLegendModel.js
@@ -72449,6 +72965,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ScrollableLegendModel = function(_super) {
   __extends(ScrollableLegendModel2, _super);
@@ -72511,6 +73028,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Group4 = Group_default;
 var WH2 = ["width", "height"];
@@ -72808,6 +73326,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installScrollableLegendAction(registers) {
   registers.registerAction("legendScroll", "legendscroll", function(payload, ecModel) {
@@ -72846,6 +73365,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/installDataZoomInside.js
@@ -72858,6 +73378,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/InsideZoomModel.js
@@ -72870,6 +73391,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var InsideZoomModel = function(_super) {
   __extends(InsideZoomModel2, _super);
@@ -72901,6 +73423,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/roams.js
@@ -72913,6 +73436,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner21 = makeInner();
 function setViewInfoToCoordSysRecord(api, dataZoomModel, getRange) {
@@ -73222,6 +73746,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/dataZoom/SliderZoomModel.js
@@ -73234,6 +73759,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SliderZoomModel = function(_super) {
   __extends(SliderZoomModel2, _super);
@@ -73322,6 +73848,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Rect3 = Rect_default;
 var DEFAULT_LOCATION_EDGE_GAP = 7;
@@ -74029,6 +74556,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/visualMap/installVisualMapContinuous.js
@@ -74041,6 +74569,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/visualMap/ContinuousModel.js
@@ -74053,6 +74582,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/visualMap/VisualMapModel.js
@@ -74065,6 +74595,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/visual/visualDefault.js
@@ -74077,6 +74608,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var visualDefault = {
   get: function(visualType, key, isCategory2) {
@@ -74543,6 +75075,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/visualMap/VisualMapView.js
@@ -74555,6 +75088,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var VisualMapView = function(_super) {
   __extends(VisualMapView2, _super);
@@ -74655,6 +75189,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var paramsSet = [["left", "right", "width"], ["top", "bottom", "height"]];
 function getItemAlign(visualMapModel, api, itemSize) {
@@ -75261,6 +75796,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/visualMap/visualMapAction.js
@@ -75273,6 +75809,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var visualMapActionInfo = {
   type: "selectDataRange",
@@ -75298,6 +75835,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var visualMapEncodingHandlers = [
   {
@@ -75366,6 +75904,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each16 = each;
 function visualMapPreprocessor(option) {
@@ -75434,6 +75973,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/visualMap/PiecewiseModel.js
@@ -75446,6 +75986,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PiecewiseModel = function(_super) {
   __extends(PiecewiseModel2, _super);
@@ -75778,6 +76319,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PiecewiseVisualMapView = function(_super) {
   __extends(PiecewiseVisualMapView2, _super);
@@ -75957,6 +76499,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/visual/aria.js
@@ -75969,6 +76512,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_OPTION = {
   label: {
@@ -76155,6 +76699,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function ariaPreprocessor(option) {
   if (!option || !option.aria) {
@@ -76188,6 +76733,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/component/transform/filterTransform.js
@@ -76200,6 +76746,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/util/conditionalExpression.js
@@ -76212,6 +76759,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RELATIONAL_EXPRESSION_OP_ALIAS_MAP = {
   value: "eq",
@@ -76470,6 +77018,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var sampleLog = "";
 if (true) {
@@ -76589,6 +77138,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DatasetModel = function(_super) {
   __extends(DatasetModel2, _super);
@@ -76643,6 +77193,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/animation/universalTransition.js
@@ -76655,6 +77206,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/animation/morphTransitionHelper.js
@@ -76667,6 +77219,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/morphPath.js
@@ -76679,6 +77232,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/dividePath.js
@@ -76691,6 +77245,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/convertPath.js
@@ -76703,6 +77258,7 @@ init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CMD5 = PathProxy_default.CMD;
 function aroundEqual(a, b) {
