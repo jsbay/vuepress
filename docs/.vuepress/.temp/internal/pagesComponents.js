@@ -9,10 +9,6 @@ export const pagesComponents = {
   "v-ccb9f3ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-ccb9f3ac" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/git/oh-my-zsh-alias.html.vue")),
   // path: /sys/linux/
   "v-7fc12214": defineAsyncComponent(() => import(/* webpackChunkName: "v-7fc12214" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/linux/index.html.vue")),
-  // path: /sys/mac/
-  "v-48a8b8bb": defineAsyncComponent(() => import(/* webpackChunkName: "v-48a8b8bb" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/mac/index.html.vue")),
-  // path: /sys/win/
-  "v-48ad63ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.vue")),
   // path: /web/vue2/PWA.html
   "v-0e22b024": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e22b024" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/PWA.html.vue")),
   // path: /web/vue2/
@@ -35,6 +31,10 @@ export const pagesComponents = {
   "v-05ed259b": defineAsyncComponent(() => import(/* webpackChunkName: "v-05ed259b" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/v-for-v-if.html.vue")),
   // path: /web/vue2/webpack.html
   "v-9212b00a": defineAsyncComponent(() => import(/* webpackChunkName: "v-9212b00a" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/webpack.html.vue")),
+  // path: /sys/mac/
+  "v-48a8b8bb": defineAsyncComponent(() => import(/* webpackChunkName: "v-48a8b8bb" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/mac/index.html.vue")),
+  // path: /sys/win/
+  "v-48ad63ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

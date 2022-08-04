@@ -18,7 +18,7 @@ export default defineUserConfig({
       apiKey: '2f0ea4e8b9b0b084fe24c63a5c942ebc',
       indexName: 'jsbay',
       locales: {
-        "/zh/": {
+        "/": {
           placeholder: "搜索文档",
           translations: {
             button: {

@@ -7,10 +7,6 @@ export const pagesData = {
   "v-ccb9f3ac": () => import(/* webpackChunkName: "v-ccb9f3ac" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/git/oh-my-zsh-alias.html.js").then(({ data }) => data),
   // path: /sys/linux/
   "v-7fc12214": () => import(/* webpackChunkName: "v-7fc12214" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/linux/index.html.js").then(({ data }) => data),
-  // path: /sys/mac/
-  "v-48a8b8bb": () => import(/* webpackChunkName: "v-48a8b8bb" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/mac/index.html.js").then(({ data }) => data),
-  // path: /sys/win/
-  "v-48ad63ce": () => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.js").then(({ data }) => data),
   // path: /web/vue2/PWA.html
   "v-0e22b024": () => import(/* webpackChunkName: "v-0e22b024" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/PWA.html.js").then(({ data }) => data),
   // path: /web/vue2/
@@ -33,6 +29,10 @@ export const pagesData = {
   "v-05ed259b": () => import(/* webpackChunkName: "v-05ed259b" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/v-for-v-if.html.js").then(({ data }) => data),
   // path: /web/vue2/webpack.html
   "v-9212b00a": () => import(/* webpackChunkName: "v-9212b00a" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/webpack.html.js").then(({ data }) => data),
+  // path: /sys/mac/
+  "v-48a8b8bb": () => import(/* webpackChunkName: "v-48a8b8bb" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/mac/index.html.js").then(({ data }) => data),
+  // path: /sys/win/
+  "v-48ad63ce": () => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
