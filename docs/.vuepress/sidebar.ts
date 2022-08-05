@@ -15,4 +15,5 @@ export default sidebar({
   "/sys/mac/": [],
   "/sys/win/": [],
   "/sys/linux/": [],
+  "/other/git/": ['oh-my-zsh-alias', 'multiple-remote', 'frontend-git-commit-constraints'],
 });

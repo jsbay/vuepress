@@ -43,4 +43,16 @@ export default navbar([
       }
     ],
   },
+  {
+    text: "其它",
+    icon: "other",
+    prefix: "/other/",
+    children: [
+      {
+        text: "git",
+        icon: "edit",
+        link: 'git',
+      },
+    ],
+  },
 ]);
