@@ -5,6 +5,10 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /home.html
   "v-79fdd481": defineAsyncComponent(() => import(/* webpackChunkName: "v-79fdd481" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/home.html.vue")),
+  // path: /weixin/
+  "v-99378618": defineAsyncComponent(() => import(/* webpackChunkName: "v-99378618" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/weixin/index.html.vue")),
+  // path: /weixin/regex.html
+  "v-0be500e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-0be500e6" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/weixin/regex.html.vue")),
   // path: /other/git/
   "v-7ae11416": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ae11416" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/other/git/index.html.vue")),
   // path: /other/git/frontend-git-commit-constraints.html
@@ -15,10 +19,10 @@ export const pagesComponents = {
   "v-7299c4ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-7299c4ee" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/other/git/oh-my-zsh-alias.html.vue")),
   // path: /sys/linux/
   "v-7fc12214": defineAsyncComponent(() => import(/* webpackChunkName: "v-7fc12214" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/linux/index.html.vue")),
-  // path: /sys/win/
-  "v-48ad63ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.vue")),
   // path: /sys/mac/
   "v-48a8b8bb": defineAsyncComponent(() => import(/* webpackChunkName: "v-48a8b8bb" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/mac/index.html.vue")),
+  // path: /sys/win/
+  "v-48ad63ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.vue")),
   // path: /web/vue2/PWA.html
   "v-0e22b024": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e22b024" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/PWA.html.vue")),
   // path: /web/vue2/

@@ -44,6 +44,18 @@ export default navbar([
     ],
   },
   {
+    text: "微信",
+    icon: "weixin",
+    prefix: "/weixin/",
+    children: [
+      {
+        text: "regex",
+        icon: "edit",
+        link: 'regex',
+      },
+    ],
+  },
+  {
     text: "其它",
     icon: "other",
     prefix: "/other/",

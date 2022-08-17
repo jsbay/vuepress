@@ -3,6 +3,10 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /home.html
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
+  // path: /weixin/
+  "v-99378618": () => import(/* webpackChunkName: "v-99378618" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/weixin/index.html.js").then(({ data }) => data),
+  // path: /weixin/regex.html
+  "v-0be500e6": () => import(/* webpackChunkName: "v-0be500e6" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/weixin/regex.html.js").then(({ data }) => data),
   // path: /other/git/
   "v-7ae11416": () => import(/* webpackChunkName: "v-7ae11416" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/other/git/index.html.js").then(({ data }) => data),
   // path: /other/git/frontend-git-commit-constraints.html
@@ -13,10 +17,10 @@ export const pagesData = {
   "v-7299c4ee": () => import(/* webpackChunkName: "v-7299c4ee" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/other/git/oh-my-zsh-alias.html.js").then(({ data }) => data),
   // path: /sys/linux/
   "v-7fc12214": () => import(/* webpackChunkName: "v-7fc12214" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/linux/index.html.js").then(({ data }) => data),
-  // path: /sys/win/
-  "v-48ad63ce": () => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.js").then(({ data }) => data),
   // path: /sys/mac/
   "v-48a8b8bb": () => import(/* webpackChunkName: "v-48a8b8bb" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/mac/index.html.js").then(({ data }) => data),
+  // path: /sys/win/
+  "v-48ad63ce": () => import(/* webpackChunkName: "v-48ad63ce" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/sys/win/index.html.js").then(({ data }) => data),
   // path: /web/vue2/PWA.html
   "v-0e22b024": () => import(/* webpackChunkName: "v-0e22b024" */"/Users/baizhanying/Github/vuepress-hope/docs/.vuepress/.temp/pages/web/vue2/PWA.html.js").then(({ data }) => data),
   // path: /web/vue2/
