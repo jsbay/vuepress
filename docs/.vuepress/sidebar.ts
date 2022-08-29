@@ -13,7 +13,7 @@ export default sidebar({
     "mock",
   ],
   "/sys/mac/": [],
-  "/sys/win/": [],
+  "/sys/win/": ['nginx2service'],
   "/sys/linux/": [],
   "/other/git/": ['oh-my-zsh-alias', 'multiple-remote', 'frontend-git-commit-constraints'],
 });

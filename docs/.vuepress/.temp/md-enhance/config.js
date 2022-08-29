@@ -1,17 +1,17 @@
 import { defineClientConfig } from "@vuepress/client";
-import ChartJS from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS";
-import ECharts from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts";
-import CodeDemo from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo";
-import CodeTabs from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs";
-import FlowChart from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
-import Mermaid from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
-import Presentation from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
-import "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
-import "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
-import "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
-import Tabs from "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs";
-import "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
-import "C:/Users/baymax/Desktop/项目/vuepress/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tex.scss";
+import ChartJS from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS";
+import ECharts from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts";
+import CodeDemo from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo";
+import CodeTabs from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs";
+import FlowChart from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
+import Mermaid from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
+import Presentation from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
+import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
+import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
+import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
+import Tabs from "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs";
+import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
+import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tex.scss";
 
 
 export default defineClientConfig({
