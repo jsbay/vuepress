@@ -65,6 +65,11 @@ export default navbar([
         icon: "edit",
         link: 'git',
       },
+      {
+        text: "git",
+        icon: "edit",
+        link: 'git',
+      },
     ],
   },
 ]);
