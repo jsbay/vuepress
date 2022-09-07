@@ -137,7 +137,7 @@ import {
   withMemo,
   withModifiers,
   withScopeId
-} from "./chunk-Y7VAN4VY.js";
+} from "./chunk-IU5U32L3.js";
 import {
   camelize,
   capitalize,
@@ -146,33 +146,8 @@ import {
   normalizeStyle,
   toDisplayString,
   toHandlerKey
-} from "./chunk-ERUOHHIY.js";
-import {
-  init_define_BACK_TO_TOP_LOCALES,
-  init_define_CODE_COPY_LOCALES,
-  init_define_CODE_COPY_OPTIONS,
-  init_define_CODE_DEMO_OPTIONS,
-  init_define_DOCSEARCH_OPTIONS,
-  init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MERMAID_OPTIONS,
-  init_define_PHOTO_SWIPE_LOCALES,
-  init_define_PHOTO_SWIPE_OPTIONS,
-  init_define_READING_TIME_LOCALES,
-  init_define_REVEAL_CONFIG
-} from "./chunk-IO7YTCG3.js";
-
-// dep:vue
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
+} from "./chunk-XYQ66V4O.js";
+import "./chunk-KKNQZGBY.js";
 export {
   BaseTransition,
   Comment,

@@ -1,24 +1,19 @@
 # 将 nginx 注册为系统服务
 
-## 下载 nginx
+## nginx 下载及安装
 
-下载地址 https://nginx.org/en/download.html
+1. 下载地址 https://nginx.org/en/download.html
 
 ![](./img/nginx-1.jpg)
 
-## 下载 winsw
+2. 将 下载的 `nginx.zip` 解压`目录 A`(自定义)
 
-下载地址 https://repo.jenkins-ci.org/releases/com/sun/winsw/winsw/
+## winsw 下载及配置
 
-## 安装 nginx
+1. 下载地址 https://repo.jenkins-ci.org/releases/com/sun/winsw/winsw/
 
-将 下载的 `nginx.zip` 解压`目录 A`(自定义)
-
-## 配置 winsw
-
-- 将下载的 `winsw-xxx-bin.exe` 复制到 `目录 A`
-- 将 `winsw-xxx-bin.exe` 命名为 `nginx-service.exe`
-- 新建 `nginx-service.xml`
+- 将下载的 `winsw-xxx-bin.exe`, 命名为 `nginx-service.exe`, 并复制到 `目录 A`
+- `目录 A` 新建 `nginx-service.xml`
 
 ```xml
 <service>
@@ -38,3 +33,9 @@
   - 卸载服务 执行 `nginx-service.exe uninstall`
 
 - `win+r` 输入 `services.msc` 打开服务窗口, 启动 `nginx`
+
+## 部署脚本
+
+:::info 部署脚本
+[地址](../../web/vue2/depoly.md#部署到-nginx)
+:::

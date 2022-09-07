@@ -4,10 +4,10 @@
 <CodeTabs :data='[{"title":"yarn"},{"title":"npm"}]' :active="0" tab-id="bash">
 
 <template #tab0="{ title, value, isActive }">
-<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token function">yarn</span> <span class="token function">add</span> terser-webpack-plugin -D
+<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token function">yarn</span> <span class="token function">add</span> terser-webpack-plugin <span class="token parameter variable">-D</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div></template>
 <template #tab1="{ title, value, isActive }">
-<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token function">npm</span> <span class="token function">install</span> terser-webpack-plugin -D
+<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token function">npm</span> <span class="token function">install</span> terser-webpack-plugin <span class="token parameter variable">-D</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div></template>
 </CodeTabs>
 <h3 id="vue-config-js-配置" tabindex="-1"><a class="header-anchor" href="#vue-config-js-配置" aria-hidden="true">#</a> vue.config.js 配置</h3>
@@ -33,3 +33,5 @@ module<span class="token punctuation">.</span>exports <span class="token operato
   <span class="token punctuation">}</span><span class="token punctuation">,</span>
 <span class="token punctuation">}</span><span class="token punctuation">;</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
+
+

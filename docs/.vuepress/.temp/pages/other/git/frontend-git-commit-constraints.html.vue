@@ -1,6 +1,7 @@
 <template><div><h1 id="前端项目-git-提交约束" tabindex="-1"><a class="header-anchor" href="#前端项目-git-提交约束" aria-hidden="true">#</a> 前端项目 git 提交约束</h1>
 <p><a href="https://juejin.cn/post/7041768022284976165" target="_blank" rel="noopener noreferrer">用 Eslint+Prettier+husky+commitlint+lint-staged+commitizen 快速搭建标准化编程规范项目<ExternalLinkIcon/></a></p>
-<div class="custom-container tip"><p class="custom-container-title">提示</p>
+<div class="custom-container tip">
+<p class="custom-container-title">提示</p>
 <ul>
 <li><code v-pre>commitizen</code> : 提供 <code v-pre>cli</code>; 通过<code v-pre>cli</code>提交， 从而规范标准的 git 提交方式， 一般<strong>全局安装</strong></li>
 <li><code v-pre>cz-customizable</code> : 对 <code v-pre>commitizen</code> 进行自定义配置</li>
@@ -66,3 +67,5 @@ module<span class="token punctuation">.</span>exports <span class="token operato
   <span class="token literal-property property">subjectLimit</span><span class="token operator">:</span> <span class="token number">72</span><span class="token punctuation">,</span>
 <span class="token punctuation">}</span><span class="token punctuation">;</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
+
+

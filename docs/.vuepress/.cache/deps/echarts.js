@@ -1,82 +1,8 @@
 import {
-  __export,
-  init_define_BACK_TO_TOP_LOCALES,
-  init_define_CODE_COPY_LOCALES,
-  init_define_CODE_COPY_OPTIONS,
-  init_define_CODE_DEMO_OPTIONS,
-  init_define_DOCSEARCH_OPTIONS,
-  init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MERMAID_OPTIONS,
-  init_define_PHOTO_SWIPE_LOCALES,
-  init_define_PHOTO_SWIPE_OPTIONS,
-  init_define_READING_TIME_LOCALES,
-  init_define_REVEAL_CONFIG
-} from "./chunk-IO7YTCG3.js";
-
-// dep:echarts
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/index.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/extension.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/core/echarts.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
+  __export
+} from "./chunk-KKNQZGBY.js";
 
 // node_modules/tslib/tslib.es6.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var extendStatics = function(d, b) {
   extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b2) {
     d2.__proto__ = b2;
@@ -107,30 +33,8 @@ __export(zrender_exports, {
   registerPainter: () => registerPainter,
   version: () => version
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/env.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Browser = function() {
   function Browser2() {
     this.firefox = false;
@@ -255,30 +159,8 @@ __export(util_exports, {
   slice: () => slice,
   trim: () => trim
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/platform.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_FONT_SIZE = 12;
 var DEFAULT_FONT_FAMILY = "sans-serif";
 var DEFAULT_FONT = DEFAULT_FONT_SIZE + "px " + DEFAULT_FONT_FAMILY;
@@ -817,19 +699,6 @@ function noop() {
 }
 var RADIAN_TO_DEGREE = 180 / Math.PI;
 
-// node_modules/zrender/lib/Handler.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/vector.js
 var vector_exports = {};
 __export(vector_exports, {
@@ -859,17 +728,6 @@ __export(vector_exports, {
   set: () => set,
   sub: () => sub
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function create(x, y) {
   if (x == null) {
     x = 0;
@@ -981,17 +839,6 @@ function max(out2, v12, v22) {
 }
 
 // node_modules/zrender/lib/mixin/Draggable.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Param = function() {
   function Param2(target, e2) {
     this.target = target;
@@ -1060,17 +907,6 @@ var Draggable = function() {
 var Draggable_default = Draggable;
 
 // node_modules/zrender/lib/core/Eventful.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Eventful = function() {
   function Eventful2(eventProcessors) {
     if (eventProcessors) {
@@ -1223,44 +1059,7 @@ var Eventful = function() {
 }();
 var Eventful_default = Eventful;
 
-// node_modules/zrender/lib/core/event.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/core/dom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/fourPointsTransform.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LN2 = Math.log(2);
 function determinant(rows, rank, rowStart, rowMask, colMask, detCache) {
   var cacheKey = rowMask + "-" + colMask;
@@ -1483,17 +1282,6 @@ function isMiddleOrRightButtonOnMouseUpDown(e2) {
 }
 
 // node_modules/zrender/lib/core/GestureMgr.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GestureMgr = function() {
   function GestureMgr2() {
     this._track = [];
@@ -1820,31 +1608,7 @@ function isOutsideBoundary(handlerInstance, x, y) {
 }
 var Handler_default = Handler;
 
-// node_modules/zrender/lib/Storage.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/timsort.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_MIN_MERGE = 32;
 var DEFAULT_MIN_GALLOPING = 7;
 var DEFAULT_TMP_STORAGE_LENGTH = 256;
@@ -2363,17 +2127,6 @@ function sort(array, compare2, lo, hi) {
 }
 
 // node_modules/zrender/lib/graphic/constants.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var REDRAW_BIT = 1;
 var STYLE_CHANGED_BIT = 2;
 var SHAPE_CHANGED_BIT = 4;
@@ -2531,75 +2284,14 @@ var Storage = function() {
 }();
 var Storage_default = Storage;
 
-// node_modules/zrender/lib/animation/Animation.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/animation/requestAnimationFrame.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var requestAnimationFrame;
 requestAnimationFrame = env_default.hasGlobalWindow && (window.requestAnimationFrame && window.requestAnimationFrame.bind(window) || window.msRequestAnimationFrame && window.msRequestAnimationFrame.bind(window) || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame) || function(func) {
   return setTimeout(func, 16);
 };
 var requestAnimationFrame_default = requestAnimationFrame;
 
-// node_modules/zrender/lib/animation/Animator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/animation/Clip.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/animation/easing.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var easingFuncs = {
   linear: function(k) {
     return k;
@@ -2786,31 +2478,7 @@ var easingFuncs = {
 };
 var easing_default = easingFuncs;
 
-// node_modules/zrender/lib/animation/cubicEasing.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/curve.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathPow = Math.pow;
 var mathSqrt = Math.sqrt;
 var EPSILON = 1e-8;
@@ -3235,30 +2903,8 @@ __export(color_exports, {
   stringify: () => stringify,
   toHex: () => toHex
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/LRU.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Entry = function() {
   function Entry2(val) {
     this.value = val;
@@ -3829,17 +3475,6 @@ function random() {
 }
 
 // node_modules/zrender/lib/svg/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathRound = Math.round;
 function normalizeColor(color) {
   var opacity;
@@ -4803,17 +4438,6 @@ var Animation = function(_super) {
 var Animation_default = Animation;
 
 // node_modules/zrender/lib/dom/HandlerProxy.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TOUCH_CLICK_DELAY = 300;
 var globalEventSupported = env_default.domSupported;
 var localNativeListenerNames = function() {
@@ -5109,17 +4733,6 @@ var HandlerDomProxy = function(_super) {
 var HandlerProxy_default = HandlerDomProxy;
 
 // node_modules/zrender/lib/config.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var dpr = 1;
 if (env_default.hasGlobalWindow) {
   dpr = Math.max(window.devicePixelRatio || window.screen && window.screen.deviceXDPI / window.screen.logicalXDPI || 1, 1);
@@ -5129,45 +4742,6 @@ var DARK_MODE_THRESHOLD = 0.4;
 var DARK_LABEL_COLOR = "#333";
 var LIGHT_LABEL_COLOR = "#ccc";
 var LIGHTER_LABEL_COLOR = "#eee";
-
-// node_modules/zrender/lib/graphic/Group.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/Element.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/core/Transformable.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/core/matrix.js
 var matrix_exports = {};
@@ -5182,17 +4756,6 @@ __export(matrix_exports, {
   scale: () => scale2,
   translate: () => translate
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function create2() {
   return [1, 0, 0, 1, 0, 0];
 }
@@ -5520,31 +5083,7 @@ function copyTransform(target, source) {
 }
 var Transformable_default = Transformable;
 
-// node_modules/zrender/lib/core/BoundingRect.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/Point.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Point = function() {
   function Point2(x, y) {
     this.x = x || 0;
@@ -5877,17 +5416,6 @@ var BoundingRect = function() {
 var BoundingRect_default = BoundingRect;
 
 // node_modules/zrender/lib/contain/text.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var textWidthCache = {};
 function getWidth(text, font) {
   font = font || DEFAULT_FONT;
@@ -7438,44 +6966,7 @@ function registerPainter(name, Ctor) {
 }
 var version = "5.3.2";
 
-// node_modules/echarts/lib/model/Global.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/util/model.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/number.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RADIAN_EPSILON = 1e-4;
 var ROUND_SUPPORTED_PRECISION_MAX = 20;
 function _trim(str) {
@@ -7767,17 +7258,6 @@ function getLeastCommonMultiple(a, b) {
 }
 
 // node_modules/echarts/lib/util/log.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ECHARTS_PREFIX = "[ECharts] ";
 var storedLogs = {};
 var hasConsole = typeof console !== "undefined" && console.warn && console.log;
@@ -8290,31 +7770,7 @@ function interpolateRawValues(data, precision, sourceValue, targetValue, percent
   }
 }
 
-// node_modules/echarts/lib/model/Model.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/clazz.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TYPE_DELIMITER = ".";
 var IS_CONTAINER = "___EC__COMPONENT__CONTAINER___";
 var IS_EXTENDED_CLASS = "___EC__EXTENDED_CLASS___";
@@ -8469,31 +7925,7 @@ function enableClassManagement(target) {
   }
 }
 
-// node_modules/echarts/lib/model/mixin/areaStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/model/mixin/makeStyleMapper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function makeStyleMapper(properties, ignoreParent) {
   for (var i = 0; i < properties.length; i++) {
     if (!properties[i][1]) {
@@ -8536,70 +7968,7 @@ var AreaStyleMixin = function() {
   return AreaStyleMixin2;
 }();
 
-// node_modules/echarts/lib/model/mixin/textStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/label/labelStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/graphic/Text.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/graphic/helper/parseText.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/graphic/helper/image.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var globalImageCache = new LRU_default(50);
 function findExistImage(newImageOrSrc) {
   if (typeof newImageOrSrc === "string") {
@@ -9088,31 +8457,7 @@ function wrapText(text, font, lineWidth, isBreakAll, lastAccumWidth) {
   };
 }
 
-// node_modules/zrender/lib/graphic/TSpan.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/graphic/Displayable.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var STYLE_MAGIC_KEY = "__zr_style_" + Math.round(Math.random() * 10);
 var DEFAULT_COMMON_STYLE = {
   shadowBlur: 0,
@@ -9419,44 +8764,7 @@ function isDisplayableCulled(el, width, height) {
 }
 var Displayable_default = Displayable;
 
-// node_modules/zrender/lib/graphic/Path.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/core/PathProxy.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/bbox.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathMin2 = Math.min;
 var mathMax2 = Math.max;
 var mathSin = Math.sin;
@@ -10268,31 +9576,7 @@ var PathProxy = function() {
 }();
 var PathProxy_default = PathProxy;
 
-// node_modules/zrender/lib/contain/path.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/contain/line.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function containStroke(x0, y0, x1, y1, lineWidth, x, y) {
   if (lineWidth === 0) {
     return false;
@@ -10315,17 +9599,6 @@ function containStroke(x0, y0, x1, y1, lineWidth, x, y) {
 }
 
 // node_modules/zrender/lib/contain/cubic.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function containStroke2(x0, y0, x1, y1, x2, y2, x3, y3, lineWidth, x, y) {
   if (lineWidth === 0) {
     return false;
@@ -10339,17 +9612,6 @@ function containStroke2(x0, y0, x1, y1, x2, y2, x3, y3, lineWidth, x, y) {
 }
 
 // node_modules/zrender/lib/contain/quadratic.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function containStroke3(x0, y0, x1, y1, x2, y2, lineWidth, x, y) {
   if (lineWidth === 0) {
     return false;
@@ -10362,31 +9624,7 @@ function containStroke3(x0, y0, x1, y1, x2, y2, lineWidth, x, y) {
   return d <= _l / 2;
 }
 
-// node_modules/zrender/lib/contain/arc.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/contain/util.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI23 = Math.PI * 2;
 function normalizeRadian(angle) {
   angle %= PI23;
@@ -10431,17 +9669,6 @@ function containStroke4(cx, cy, r, startAngle, endAngle, anticlockwise, lineWidt
 }
 
 // node_modules/zrender/lib/contain/windingLine.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function windingLine(x0, y0, x1, y1, x, y) {
   if (y > y0 && y > y1 || y < y0 && y < y1) {
     return 0;
@@ -11180,17 +10407,6 @@ TSpan.prototype.type = "tspan";
 var TSpan_default = TSpan;
 
 // node_modules/zrender/lib/graphic/Image.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_IMAGE_STYLE = defaults({
   x: 0,
   y: 0
@@ -11257,31 +10473,7 @@ var ZRImage = function(_super) {
 ZRImage.prototype.type = "image";
 var Image_default = ZRImage;
 
-// node_modules/zrender/lib/graphic/shape/Rect.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/graphic/helper/roundRect.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function buildPath(ctx, shape) {
   var x = shape.x;
   var y = shape.y;
@@ -11354,17 +10546,6 @@ function buildPath(ctx, shape) {
 }
 
 // node_modules/zrender/lib/graphic/helper/subPixelOptimize.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var round2 = Math.round;
 function subPixelOptimizeLine(outputShape, inputShape, style) {
   if (!inputShape) {
@@ -11962,31 +11143,7 @@ function needDrawBackground(style) {
 }
 var Text_default = ZRText;
 
-// node_modules/echarts/lib/util/states.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/innerStore.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var getECData = makeInner();
 var setCommonECData = function(seriesIndex, dataType, dataIdx, el) {
   if (el) {
@@ -12600,43 +11757,8 @@ __export(graphic_exports, {
   traverseElements: () => traverseElements,
   updateProps: () => updateProps
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/tool/path.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/zrender/lib/tool/transformPath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CMD3 = PathProxy_default.CMD;
 var points = [[], [], []];
 var mathSqrt2 = Math.sqrt;
@@ -13071,17 +12193,6 @@ function clonePath(sourcePath, opts) {
 }
 
 // node_modules/zrender/lib/graphic/shape/Circle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CircleShape = function() {
   function CircleShape2() {
     this.cx = 0;
@@ -13108,17 +12219,6 @@ Circle.prototype.type = "circle";
 var Circle_default = Circle;
 
 // node_modules/zrender/lib/graphic/shape/Ellipse.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EllipseShape = function() {
   function EllipseShape2() {
     this.cx = 0;
@@ -13156,31 +12256,7 @@ var Ellipse = function(_super) {
 Ellipse.prototype.type = "ellipse";
 var Ellipse_default = Ellipse;
 
-// node_modules/zrender/lib/graphic/shape/Sector.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/graphic/helper/roundSector.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI4 = Math.PI;
 var PI26 = PI4 * 2;
 var mathSin4 = Math.sin;
@@ -13430,17 +12506,6 @@ Sector.prototype.type = "sector";
 var Sector_default = Sector;
 
 // node_modules/zrender/lib/graphic/shape/Ring.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RingShape = function() {
   function RingShape2() {
     this.cx = 0;
@@ -13472,44 +12537,7 @@ var Ring = function(_super) {
 Ring.prototype.type = "ring";
 var Ring_default = Ring;
 
-// node_modules/zrender/lib/graphic/shape/Polygon.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/graphic/helper/poly.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/graphic/helper/smoothBezier.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function smoothBezier(points4, smooth, isLoop, constraint) {
   var cps = [];
   var v = [];
@@ -13622,17 +12650,6 @@ Polygon.prototype.type = "polygon";
 var Polygon_default = Polygon;
 
 // node_modules/zrender/lib/graphic/shape/Polyline.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolylineShape = function() {
   function PolylineShape2() {
     this.points = null;
@@ -13665,17 +12682,6 @@ Polyline.prototype.type = "polyline";
 var Polyline_default = Polyline;
 
 // node_modules/zrender/lib/graphic/shape/Line.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var subPixelOptimizeOutputShape2 = {};
 var LineShape = function() {
   function LineShape2() {
@@ -13742,17 +12748,6 @@ Line.prototype.type = "line";
 var Line_default = Line;
 
 // node_modules/zrender/lib/graphic/shape/BezierCurve.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var out = [];
 var BezierCurveShape = function() {
   function BezierCurveShape2() {
@@ -13846,17 +12841,6 @@ BezierCurve.prototype.type = "bezier-curve";
 var BezierCurve_default = BezierCurve;
 
 // node_modules/zrender/lib/graphic/shape/Arc.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ArcShape = function() {
   function ArcShape2() {
     this.cx = 0;
@@ -13900,17 +12884,6 @@ Arc.prototype.type = "arc";
 var Arc_default = Arc;
 
 // node_modules/zrender/lib/graphic/CompoundPath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CompoundPath = function(_super) {
   __extends(CompoundPath2, _super);
   function CompoundPath2() {
@@ -13959,31 +12932,7 @@ var CompoundPath = function(_super) {
 }(Path_default);
 var CompoundPath_default = CompoundPath;
 
-// node_modules/zrender/lib/graphic/LinearGradient.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/graphic/Gradient.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Gradient = function() {
   function Gradient2(colorStops) {
     this.colorStops = colorStops || [];
@@ -14016,17 +12965,6 @@ var LinearGradient = function(_super) {
 var LinearGradient_default = LinearGradient;
 
 // node_modules/zrender/lib/graphic/RadialGradient.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadialGradient = function(_super) {
   __extends(RadialGradient2, _super);
   function RadialGradient2(x, y, r, colorStops, globalCoord) {
@@ -14043,17 +12981,6 @@ var RadialGradient = function(_super) {
 var RadialGradient_default = RadialGradient;
 
 // node_modules/zrender/lib/core/OrientedBoundingRect.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var extent = [0, 0];
 var extent2 = [0, 0];
 var minTv2 = new Point_default();
@@ -14172,17 +13099,6 @@ var OrientedBoundingRect = function() {
 var OrientedBoundingRect_default = OrientedBoundingRect;
 
 // node_modules/zrender/lib/graphic/IncrementalDisplayable.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var m = [];
 var IncrementalDisplayable = function(_super) {
   __extends(IncrementalDisplayable2, _super);
@@ -14293,17 +13209,6 @@ var IncrementalDisplayable = function(_super) {
 var IncrementalDisplayable_default = IncrementalDisplayable;
 
 // node_modules/echarts/lib/animation/basicTrasition.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var transitionStore = makeInner();
 function getAnimationConfig(animationType, animatableModel, dataIndex, extraOpts, extraDelayParams) {
   var animationPayload;
@@ -15135,17 +14040,6 @@ var TextStyleMixin = function() {
 var textStyle_default = TextStyleMixin;
 
 // node_modules/echarts/lib/model/mixin/lineStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LINE_STYLE_KEY_MAP = [
   ["lineWidth", "width"],
   ["stroke", "color"],
@@ -15171,17 +14065,6 @@ var LineStyleMixin = function() {
 }();
 
 // node_modules/echarts/lib/model/mixin/itemStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ITEM_STYLE_KEY_MAP = [
   ["fill", "color"],
   ["stroke", "borderColor"],
@@ -15303,31 +14186,7 @@ mixin(Model, AreaStyleMixin);
 mixin(Model, textStyle_default);
 var Model_default = Model;
 
-// node_modules/echarts/lib/model/Component.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/component.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var base = Math.round(Math.random() * 10);
 function getUID(type) {
   return [type || "", base++].join("_");
@@ -15436,70 +14295,7 @@ function inheritDefaultOption(superOption, subOption) {
   return merge(merge({}, superOption, true), subOption, true);
 }
 
-// node_modules/echarts/lib/util/layout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/util/format.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/util/time.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/core/locale.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/i18n/langEN.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var langEN_default = {
   time: {
     month: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
@@ -15611,17 +14407,6 @@ var langEN_default = {
 };
 
 // node_modules/echarts/lib/i18n/langZH.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var langZH_default = {
   time: {
     month: ["\u4E00\u6708", "\u4E8C\u6708", "\u4E09\u6708", "\u56DB\u6708", "\u4E94\u6708", "\u516D\u6708", "\u4E03\u6708", "\u516B\u6708", "\u4E5D\u6708", "\u5341\u6708", "\u5341\u4E00\u6708", "\u5341\u4E8C\u6708"],
@@ -15986,17 +14771,6 @@ function millisecondsSetterName(isUTC) {
 }
 
 // node_modules/echarts/lib/legacy/getTextRect.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getTextRect(text, font, align, verticalAlign, padding, rich, truncate, lineHeight) {
   var textEl = new Text_default({
     style: {
@@ -16532,17 +15306,6 @@ function getDependencies(componentType) {
 var Component_default = ComponentModel;
 
 // node_modules/echarts/lib/model/globalDefault.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var platform = "";
 if (typeof navigator !== "undefined") {
   platform = navigator.platform || "";
@@ -16613,31 +15376,7 @@ var globalDefault_default = {
   useUTC: false
 };
 
-// node_modules/echarts/lib/data/helper/sourceHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/types.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var VISUAL_DIMENSIONS = createHashMap(["tooltip", "label", "itemName", "itemId", "itemGroupId", "seriesName"]);
 var SOURCE_FORMAT_ORIGINAL = "original";
 var SOURCE_FORMAT_ARRAY_ROWS = "arrayRows";
@@ -16880,17 +15619,6 @@ function doGuessOrdinal(data, sourceFormat, seriesLayoutBy, dimensionsDefine, st
 }
 
 // node_modules/echarts/lib/model/internalComponentCreator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var internalOptionCreatorMap = createHashMap();
 function registerInternalOptionCreator(mainType, creator) {
   assert(internalOptionCreatorMap.get(mainType) == null && creator);
@@ -16914,17 +15642,6 @@ function concatInternalOptions(ecModel, mainType, newCmptOptionList) {
 }
 
 // node_modules/echarts/lib/model/mixin/palette.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var innerColor = makeInner();
 var innerDecal = makeInner();
 var PaletteMixin = function() {
@@ -17528,17 +16245,6 @@ mixin(GlobalModel, PaletteMixin);
 var Global_default = GlobalModel;
 
 // node_modules/echarts/lib/core/ExtensionAPI.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var availableMethods = [
   "getDom",
   "getZr",
@@ -17567,17 +16273,6 @@ var ExtensionAPI = function() {
 var ExtensionAPI_default = ExtensionAPI;
 
 // node_modules/echarts/lib/core/CoordinateSystem.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var coordinateSystemCreators = {};
 var CoordinateSystemManager = function() {
   function CoordinateSystemManager2() {
@@ -17610,17 +16305,6 @@ var CoordinateSystemManager = function() {
 var CoordinateSystem_default = CoordinateSystemManager;
 
 // node_modules/echarts/lib/model/OptionManager.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var QUERY_REG = /^(min|max)?(.+)$/;
 var OptionManager = function() {
   function OptionManager2(api) {
@@ -17801,31 +16485,7 @@ function indicesEquals(indices1, indices2) {
 }
 var OptionManager_default = OptionManager;
 
-// node_modules/echarts/lib/preprocessor/backwardCompat.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/preprocessor/helper/compatStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each3 = each;
 var isObject2 = isObject;
 var POSSIBLE_STYLES = ["areaStyle", "lineStyle", "nodeStyle", "linkStyle", "chordStyle", "label", "labelLine"];
@@ -18297,17 +16957,6 @@ function globalBackwardCompat(option, isTheme) {
 }
 
 // node_modules/echarts/lib/processor/dataStack.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataStack(ecModel) {
   var stackInfoMap = createHashMap();
   ecModel.eachSeries(function(seriesModel) {
@@ -18375,57 +17024,7 @@ function calculateStack(stackInfoList) {
   });
 }
 
-// node_modules/echarts/lib/model/Series.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/model/mixin/dataFormat.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/data/helper/dataProvider.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/data/Source.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SourceImpl = function() {
   function SourceImpl2(fields) {
     this.data = fields.data || (fields.sourceFormat === SOURCE_FORMAT_KEYED_COLUMNS ? {} : []);
@@ -18984,17 +17583,6 @@ function normalizeTooltipFormatResult(result) {
 }
 
 // node_modules/echarts/lib/core/task.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createTask(define) {
   return new Task(define);
 }
@@ -19171,44 +17759,7 @@ var iterator = function() {
   }
 }();
 
-// node_modules/echarts/lib/data/helper/sourceManager.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/data/helper/transform.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/data/helper/dataValueHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function parseDataValue(value, opt) {
   var dimType = opt && opt.type;
   if (dimType === "ordinal") {
@@ -19604,17 +18155,6 @@ function isSupportedSourceFormat(sourceFormat) {
 }
 
 // node_modules/echarts/lib/data/DataStore.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var UNDEFINED = "undefined";
 var CtorUint32Array = typeof Uint32Array === UNDEFINED ? Array : Uint32Array;
 var CtorUint16Array = typeof Uint16Array === UNDEFINED ? Array : Uint16Array;
@@ -20610,31 +19150,7 @@ function doThrow(errMsg) {
   throw new Error(errMsg);
 }
 
-// node_modules/echarts/lib/component/tooltip/seriesFormatTooltip.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/tooltip/tooltipMarkup.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TOOLTIP_LINE_HEIGHT_CSS = "line-height:1";
 function getTooltipTextStyle(textStyle, renderMode) {
   var nameFontColor = textStyle.color || "#6e7079";
@@ -21308,17 +19824,6 @@ function getCurrentTask(seriesModel) {
 var Series_default = SeriesModel;
 
 // node_modules/echarts/lib/view/Component.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ComponentView = function() {
   function ComponentView2() {
     this.group = new Group_default();
@@ -21350,31 +19855,7 @@ enableClassExtend(ComponentView);
 enableClassManagement(ComponentView);
 var Component_default2 = ComponentView;
 
-// node_modules/echarts/lib/view/Chart.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/createRenderPlanner.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createRenderPlanner() {
   var inner23 = makeInner();
   return function(seriesModel) {
@@ -21509,17 +19990,6 @@ var progressMethodMap = {
 var Chart_default = ChartView;
 
 // node_modules/echarts/lib/util/throttle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ORIGIN_METHOD = "\0__throttleOriginMethod";
 var RATE = "\0__throttleRate";
 var THROTTLE_TYPE = "\0__throttleType";
@@ -21601,17 +20071,6 @@ function clear(obj, fnAttr) {
 }
 
 // node_modules/echarts/lib/visual/style.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner4 = makeInner();
 var defaultStyleMappers = {
   itemStyle: makeStyleMapper(ITEM_STYLE_KEY_MAP, true),
@@ -21761,17 +20220,6 @@ var dataColorPaletteTask = {
 };
 
 // node_modules/echarts/lib/loading/default.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI5 = Math.PI;
 function defaultLoading(api, opts) {
   opts = opts || {};
@@ -21874,17 +20322,6 @@ function defaultLoading(api, opts) {
 }
 
 // node_modules/echarts/lib/core/Scheduler.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Scheduler = function() {
   function Scheduler2(ecInstance, api, dataProcessorHandlers, visualHandlers) {
     this._stageTaskMap = createHashMap();
@@ -22228,17 +20665,6 @@ function mockMethods(target, Clz) {
 var Scheduler_default = Scheduler;
 
 // node_modules/echarts/lib/theme/light.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var colorAll = ["#37A2DA", "#32C5E9", "#67E0E3", "#9FE6B8", "#FFDB5C", "#ff9f7f", "#fb7293", "#E062AE", "#E690D1", "#e7bcf3", "#9d96f5", "#8378EA", "#96BFFF"];
 var light_default = {
   color: colorAll,
@@ -22246,17 +20672,6 @@ var light_default = {
 };
 
 // node_modules/echarts/lib/theme/dark.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var contrastColor = "#B9B8CE";
 var backgroundColor = "#100C2A";
 var axisCommon = function() {
@@ -22435,17 +20850,6 @@ theme.categoryAxis.splitLine.show = false;
 var dark_default = theme;
 
 // node_modules/echarts/lib/util/ECEventProcessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ECEventProcessor = function() {
   function ECEventProcessor2() {
   }
@@ -22519,17 +20923,6 @@ var ECEventProcessor = function() {
 }();
 
 // node_modules/echarts/lib/visual/symbol.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SYMBOL_PROPS_WITH_CB = ["symbol", "symbolSize", "symbolRotate", "symbolOffset"];
 var SYMBOL_PROPS = SYMBOL_PROPS_WITH_CB.concat(["symbolKeepAspect"]);
 var seriesSymbolTask = {
@@ -22606,17 +20999,6 @@ var dataSymbolTask = {
 };
 
 // node_modules/echarts/lib/visual/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getItemVisualFromData(data, dataIndex, key) {
   switch (key) {
     case "color":
@@ -22674,17 +21056,6 @@ function setItemVisualFromData(data, dataIndex, key, value) {
 }
 
 // node_modules/echarts/lib/legacy/dataSelectAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createLegacyDataSelectAction(seriesType2, ecRegisterAction) {
   function getSeriesIndices(ecModel, payload) {
     var seriesIndices = [];
@@ -22755,17 +21126,6 @@ function handleLegacySelectEvents(messageCenter, ecIns, api) {
 }
 
 // node_modules/echarts/lib/util/event.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function findEventDispatcher(target, det, returnFirstMatch) {
   var found;
   while (target) {
@@ -22780,44 +21140,7 @@ function findEventDispatcher(target, det, returnFirstMatch) {
   return found;
 }
 
-// node_modules/echarts/lib/visual/decal.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/util/decal.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/core/WeakMap.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var wmUniqueIndex = Math.round(Math.random() * 9);
 var supportDefineProperty = typeof Object.defineProperty === "function";
 var WeakMap = function() {
@@ -22861,17 +21184,6 @@ var WeakMap = function() {
 var WeakMap_default = WeakMap;
 
 // node_modules/echarts/lib/util/symbol.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Triangle = Path_default.extend({
   type: "triangle",
   shape: {
@@ -23123,31 +21435,7 @@ function normalizeSymbolOffset(symbolOffset, symbolSize) {
   return [parsePercent2(symbolOffset[0], symbolSize[0]) || 0, parsePercent2(retrieve2(symbolOffset[1], symbolOffset[0]), symbolSize[1]) || 0];
 }
 
-// node_modules/zrender/lib/canvas/graphic.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/canvas/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function isSafeNum(num) {
   return isFinite(num);
 }
@@ -23225,17 +21513,6 @@ function getSize(root, whIdx, opts) {
 }
 
 // node_modules/zrender/lib/canvas/dashStyle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function normalizeLineDash(lineType, lineWidth) {
   if (!lineType || lineType === "solid" || !(lineWidth > 0)) {
     return null;
@@ -24073,32 +22350,10 @@ function decalVisual(ecModel, api) {
 }
 
 // node_modules/echarts/lib/core/lifecycle.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var lifecycle = new Eventful_default();
 var lifecycle_default = lifecycle;
 
 // node_modules/echarts/lib/core/impl.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var implsStore = {};
 function registerImpl(name, impl) {
   if (true) {
@@ -25940,57 +24195,7 @@ function use(ext) {
   ext.install(extensionRegisters);
 }
 
-// node_modules/echarts/lib/export/core.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/export/api.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/data/SeriesData.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/data/DataDiffer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataIndexMapValueLength(valNumOrArrLengthMoreThan2) {
   return valNumOrArrLengthMoreThan2 == null ? 0 : valNumOrArrLengthMoreThan2.length || 1;
 }
@@ -26141,17 +24346,6 @@ var DataDiffer = function() {
 var DataDiffer_default = DataDiffer;
 
 // node_modules/echarts/lib/data/helper/dimensionHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DimensionUserOuput = function() {
   function DimensionUserOuput2(encode, dimRequest) {
     this._encode = encode;
@@ -26247,17 +24441,6 @@ function mayLabelDimType(dimType) {
 }
 
 // node_modules/echarts/lib/data/SeriesDimensionDefine.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SeriesDimensionDefine = function() {
   function SeriesDimensionDefine2(opt) {
     this.otherDims = {};
@@ -26270,17 +24453,6 @@ var SeriesDimensionDefine = function() {
 var SeriesDimensionDefine_default = SeriesDimensionDefine;
 
 // node_modules/echarts/lib/data/helper/SeriesDataSchema.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner5 = makeInner();
 var dimTypeShort = {
   float: "f",
@@ -27083,43 +25255,8 @@ __export(helper_exports2, {
   getLayoutRect: () => getLayoutRect,
   mixinAxisModelCommonMethods: () => mixinAxisModelCommonMethods
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/helper/createSeriesData.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/data/helper/createDimensions.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createDimensions(source, opt) {
   return prepareSeriesDataSchema(source, opt).dimensions;
 }
@@ -27326,17 +25463,6 @@ function genCoordDimName(name, map3, fromZero) {
 }
 
 // node_modules/echarts/lib/model/referHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CoordSysInfo = function() {
   function CoordSysInfo2(coordSysName) {
     this.coordSysDims = [];
@@ -27442,17 +25568,6 @@ function isCategory(axisModel) {
 }
 
 // node_modules/echarts/lib/data/helper/dataStackHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function enableDataStack(seriesModel, dimensionsInput, opt) {
   opt = opt || {};
   var byIndex = opt.byIndex;
@@ -27657,44 +25772,7 @@ function firstDataNotNull(arr) {
 }
 var createSeriesData_default = createSeriesData;
 
-// node_modules/echarts/lib/coord/axisHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/scale/Ordinal.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/scale/Scale.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Scale = function() {
   function Scale2(setting) {
     this._setting = setting || {};
@@ -27738,17 +25816,6 @@ enableClassManagement(Scale);
 var Scale_default = Scale;
 
 // node_modules/echarts/lib/data/OrdinalMeta.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var uidBase = 0;
 var OrdinalMeta = function() {
   function OrdinalMeta2(opt) {
@@ -27810,17 +25877,6 @@ function getName(obj) {
 var OrdinalMeta_default = OrdinalMeta;
 
 // node_modules/echarts/lib/scale/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function isValueNice(val) {
   var exp10 = Math.pow(10, quantityExponent(Math.abs(val)));
   var f = Math.abs(val / exp10);
@@ -28004,17 +26060,6 @@ Scale_default.registerClass(OrdinalScale);
 var Ordinal_default = OrdinalScale;
 
 // node_modules/echarts/lib/scale/Interval.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var roundNumber = round;
 var IntervalScale = function(_super) {
   __extends(IntervalScale2, _super);
@@ -28197,31 +26242,7 @@ var IntervalScale = function(_super) {
 Scale_default.registerClass(IntervalScale);
 var Interval_default = IntervalScale;
 
-// node_modules/echarts/lib/layout/barGrid.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/vendor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var supportFloat32Array = typeof Float32Array !== "undefined";
 var Float32ArrayCtor = !supportFloat32Array ? Array : Float32Array;
 function createFloat32Array(arg) {
@@ -28611,17 +26632,6 @@ function getValueAxisStart(baseAxis, valueAxis2) {
 }
 
 // node_modules/echarts/lib/scale/Time.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var bisect = function(a, x, lo, hi) {
   while (lo < hi) {
     var mid = lo + hi >>> 1;
@@ -28986,17 +26996,6 @@ Scale_default.registerClass(TimeScale);
 var Time_default = TimeScale;
 
 // node_modules/echarts/lib/scale/Log.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var scaleProto = Scale_default.prototype;
 var intervalScaleProto = Interval_default.prototype;
 var roundingErrorFix = round;
@@ -29108,17 +27107,6 @@ Scale_default.registerClass(LogScale);
 var Log_default = LogScale;
 
 // node_modules/echarts/lib/coord/scaleRawExtentInfo.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ScaleRawExtentInfo = function() {
   function ScaleRawExtentInfo2(scale4, model, originalExtent) {
     this._prepareParams(scale4, model, originalExtent);
@@ -29459,17 +27447,6 @@ function unionAxisExtentFromData(dataExtent, data, axisDim) {
 }
 
 // node_modules/echarts/lib/coord/axisModelCommonMixin.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AxisModelCommonMixin = function() {
   function AxisModelCommonMixin2() {
   }
@@ -29510,44 +27487,7 @@ function createTextStyle2(textStyleModel, opts) {
   return createTextStyle(textStyleModel, null, null, opts.state !== "normal");
 }
 
-// node_modules/echarts/lib/coord/geo/parseGeoJson.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/geo/Region.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/contain/polygon.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EPSILON5 = 1e-8;
 function isAroundEqual2(a, b) {
   return Math.abs(a - b) < EPSILON5;
@@ -29893,17 +27833,6 @@ __export(number_exports2, {
   remRadian: () => remRadian,
   round: () => round
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/time.js
 var time_exports = {};
@@ -29911,17 +27840,6 @@ __export(time_exports, {
   format: () => format,
   parse: () => parseDate
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/graphic.js
 var graphic_exports2 = {};
@@ -29959,17 +27877,6 @@ __export(graphic_exports2, {
   resizePath: () => resizePath,
   updateProps: () => updateProps
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/format.js
 var format_exports2 = {};
@@ -29985,17 +27892,6 @@ __export(format_exports2, {
   toCamelCase: () => toCamelCase,
   truncateText: () => truncateText
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/export/api/util.js
 var util_exports2 = {};
@@ -30017,43 +27913,8 @@ __export(util_exports2, {
   merge: () => merge,
   reduce: () => reduce
 });
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/Axis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/echarts/lib/coord/axisTickLabelBuilder.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner6 = makeInner();
 function createAxisLabels(axis) {
   return axis.type === "category" ? makeCategoryLabels(axis) : makeRealNumberLabels(axis);
@@ -30460,44 +28321,7 @@ function extendChartView(proto2) {
   return View2;
 }
 
-// node_modules/echarts/lib/label/installLabelLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/label/LabelManager.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/label/labelGuideHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI27 = Math.PI * 2;
 var CMD4 = PathProxy_default.CMD;
 var DEFAULT_SEARCH_SPACE = ["top", "right", "bottom", "left"];
@@ -30923,17 +28747,6 @@ function getLabelLineStatesModels(itemModel, labelLineName) {
 }
 
 // node_modules/echarts/lib/label/labelLayoutHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function prepareLayoutList(input) {
   var list = [];
   for (var i = 0; i < input.length; i++) {
@@ -31517,70 +29330,7 @@ function installLabelLayout(registers) {
 // node_modules/echarts/lib/export/core.js
 use(installLabelLayout);
 
-// node_modules/echarts/lib/export/renderers.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/renderer/installSVGRenderer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/svg/Painter.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/svg/graphic.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/svg/SVGPathRebuilder.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathSin5 = Math.sin;
 var mathCos5 = Math.cos;
 var PI6 = Math.PI;
@@ -31681,17 +29431,6 @@ var SVGPathRebuilder = function() {
 var SVGPathRebuilder_default = SVGPathRebuilder;
 
 // node_modules/zrender/lib/svg/mapStyleToAttrs.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var NONE = "none";
 var mathRound2 = Math.round;
 function pathHasFill(style) {
@@ -31763,17 +29502,6 @@ function mapStyleToAttrs(updateAttr2, style, el, forceUpdate) {
 }
 
 // node_modules/zrender/lib/svg/core.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SVGNS = "http://www.w3.org/2000/svg";
 var XLINKNS = "http://www.w3.org/1999/xlink";
 var XMLNS = "http://www.w3.org/2000/xmlns/";
@@ -31877,17 +29605,6 @@ function createSVGVNode(width, height, children, useViewBox) {
 }
 
 // node_modules/zrender/lib/svg/cssAnimation.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EASING_MAP = {
   cubicIn: "0.32,0,0.67,0",
   cubicOut: "0.33,1,0.68,1",
@@ -32535,31 +30252,7 @@ function setClipPath(clipPath, attrs, scope) {
   attrs["clip-path"] = getIdURL(clipPathId);
 }
 
-// node_modules/zrender/lib/svg/patch.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/svg/domapi.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createTextNode(text) {
   return document.createTextNode(text);
 }
@@ -33035,44 +30728,7 @@ function install(registers) {
   registers.registerPainter("svg", Painter_default);
 }
 
-// node_modules/echarts/lib/renderer/installCanvasRenderer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/canvas/Painter.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/canvas/Layer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createDom(id, painter, dpr2) {
   var newDom = platformApi.createCanvas();
   var width = painter.getWidth();
@@ -33958,44 +31614,7 @@ function install2(registers) {
   registers.registerPainter("canvas", Painter_default2);
 }
 
-// node_modules/echarts/lib/export/charts.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/line/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/line/LineSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LineSeriesModel = function(_super) {
   __extends(LineSeriesModel2, _super);
   function LineSeriesModel2() {
@@ -34081,57 +31700,7 @@ var LineSeriesModel = function(_super) {
 }(Series_default);
 var LineSeries_default = LineSeriesModel;
 
-// node_modules/echarts/lib/chart/line/LineView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/helper/SymbolDraw.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/helper/Symbol.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/labelHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getDefaultLabel(data, dataIndex) {
   var labelDims = data.mapDimensionsAll("defaultedLabel");
   var len2 = labelDims.length;
@@ -34548,31 +32117,7 @@ var SymbolDraw = function() {
 }();
 var SymbolDraw_default = SymbolDraw;
 
-// node_modules/echarts/lib/chart/line/lineAnimationDiff.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/line/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function prepareDataCoordInfo(coordSys, data, valueOrigin) {
   var baseAxis = coordSys.getBaseAxis();
   var valueAxis2 = coordSys.getOtherAxis(baseAxis);
@@ -34756,17 +32301,6 @@ function lineAnimationDiff(oldData, newData, oldStackedOnPoints, newStackedOnPoi
 }
 
 // node_modules/echarts/lib/chart/line/poly.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathMin6 = Math.min;
 var mathMax6 = Math.max;
 function isPointNull(x, y) {
@@ -35052,17 +32586,6 @@ var ECPolygon = function(_super) {
 }(Path_default);
 
 // node_modules/echarts/lib/chart/helper/createClipPathFromCoordSys.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createGridClipPath(cartesian, hasAnimation, seriesModel, done, during) {
   var rect = cartesian.getArea();
   var x = rect.x;
@@ -35156,17 +32679,6 @@ function createClipPath(coordSys, hasAnimation, seriesModel, done, during) {
 }
 
 // node_modules/echarts/lib/coord/CoordinateSystem.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function isCoordinateSystemType(coordSys, type) {
   return coordSys.type === type;
 }
@@ -36116,17 +33628,6 @@ var LineView = function(_super) {
 var LineView_default = LineView;
 
 // node_modules/echarts/lib/layout/points.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function pointsLayout(seriesType2, forceStoreInTypedArray) {
   return {
     seriesType: seriesType2,
@@ -36184,17 +33685,6 @@ function pointsLayout(seriesType2, forceStoreInTypedArray) {
 }
 
 // node_modules/echarts/lib/processor/dataSample.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var samplers = {
   average: function(frame) {
     var sum2 = 0;
@@ -36288,44 +33778,7 @@ function install3(registers) {
   registers.registerProcessor(registers.PRIORITY.PROCESSOR.STATISTIC, dataSample("line"));
 }
 
-// node_modules/echarts/lib/chart/bar/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/bar/BarSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/bar/BaseBarSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BaseBarSeriesModel = function(_super) {
   __extends(BaseBarSeriesModel2, _super);
   function BaseBarSeriesModel2() {
@@ -36425,31 +33878,7 @@ var BarSeriesModel = function(_super) {
 }(BaseBarSeries_default);
 var BarSeries_default = BarSeriesModel;
 
-// node_modules/echarts/lib/chart/bar/BarView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/shape/sausage.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SausageShape = function() {
   function SausageShape2() {
     this.cx = 0;
@@ -36508,17 +33937,6 @@ var SausagePath = function(_super) {
 var sausage_default = SausagePath;
 
 // node_modules/echarts/lib/label/sectorLabel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createSectorCalculateTextPosition(positionMapping, opts) {
   opts = opts || {};
   var isRoundCap = opts.isRoundCap;
@@ -37440,31 +34858,7 @@ function install4(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/pie/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/pie/pieLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI29 = Math.PI * 2;
 var RADIAN = Math.PI / 180;
 function getViewRect(seriesModel, api) {
@@ -37592,17 +34986,6 @@ function pieLayout(seriesType2, ecModel, api) {
 }
 
 // node_modules/echarts/lib/processor/dataFilter.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataFilter(seriesType2) {
   return {
     seriesType: seriesType2,
@@ -37627,31 +35010,7 @@ function dataFilter(seriesType2) {
   };
 }
 
-// node_modules/echarts/lib/chart/pie/PieView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/pie/labelLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RADIAN2 = Math.PI / 180;
 function adjustSingleSide(list, cx, cy, r, dir3, viewWidth, viewHeight, viewLeft, viewTop, farthestX) {
   if (list.length < 2) {
@@ -38028,17 +35387,6 @@ function pieLabelLayout(seriesModel) {
 }
 
 // node_modules/echarts/lib/chart/helper/pieHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getSectorCornerRadius(model, shape, zeroIfNull) {
   var cornerRadius = model.get("borderRadius");
   if (cornerRadius == null) {
@@ -38265,31 +35613,7 @@ var PieView = function(_super) {
 }(Chart_default);
 var PieView_default = PieView;
 
-// node_modules/echarts/lib/chart/pie/PieSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/createSeriesDataSimply.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function createSeriesDataSimply(seriesModel, opt, nameList) {
   opt = isArray(opt) && {
     coordDimensions: opt
@@ -38304,17 +35628,6 @@ function createSeriesDataSimply(seriesModel, opt, nameList) {
 }
 
 // node_modules/echarts/lib/visual/LegendVisualProvider.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LegendVisualProvider = function() {
   function LegendVisualProvider2(getDataWithEncodedVisual, getRawData2) {
     this._getDataWithEncodedVisual = getDataWithEncodedVisual;
@@ -38449,17 +35762,6 @@ var PieSeriesModel = function(_super) {
 var PieSeries_default = PieSeriesModel;
 
 // node_modules/echarts/lib/processor/negativeDataFilter.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function negativeDataFilter(seriesType2) {
   return {
     seriesType: seriesType2,
@@ -38487,31 +35789,7 @@ function install5(registers) {
   registers.registerProcessor(negativeDataFilter("pie"));
 }
 
-// node_modules/echarts/lib/chart/scatter/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/scatter/ScatterSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ScatterSeriesModel = function(_super) {
   __extends(ScatterSeriesModel2, _super);
   function ScatterSeriesModel2() {
@@ -38574,31 +35852,7 @@ var ScatterSeriesModel = function(_super) {
 }(Series_default);
 var ScatterSeries_default = ScatterSeriesModel;
 
-// node_modules/echarts/lib/chart/scatter/ScatterView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/LargeSymbolDraw.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BOOST_SIZE_THRESHOLD = 4;
 var LargeSymbolPathShape = function() {
   function LargeSymbolPathShape2() {
@@ -38914,31 +36168,7 @@ var ScatterView = function(_super) {
 }(Chart_default);
 var ScatterView_default = ScatterView;
 
-// node_modules/echarts/lib/component/grid/installSimple.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/cartesian/GridModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GridModel = function(_super) {
   __extends(GridModel2, _super);
   function GridModel2() {
@@ -38964,17 +36194,6 @@ var GridModel = function(_super) {
 var GridModel_default = GridModel;
 
 // node_modules/echarts/lib/coord/cartesian/AxisModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CartesianAxisModel = function(_super) {
   __extends(CartesianAxisModel2, _super);
   function CartesianAxisModel2() {
@@ -38988,31 +36207,7 @@ var CartesianAxisModel = function(_super) {
 }(Component_default);
 mixin(CartesianAxisModel, AxisModelCommonMixin);
 
-// node_modules/echarts/lib/coord/axisModelCreator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/axisDefault.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var defaultOption = {
   show: true,
   z: 0,
@@ -39140,17 +36335,6 @@ var axisDefault_default = {
 };
 
 // node_modules/echarts/lib/coord/axisCommonTypes.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AXIS_TYPES = {
   value: 1,
   category: 1,
@@ -39210,44 +36394,7 @@ function getAxisType(option) {
   return option.type || (option.data ? "category" : "value");
 }
 
-// node_modules/echarts/lib/coord/cartesian/Grid.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/cartesian/Cartesian2D.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/cartesian/Cartesian.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Cartesian = function() {
   function Cartesian2(name) {
     this.type = "cartesian";
@@ -39385,17 +36532,6 @@ var Cartesian2D = function(_super) {
 var Cartesian2D_default = Cartesian2D;
 
 // node_modules/echarts/lib/coord/cartesian/Axis2D.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Axis2D = function(_super) {
   __extends(Axis2D2, _super);
   function Axis2D2(dim, scale4, coordExtent, axisType, position2) {
@@ -39431,17 +36567,6 @@ var Axis2D = function(_super) {
 var Axis2D_default = Axis2D;
 
 // node_modules/echarts/lib/coord/cartesian/cartesianAxisHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function layout2(gridModel, axisModel, opt) {
   opt = opt || {};
   var grid = gridModel.coordinateSystem;
@@ -39509,17 +36634,6 @@ function findAxisModels(seriesModel) {
 }
 
 // node_modules/echarts/lib/coord/axisAlignTicks.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathLog2 = Math.log;
 function alignScaleTicks(scale4, axisModel, alignToScale) {
   var intervalScaleProto2 = Interval_default.prototype;
@@ -39968,31 +37082,7 @@ function updateAxisTransform(axis, coordBase) {
 }
 var Grid_default = Grid;
 
-// node_modules/echarts/lib/component/axis/CartesianAxisView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/axis/AxisBuilder.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PI7 = Math.PI;
 var AxisBuilder = function() {
   function AxisBuilder2(axisModel, opt) {
@@ -40453,31 +37543,7 @@ function buildAxisLabel(group, transformGroup, axisModel, opt) {
 }
 var AxisBuilder_default = AxisBuilder;
 
-// node_modules/echarts/lib/component/axis/AxisView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/axisPointer/modelHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function collect(ecModel, api) {
   var result = {
     axesInfo: {},
@@ -40709,17 +37775,6 @@ var AxisView = function(_super) {
 var AxisView_default = AxisView;
 
 // node_modules/echarts/lib/component/axis/axisSplitHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner7 = makeInner();
 function rectCoordAxisBuildSplitArea(axisView, axisGroup, axisModel, gridModel) {
   var axis = axisModel.axis;
@@ -41016,31 +38071,7 @@ function install7(registers) {
   registers.registerLayout(pointsLayout("scatter"));
 }
 
-// node_modules/echarts/lib/chart/radar/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/radar/radarLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function radarLayout(ecModel) {
   ecModel.eachSeriesByType("radar", function(seriesModel) {
     var data = seriesModel.getData();
@@ -41074,17 +38105,6 @@ function getValueMissingPoint(coordSys) {
 }
 
 // node_modules/echarts/lib/chart/radar/backwardCompat.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function radarBackwardCompat(option) {
   var polarOptArr = option.polar;
   if (polarOptArr) {
@@ -41116,17 +38136,6 @@ function radarBackwardCompat(option) {
 }
 
 // node_modules/echarts/lib/chart/radar/RadarView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadarView = function(_super) {
   __extends(RadarView3, _super);
   function RadarView3() {
@@ -41298,17 +38307,6 @@ var RadarView = function(_super) {
 var RadarView_default = RadarView;
 
 // node_modules/echarts/lib/chart/radar/RadarSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadarSeriesModel = function(_super) {
   __extends(RadarSeriesModel2, _super);
   function RadarSeriesModel2() {
@@ -41386,31 +38384,7 @@ var RadarSeriesModel = function(_super) {
 }(Series_default);
 var RadarSeries_default = RadarSeriesModel;
 
-// node_modules/echarts/lib/component/radar/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/radar/RadarModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var valueAxisDefault = axisDefault_default.value;
 function defaultsShow(opt, show) {
   return defaults({
@@ -41509,17 +38483,6 @@ var RadarModel = function(_super) {
 var RadarModel_default = RadarModel;
 
 // node_modules/echarts/lib/component/radar/RadarView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var axisBuilderAttrs2 = ["axisLine", "axisTickLabel", "axisName"];
 var RadarView2 = function(_super) {
   __extends(RadarView3, _super);
@@ -41672,31 +38635,7 @@ var RadarView2 = function(_super) {
 }(Component_default2);
 var RadarView_default2 = RadarView2;
 
-// node_modules/echarts/lib/coord/radar/Radar.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/radar/IndicatorAxis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var IndicatorAxis = function(_super) {
   __extends(IndicatorAxis2, _super);
   function IndicatorAxis2(dim, scale4, radiusExtent) {
@@ -41866,70 +38805,7 @@ function install9(registers) {
   registers.registerPreprocessor(radarBackwardCompat);
 }
 
-// node_modules/echarts/lib/chart/map/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/map/MapView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/helper/MapDraw.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/helper/RoamController.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/helper/interactionMutex.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ATTR = "\0_ec_interaction_mutex";
 function take(zr, resourceKey, userKey) {
   var store = getStore(zr);
@@ -42109,17 +38985,6 @@ function isAvailableBehavior(behaviorToCheck, e2, settings) {
 var RoamController_default = RoamController;
 
 // node_modules/echarts/lib/component/helper/roamHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function updateViewOnPan(controllerHost, dx, dy) {
   var target = controllerHost.target;
   target.x += dx;
@@ -42146,17 +39011,6 @@ function updateViewOnZoom(controllerHost, zoomDelta, zoomX, zoomY) {
 }
 
 // node_modules/echarts/lib/component/helper/cursorHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var IRRELEVANT_EXCLUDES = {
   "axisPointer": 1,
   "tooltip": 1,
@@ -42168,57 +39022,7 @@ function onIrrelevantElement(e2, api, targetCoordSysModel) {
   return model && model !== targetCoordSysModel && !IRRELEVANT_EXCLUDES.hasOwnProperty(model.mainType) && coordSys && coordSys.model !== targetCoordSysModel;
 }
 
-// node_modules/echarts/lib/coord/geo/geoSourceManager.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/geo/GeoSVGResource.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/tool/parseSVG.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/tool/parseXML.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function parseXML(svg) {
   if (isString(svg)) {
     var parser = new DOMParser();
@@ -43004,31 +39808,7 @@ function createRegions(named) {
   };
 }
 
-// node_modules/echarts/lib/coord/geo/GeoJSONResource.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/geo/fix/nanhai.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var geoCoord = [126, 25];
 var nanhaiName = "\u5357\u6D77\u8BF8\u5C9B";
 var points2 = [[[0, 3.5], [7, 11.2], [15, 11.9], [30, 7], [42, 0.7], [52, 0.7], [56, 7.7], [59, 0.7], [64, 0.7], [64, 0], [5, 0], [0, 3.5]], [[13, 16.1], [19, 14.7], [16, 21.7], [11, 23.1], [13, 16.1]], [[12, 32.2], [14, 38.5], [15, 38.5], [13, 32.2], [12, 32.2]], [[16, 47.6], [12, 53.2], [13, 53.2], [18, 47.6], [16, 47.6]], [[6, 64.4], [8, 70], [9, 70], [8, 64.4], [6, 64.4]], [[23, 82.6], [29, 79.8], [30, 79.8], [25, 82.6], [23, 82.6]], [[37, 70.7], [43, 62.3], [44, 62.3], [39, 70.7], [37, 70.7]], [[48, 51.1], [51, 45.5], [53, 45.5], [50, 51.1], [48, 51.1]], [[51, 35], [51, 28.7], [53, 28.7], [53, 35], [51, 35]], [[52, 22.4], [55, 17.5], [56, 17.5], [53, 22.4], [52, 22.4]], [[58, 12.6], [62, 7], [63, 7], [60, 12.6], [58, 12.6]], [[0, 3.5], [0, 93.1], [64, 93.1], [64, 0], [63, 0], [63, 92.4], [1, 92.4], [1, 3.5], [0, 3.5]]];
@@ -43059,17 +39839,6 @@ function fixNanhai(mapType, regions) {
 }
 
 // node_modules/echarts/lib/coord/geo/fix/textCoord.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var coordsOffsetMap = {
   "\u5357\u6D77\u8BF8\u5C9B": [32, 80],
   "\u5E7F\u4E1C": [0, -10],
@@ -43090,17 +39859,6 @@ function fixTextCoords(mapType, region) {
 }
 
 // node_modules/echarts/lib/coord/geo/fix/diaoyuIsland.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var points3 = [[[123.45165252685547, 25.73527164402261], [123.49731445312499, 25.73527164402261], [123.49731445312499, 25.750734064600884], [123.45165252685547, 25.750734064600884], [123.45165252685547, 25.73527164402261]]];
 function fixDiaoyuIsland(mapType, region) {
   if (mapType === "china" && region.name === "\u53F0\u6E7E") {
@@ -43823,17 +40581,6 @@ var MapView = function(_super) {
 var MapView_default = MapView;
 
 // node_modules/echarts/lib/chart/map/MapSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var MapSeries = function(_super) {
   __extends(MapSeries2, _super);
   function MapSeries2() {
@@ -43977,17 +40724,6 @@ var MapSeries = function(_super) {
 var MapSeries_default = MapSeries;
 
 // node_modules/echarts/lib/chart/map/mapDataStatistic.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataStatistics(datas, statisticType) {
   var dataNameMap = {};
   each(datas, function(data) {
@@ -44047,17 +40783,6 @@ function mapDataStatistic(ecModel) {
 }
 
 // node_modules/echarts/lib/chart/map/mapSymbolLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function mapSymbolLayout(ecModel) {
   var processedMapType = {};
   ecModel.eachSeriesByType("map", function(mapSeries) {
@@ -44097,70 +40822,7 @@ function mapSymbolLayout(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/component/geo/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/geo/GeoModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/geo/geoCreator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/geo/Geo.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/View.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var v2ApplyTransform = applyTransform;
 var View = function(_super) {
   __extends(View2, _super);
@@ -44751,17 +41413,6 @@ var GeoModel = function(_super) {
 var GeoModel_default = GeoModel;
 
 // node_modules/echarts/lib/action/roamHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getCenterCoord(view, point) {
   return view.pointToProjected ? view.pointToProjected(point) : view.pointToData(point);
 }
@@ -44798,17 +41449,6 @@ function updateCenterAndZoom(view, payload, zoomLimit, api) {
 }
 
 // node_modules/echarts/lib/component/geo/GeoView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GeoView = function(_super) {
   __extends(GeoView2, _super);
   function GeoView2() {
@@ -44962,44 +41602,7 @@ function install11(registers) {
   createLegacyDataSelectAction("map", registers.registerAction);
 }
 
-// node_modules/echarts/lib/chart/tree/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/tree/TreeView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/tree/layoutHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function init3(inRoot) {
   var root = inRoot;
   root.hierNode = {
@@ -45686,44 +42289,7 @@ function getEdgeShape(layoutOpt, orient, curvature, sourceLayout, targetLayout) 
 }
 var TreeView_default = TreeView;
 
-// node_modules/echarts/lib/chart/tree/TreeSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/data/Tree.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/data/helper/linkSeriesData.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner8 = makeInner();
 function linkSeriesData(opt) {
   var mainData = opt.mainData;
@@ -46040,17 +42606,6 @@ function addChild(child, node) {
 var Tree_default = Tree;
 
 // node_modules/echarts/lib/chart/helper/treeHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function retrieveTargetInfo(payload, validPayloadTypes, seriesModel) {
   if (payload && indexOf(validPayloadTypes, payload.type) >= 0) {
     var root = seriesModel.getData().tree.root;
@@ -46217,31 +42772,7 @@ var TreeSeriesModel = function(_super) {
 }(Series_default);
 var TreeSeries_default = TreeSeriesModel;
 
-// node_modules/echarts/lib/chart/tree/treeLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/tree/traversalHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function eachAfter(root, callback, separation2) {
   var nodes = [root];
   var next = [];
@@ -46373,17 +42904,6 @@ function commonLayout(seriesModel, api) {
 }
 
 // node_modules/echarts/lib/chart/tree/treeVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function treeVisual(ecModel) {
   ecModel.eachSeriesByType("tree", function(seriesModel) {
     var data = seriesModel.getData();
@@ -46398,17 +42918,6 @@ function treeVisual(ecModel) {
 }
 
 // node_modules/echarts/lib/chart/tree/treeAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installTreeAction(registers) {
   registers.registerAction({
     type: "treeExpandAndCollapse",
@@ -46453,31 +42962,7 @@ function install12(registers) {
   installTreeAction(registers);
 }
 
-// node_modules/echarts/lib/chart/treemap/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/treemap/treemapAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var actionTypes = ["treemapZoomToNode", "treemapRender", "treemapMove"];
 function installTreemapAction(registers) {
   for (var i = 0; i < actionTypes.length; i++) {
@@ -46509,31 +42994,7 @@ function installTreemapAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/treemap/TreemapSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/enableAriaDecalForTree.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function enableAriaDecalForTree(seriesModel) {
   var data = seriesModel.getData();
   var tree = data.tree;
@@ -46759,31 +43220,7 @@ function setDefault(levels, ecModel) {
 }
 var TreemapSeries_default = TreemapSeriesModel;
 
-// node_modules/echarts/lib/chart/treemap/TreemapView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/treemap/Breadcrumb.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TEXT_PADDING = 8;
 var ITEM_GAP = 8;
 var ARRAY_LENGTH = 5;
@@ -46906,17 +43343,6 @@ function packEventData(el, seriesModel, itemNode) {
 var Breadcrumb_default = Breadcrumb;
 
 // node_modules/echarts/lib/util/animation.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AnimationWrap = function() {
   function AnimationWrap2() {
     this._storage = [];
@@ -47643,31 +44069,7 @@ function calculateZ2(depth, z2InLevel) {
 }
 var TreemapView_default = TreemapView;
 
-// node_modules/echarts/lib/chart/treemap/treemapVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/visual/VisualMapping.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each4 = each;
 var isObject4 = isObject;
 var CATEGORY_DEFAULT_VISUAL_INDEX = -1;
@@ -48160,17 +44562,6 @@ function mapVisual(nodeModel, visuals, child, index, mapping, seriesModel) {
 }
 
 // node_modules/echarts/lib/chart/treemap/treemapLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var mathMax8 = Math.max;
 var mathMin8 = Math.min;
 var retrieveValue = retrieve;
@@ -48530,31 +44921,7 @@ function install13(registers) {
   installTreemapAction(registers);
 }
 
-// node_modules/echarts/lib/chart/graph/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/graph/categoryFilter.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function categoryFilter(ecModel) {
   var legendModels = ecModel.findComponents({
     mainType: "legend"
@@ -48586,17 +44953,6 @@ function categoryFilter(ecModel) {
 }
 
 // node_modules/echarts/lib/chart/graph/categoryVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function categoryVisual(ecModel) {
   var paletteScope = {};
   ecModel.eachSeriesByType("graph", function(seriesModel) {
@@ -48642,17 +44998,6 @@ function categoryVisual(ecModel) {
 }
 
 // node_modules/echarts/lib/chart/graph/edgeVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function normalize3(a) {
   if (!(a instanceof Array)) {
     a = [a, a];
@@ -48698,44 +45043,7 @@ function graphEdgeVisual(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/simpleLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/graph/simpleLayoutHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/multipleGraphEdgeHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var KEY_DELIMITER = "-->";
 var getAutoCurvenessParams = function(seriesModel) {
   return seriesModel.get("autoCurveness") || null;
@@ -48911,44 +45219,7 @@ function graphSimpleLayout(ecModel, api) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/circularLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/graph/circularLayoutHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/graph/graphHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getNodeGlobalScale(seriesModel) {
   var coordSys = seriesModel.coordinateSystem;
   if (coordSys.type !== "view") {
@@ -49052,31 +45323,7 @@ function graphCircularLayout(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/forceLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/graph/forceHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var scaleAndAdd2 = scaleAndAdd;
 function forceLayout(inNodes, inEdges, opts) {
   var nodes = inNodes;
@@ -49281,17 +45528,6 @@ function graphForceLayout(ecModel) {
 }
 
 // node_modules/echarts/lib/chart/graph/createView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getViewRect3(seriesModel, api, aspect) {
   var option = extend(seriesModel.getBoxLayoutParams(), {
     aspect
@@ -49344,57 +45580,7 @@ function createViewCoordSys(ecModel, api) {
   return viewList;
 }
 
-// node_modules/echarts/lib/chart/graph/GraphView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/helper/LineDraw.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/helper/Line.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/LinePath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var straightLineProto = Line_default.prototype;
 var bezierCurveProto = BezierCurve_default.prototype;
 var StraightLineShape = function() {
@@ -49908,17 +46094,6 @@ function lineNeedsDraw(pts) {
 var LineDraw_default = LineDraw;
 
 // node_modules/echarts/lib/chart/graph/adjustEdge.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var v1 = [];
 var v2 = [];
 var v3 = [];
@@ -50244,44 +46419,7 @@ var GraphView = function(_super) {
 }(Chart_default);
 var GraphView_default = GraphView;
 
-// node_modules/echarts/lib/chart/graph/GraphSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/helper/createGraphFromNodeEdge.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/data/Graph.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function generateNodeKey(id) {
   return "_EC_" + id;
 }
@@ -50855,44 +46993,7 @@ function install14(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/gauge/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/gauge/GaugeView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/gauge/PointerPath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PointerShape = function() {
   function PointerShape2() {
     this.angle = 0;
@@ -51390,17 +47491,6 @@ var GaugeView = function(_super) {
 var GaugeView_default = GaugeView;
 
 // node_modules/echarts/lib/chart/gauge/GaugeSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GaugeSeriesModel = function(_super) {
   __extends(GaugeSeriesModel2, _super);
   function GaugeSeriesModel2() {
@@ -51522,31 +47612,7 @@ function install15(registers) {
   registers.registerSeriesModel(GaugeSeries_default);
 }
 
-// node_modules/echarts/lib/chart/funnel/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/funnel/FunnelView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var opacityAccessPath = ["itemStyle", "opacity"];
 var FunnelPiece = function(_super) {
   __extends(FunnelPiece2, _super);
@@ -51693,17 +47759,6 @@ var FunnelView = function(_super) {
 var FunnelView_default = FunnelView;
 
 // node_modules/echarts/lib/chart/funnel/FunnelSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var FunnelSeriesModel = function(_super) {
   __extends(FunnelSeriesModel2, _super);
   function FunnelSeriesModel2() {
@@ -51784,17 +47839,6 @@ var FunnelSeriesModel = function(_super) {
 var FunnelSeries_default = FunnelSeriesModel;
 
 // node_modules/echarts/lib/chart/funnel/funnelLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getViewRect4(seriesModel, api) {
   return getLayoutRect(seriesModel.getBoxLayoutParams(), {
     width: api.getWidth(),
@@ -52090,31 +48134,7 @@ function install16(registers) {
   registers.registerProcessor(dataFilter("funnel"));
 }
 
-// node_modules/echarts/lib/chart/parallel/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/parallel/ParallelView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_SMOOTH = 0.3;
 var ParallelView = function(_super) {
   __extends(ParallelView3, _super);
@@ -52261,17 +48281,6 @@ function isEmptyValue(val, axisType) {
 var ParallelView_default = ParallelView;
 
 // node_modules/echarts/lib/chart/parallel/ParallelSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelSeriesModel = function(_super) {
   __extends(ParallelSeriesModel2, _super);
   function ParallelSeriesModel2() {
@@ -52342,17 +48351,6 @@ function convertDimNameToNumber(dimName) {
 var ParallelSeries_default = ParallelSeriesModel;
 
 // node_modules/echarts/lib/chart/parallel/parallelVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var opacityAccessPath2 = ["lineStyle", "opacity"];
 var parallelVisual = {
   seriesType: "parallel",
@@ -52380,31 +48378,7 @@ var parallelVisual = {
 };
 var parallelVisual_default = parallelVisual;
 
-// node_modules/echarts/lib/component/parallel/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/parallel/parallelPreprocessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function parallelPreprocessor(option) {
   createParallelIfNeeded(option);
   mergeAxisOptionFromParallel(option);
@@ -52438,17 +48412,6 @@ function mergeAxisOptionFromParallel(option) {
 }
 
 // node_modules/echarts/lib/component/parallel/ParallelView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CLICK_THRESHOLD = 5;
 var ParallelView2 = function(_super) {
   __extends(ParallelView3, _super);
@@ -52530,17 +48493,6 @@ function checkTrigger(view, triggerOn) {
 var ParallelView_default2 = ParallelView2;
 
 // node_modules/echarts/lib/coord/parallel/ParallelModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelModel = function(_super) {
   __extends(ParallelModel2, _super);
   function ParallelModel2() {
@@ -52605,44 +48557,7 @@ var ParallelModel = function(_super) {
 }(Component_default);
 var ParallelModel_default = ParallelModel;
 
-// node_modules/echarts/lib/coord/parallel/parallelCreator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/parallel/Parallel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/parallel/ParallelAxis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelAxis = function(_super) {
   __extends(ParallelAxis2, _super);
   function ParallelAxis2(dim, scale4, coordExtent, axisType, axisIndex) {
@@ -52659,17 +48574,6 @@ var ParallelAxis = function(_super) {
 var ParallelAxis_default = ParallelAxis;
 
 // node_modules/echarts/lib/component/helper/sliderMove.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sliderMove(delta, handleEnds, extent3, handleIndex, minSpan, maxSpan) {
   delta = delta || 0;
   var extentSpan = extent3[1] - extent3[0];
@@ -53037,17 +48941,6 @@ var parallelCoordSysCreator = {
 var parallelCreator_default = parallelCoordSysCreator;
 
 // node_modules/echarts/lib/coord/parallel/AxisModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ParallelAxisModel = function(_super) {
   __extends(ParallelAxisModel2, _super);
   function ParallelAxisModel2() {
@@ -53100,31 +48993,7 @@ var ParallelAxisModel = function(_super) {
 mixin(ParallelAxisModel, AxisModelCommonMixin);
 var AxisModel_default = ParallelAxisModel;
 
-// node_modules/echarts/lib/component/axis/ParallelAxisView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/helper/BrushController.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BRUSH_PANEL_GLOBAL = true;
 var mathMin10 = Math.min;
 var mathMax10 = Math.max;
@@ -53764,17 +49633,6 @@ function getLineRenderer(xyIndex) {
 var BrushController_default = BrushController;
 
 // node_modules/echarts/lib/component/helper/brushHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function makeRectPanelClipPath(rect) {
   rect = normalizeRect(rect);
   return function(localPoints) {
@@ -53912,17 +49770,6 @@ function getCoordSysModel(axisModel, ecModel) {
 var ParallelAxisView_default = ParallelAxisView;
 
 // node_modules/echarts/lib/component/axis/parallelAxisAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var actionInfo2 = {
   type: "axisAreaSelect",
   event: "axisAreaSelected"
@@ -53978,31 +49825,7 @@ function install18(registers) {
   registers.registerVisual(registers.PRIORITY.VISUAL.BRUSH, parallelVisual_default);
 }
 
-// node_modules/echarts/lib/chart/sankey/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/sankey/SankeyView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SankeyPathShape = function() {
   function SankeyPathShape2() {
     this.x1 = 0;
@@ -54243,17 +50066,6 @@ function createGridClipShape2(rect, seriesModel, cb) {
 var SankeyView_default = SankeyView;
 
 // node_modules/echarts/lib/chart/sankey/SankeySeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SankeySeriesModel = function(_super) {
   __extends(SankeySeriesModel2, _super);
   function SankeySeriesModel2() {
@@ -54402,17 +50214,6 @@ var SankeySeriesModel = function(_super) {
 var SankeySeries_default = SankeySeriesModel;
 
 // node_modules/echarts/lib/chart/sankey/sankeyLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sankeyLayout(ecModel, api) {
   ecModel.eachSeriesByType("sankey", function(seriesModel) {
     var nodeWidth = seriesModel.get("nodeWidth");
@@ -54795,17 +50596,6 @@ function computeEdgeDepths(nodes, orient) {
 }
 
 // node_modules/echarts/lib/chart/sankey/sankeyVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sankeyVisual(ecModel) {
   ecModel.eachSeriesByType("sankey", function(seriesModel) {
     var graph = seriesModel.getGraph();
@@ -54868,44 +50658,7 @@ function install19(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/boxplot/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/boxplot/BoxplotSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/whiskerBoxCommon.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var WhiskerBoxCommonMixin = function() {
   function WhiskerBoxCommonMixin2() {
   }
@@ -55036,17 +50789,6 @@ mixin(BoxplotSeriesModel, WhiskerBoxCommonMixin, true);
 var BoxplotSeries_default = BoxplotSeriesModel;
 
 // node_modules/echarts/lib/chart/boxplot/BoxplotView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BoxplotView = function(_super) {
   __extends(BoxplotView2, _super);
   function BoxplotView2() {
@@ -55169,32 +50911,10 @@ function transInit(points4, dim, itemLayout) {
 var BoxplotView_default = BoxplotView;
 
 // node_modules/echarts/lib/chart/boxplot/boxplotVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function boxplotVisual(ecModel, api) {
 }
 
 // node_modules/echarts/lib/chart/boxplot/boxplotLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each7 = each;
 function boxplotLayout(ecModel) {
   var groupResult = groupSeriesByAxis(ecModel);
@@ -55323,31 +51043,7 @@ function layoutSingleSeries(seriesModel, offset, boxWidth) {
   }
 }
 
-// node_modules/echarts/lib/chart/boxplot/boxplotTransform.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/boxplot/prepareBoxplotData.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function prepareBoxplotData(rawData, opt) {
   opt = opt || {};
   var boxData = [];
@@ -55414,31 +51110,7 @@ function install20(registers) {
   registers.registerTransform(boxplotTransform);
 }
 
-// node_modules/echarts/lib/chart/candlestick/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/candlestick/CandlestickView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SKIP_PROPS = ["color", "borderColor"];
 var CandlestickView = function(_super) {
   __extends(CandlestickView2, _super);
@@ -55697,17 +51369,6 @@ function setLargeStyle(sign, el, seriesModel, data) {
 var CandlestickView_default = CandlestickView;
 
 // node_modules/echarts/lib/chart/candlestick/CandlestickSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CandlestickSeriesModel = function(_super) {
   __extends(CandlestickSeriesModel2, _super);
   function CandlestickSeriesModel2() {
@@ -55773,17 +51434,6 @@ mixin(CandlestickSeriesModel, WhiskerBoxCommonMixin, true);
 var CandlestickSeries_default = CandlestickSeriesModel;
 
 // node_modules/echarts/lib/chart/candlestick/preprocessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function candlestickPreprocessor(option) {
   if (!option || !isArray(option.series)) {
     return;
@@ -55796,17 +51446,6 @@ function candlestickPreprocessor(option) {
 }
 
 // node_modules/echarts/lib/chart/candlestick/candlestickVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var positiveBorderColorQuery = ["itemStyle", "borderColor"];
 var negativeBorderColorQuery = ["itemStyle", "borderColor0"];
 var positiveColorQuery = ["itemStyle", "color"];
@@ -55845,17 +51484,6 @@ var candlestickVisual = {
 var candlestickVisual_default = candlestickVisual;
 
 // node_modules/echarts/lib/chart/candlestick/candlestickLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var candlestickLayout = {
   seriesType: "candlestick",
   plan: createRenderPlanner(),
@@ -56002,44 +51630,7 @@ function install21(registers) {
   registers.registerLayout(candlestickLayout_default);
 }
 
-// node_modules/echarts/lib/chart/effectScatter/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/effectScatter/EffectScatterView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/EffectSymbol.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function updateRipplePath(rippleGroup, effectCfg) {
   var color = effectCfg.rippleEffectColor || effectCfg.color;
   rippleGroup.eachChild(function(ripplePath) {
@@ -56236,17 +51827,6 @@ var EffectScatterView = function(_super) {
 var EffectScatterView_default = EffectScatterView;
 
 // node_modules/echarts/lib/chart/effectScatter/EffectScatterSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EffectScatterSeriesModel = function(_super) {
   __extends(EffectScatterSeriesModel2, _super);
   function EffectScatterSeriesModel2() {
@@ -56295,44 +51875,7 @@ function install22(registers) {
   registers.registerLayout(pointsLayout("effectScatter"));
 }
 
-// node_modules/echarts/lib/chart/lines/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/lines/LinesView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/helper/EffectLine.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EffectLine = function(_super) {
   __extends(EffectLine2, _super);
   function EffectLine2(lineData, idx, seriesScope) {
@@ -56478,17 +52021,6 @@ var EffectLine = function(_super) {
 var EffectLine_default = EffectLine;
 
 // node_modules/echarts/lib/chart/helper/Polyline.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Polyline2 = function(_super) {
   __extends(Polyline3, _super);
   function Polyline3(lineData, idx, seriesScope) {
@@ -56551,17 +52083,6 @@ var Polyline2 = function(_super) {
 var Polyline_default2 = Polyline2;
 
 // node_modules/echarts/lib/chart/helper/EffectPolyline.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var EffectPolyline = function(_super) {
   __extends(EffectPolyline2, _super);
   function EffectPolyline2() {
@@ -56643,17 +52164,6 @@ var EffectPolyline = function(_super) {
 var EffectPolyline_default = EffectPolyline;
 
 // node_modules/echarts/lib/chart/helper/LargeLineDraw.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LargeLinesPathShape = function() {
   function LargeLinesPathShape2() {
     this.polyline = false;
@@ -56887,17 +52397,6 @@ var LargeLineDraw = function() {
 var LargeLineDraw_default = LargeLineDraw;
 
 // node_modules/echarts/lib/chart/lines/linesLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var linesLayout = {
   seriesType: "lines",
   plan: createRenderPlanner(),
@@ -57090,17 +52589,6 @@ var LinesView = function(_super) {
 var LinesView_default = LinesView;
 
 // node_modules/echarts/lib/chart/lines/LinesSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Uint32Arr = typeof Uint32Array === "undefined" ? Array : Uint32Array;
 var Float64Arr = typeof Float64Array === "undefined" ? Array : Float64Array;
 function compatEc2(seriesOpt) {
@@ -57345,17 +52833,6 @@ var LinesSeriesModel = function(_super) {
 var LinesSeries_default = LinesSeriesModel;
 
 // node_modules/echarts/lib/chart/lines/linesVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function normalize4(a) {
   if (!(a instanceof Array)) {
     a = [a, a];
@@ -57396,44 +52873,7 @@ function install23(registers) {
   registers.registerVisual(linesVisual_default);
 }
 
-// node_modules/echarts/lib/chart/heatmap/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/heatmap/HeatmapView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/heatmap/HeatmapLayer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var GRADIENT_LEVELS = 256;
 var HeatmapLayer = function() {
   function HeatmapLayer2() {
@@ -57771,17 +53211,6 @@ var HeatmapView = function(_super) {
 var HeatmapView_default = HeatmapView;
 
 // node_modules/echarts/lib/chart/heatmap/HeatmapSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var HeatmapSeriesModel = function(_super) {
   __extends(HeatmapSeriesModel2, _super);
   function HeatmapSeriesModel2() {
@@ -57826,31 +53255,7 @@ function install24(registers) {
   registers.registerSeriesModel(HeatmapSeries_default);
 }
 
-// node_modules/echarts/lib/chart/bar/installPictorialBar.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/bar/PictorialBarView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BAR_BORDER_WIDTH_QUERY = ["itemStyle", "borderWidth"];
 var LAYOUT_ATTRS = [{
   xy: "x",
@@ -58378,17 +53783,6 @@ function toIntTimes(times) {
 var PictorialBarView_default = PictorialBarView;
 
 // node_modules/echarts/lib/chart/bar/PictorialBarSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PictorialBarSeriesModel = function(_super) {
   __extends(PictorialBarSeriesModel2, _super);
   function PictorialBarSeriesModel2() {
@@ -58439,31 +53833,7 @@ function install25(registers) {
   registers.registerLayout(registers.PRIORITY.VISUAL.PROGRESSIVE_LAYOUT, createProgressiveLayout("pictorialBar"));
 }
 
-// node_modules/echarts/lib/chart/themeRiver/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/themeRiver/ThemeRiverView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ThemeRiverView = function(_super) {
   __extends(ThemeRiverView2, _super);
   function ThemeRiverView2() {
@@ -58595,17 +53965,6 @@ function createGridClipShape3(rect, seriesModel, cb) {
 var ThemeRiverView_default = ThemeRiverView;
 
 // node_modules/echarts/lib/chart/themeRiver/ThemeRiverSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DATA_NAME_INDEX = 2;
 var ThemeRiverSeriesModel = function(_super) {
   __extends(ThemeRiverSeriesModel2, _super);
@@ -58777,17 +54136,6 @@ var ThemeRiverSeriesModel = function(_super) {
 var ThemeRiverSeries_default = ThemeRiverSeriesModel;
 
 // node_modules/echarts/lib/chart/themeRiver/themeRiverLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function themeRiverLayout(ecModel, api) {
   ecModel.eachSeriesByType("themeRiver", function(seriesModel) {
     var data = seriesModel.getData();
@@ -58892,44 +54240,7 @@ function install26(registers) {
   registers.registerProcessor(dataFilter("themeRiver"));
 }
 
-// node_modules/echarts/lib/chart/sunburst/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/chart/sunburst/SunburstView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/sunburst/SunburstPiece.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_SECTOR_Z = 2;
 var DEFAULT_TEXT_Z = 4;
 var SunburstPiece = function(_super) {
@@ -59103,17 +54414,6 @@ var SunburstPiece = function(_super) {
 var SunburstPiece_default = SunburstPiece;
 
 // node_modules/echarts/lib/chart/sunburst/sunburstAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ROOT_TO_NODE_ACTION = "sunburstRootToNode";
 var HIGHLIGHT_ACTION = "sunburstHighlight";
 var UNHIGHLIGHT_ACTION = "sunburstUnhighlight";
@@ -59312,17 +54612,6 @@ var SunburstView = function(_super) {
 var SunburstView_default = SunburstView;
 
 // node_modules/echarts/lib/chart/sunburst/SunburstSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SunburstSeriesModel = function(_super) {
   __extends(SunburstSeriesModel2, _super);
   function SunburstSeriesModel2() {
@@ -59448,17 +54737,6 @@ function completeTreeValue2(dataNode) {
 var SunburstSeries_default = SunburstSeriesModel;
 
 // node_modules/echarts/lib/chart/sunburst/sunburstLayout.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RADIAN3 = Math.PI / 180;
 function sunburstLayout(seriesType2, ecModel, api) {
   ecModel.eachSeriesByType(seriesType2, function(seriesModel) {
@@ -59603,17 +54881,6 @@ function sort3(children, sortOrder) {
 }
 
 // node_modules/echarts/lib/chart/sunburst/sunburstVisual.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function sunburstVisual(ecModel) {
   var paletteScope = {};
   function pickColor(node, seriesModel, treeHeight) {
@@ -59652,31 +54919,7 @@ function install27(registers) {
   installSunburstAction(registers);
 }
 
-// node_modules/echarts/lib/chart/custom/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/chart/custom/CustomSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var STYLE_VISUAL_TYPE = {
   color: "fill",
   borderColor: "stroke"
@@ -59722,31 +54965,7 @@ var CustomSeriesModel = function(_super) {
 }(Series_default);
 var CustomSeries_default = CustomSeriesModel;
 
-// node_modules/echarts/lib/chart/custom/CustomView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/cartesian/prepareCustom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize(dataSize, dataItem) {
   dataItem = dataItem || [0, 0];
   return map(["x", "y"], function(dim, dimIdx) {
@@ -59776,17 +54995,6 @@ function cartesianPrepareCustom(coordSys) {
 }
 
 // node_modules/echarts/lib/coord/geo/prepareCustom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize2(dataSize, dataItem) {
   dataItem = dataItem || [0, 0];
   return map([0, 1], function(dimIdx) {
@@ -59821,17 +55029,6 @@ function geoPrepareCustom(coordSys) {
 }
 
 // node_modules/echarts/lib/coord/single/prepareCustom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize3(dataSize, dataItem) {
   var axis = this.getAxis();
   var val = dataItem instanceof Array ? dataItem[0] : dataItem;
@@ -59858,17 +55055,6 @@ function singlePrepareCustom(coordSys) {
 }
 
 // node_modules/echarts/lib/coord/polar/prepareCustom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function dataToCoordSize4(dataSize, dataItem) {
   dataItem = dataItem || [0, 0];
   return map(["Radius", "Angle"], function(dim, dimIdx) {
@@ -59910,17 +55096,6 @@ function polarPrepareCustom(coordSys) {
 }
 
 // node_modules/echarts/lib/coord/calendar/prepareCustom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function calendarPrepareCustom(coordSys) {
   var rect = coordSys.getRect();
   var rangeInfo = coordSys.getRangeInfo();
@@ -59949,17 +55124,6 @@ function calendarPrepareCustom(coordSys) {
 }
 
 // node_modules/echarts/lib/util/styleCompat.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var deprecatedLogs = {};
 function isEC4CompatibleStyle(style, elType, hasOwnTextContentOption, hasOwnTextConfig) {
   return style && (style.legacy || style.legacy !== false && !hasOwnTextContentOption && !hasOwnTextConfig && elType !== "tspan" && (elType === "text" || hasOwn(style, "text")));
@@ -60100,17 +55264,6 @@ function warnDeprecated(deprecated, insteadApproach) {
 }
 
 // node_modules/echarts/lib/animation/customGraphicTransition.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var LEGACY_TRANSFORM_PROPS_MAP = {
   position: ["x", "y"],
   scale: ["scaleX", "scaleY"],
@@ -60484,17 +55637,6 @@ if (true) {
 }
 
 // node_modules/echarts/lib/animation/customGraphicKeyframeAnimation.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var getStateToRestore = makeInner();
 var KEYFRAME_EXCLUDE_KEYS = ["percent", "easing", "shape", "style", "extra"];
 function stopPreviousKeyframeAnimationAndRestore(el) {
@@ -61223,70 +56365,7 @@ function install28(registers) {
   registers.registerSeriesModel(CustomSeries_default);
 }
 
-// node_modules/echarts/lib/export/components.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/grid/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/axisPointer/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/axisPointer/CartesianAxisPointer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/axisPointer/BaseAxisPointer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner11 = makeInner();
 var clone4 = clone;
 var bind2 = bind;
@@ -61556,17 +56635,6 @@ function updateMandatoryProps(group, axisPointerModel, silent) {
 var BaseAxisPointer_default = BaseAxisPointer;
 
 // node_modules/echarts/lib/component/axisPointer/viewHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function buildElStyle(axisPointerModel) {
   var axisPointerType = axisPointerModel.get("type");
   var styleModel = axisPointerModel.getModel(axisPointerType + "Style");
@@ -61799,17 +56867,6 @@ function getAxisDimIndex(axis) {
 var CartesianAxisPointer_default = CartesianAxisPointer;
 
 // node_modules/echarts/lib/component/axisPointer/AxisPointerModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var AxisPointerModel = function(_super) {
   __extends(AxisPointerModel2, _super);
   function AxisPointerModel2() {
@@ -61866,31 +56923,7 @@ var AxisPointerModel = function(_super) {
 }(Component_default);
 var AxisPointerModel_default = AxisPointerModel;
 
-// node_modules/echarts/lib/component/axisPointer/AxisPointerView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/axisPointer/globalListener.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner12 = makeInner();
 var each8 = each;
 function register(key, api, handler) {
@@ -62004,31 +57037,7 @@ var AxisPointerView = function(_super) {
 }(Component_default2);
 var AxisPointerView_default = AxisPointerView;
 
-// node_modules/echarts/lib/component/axisPointer/axisTrigger.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/axisPointer/findPointFromSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function findPointFromSeries(finder, ecModel) {
   var point = [];
   var seriesIndex = finder.seriesIndex;
@@ -62383,31 +57392,7 @@ function install30(registers) {
   use(install29);
 }
 
-// node_modules/echarts/lib/component/polar/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/axisPointer/PolarAxisPointer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolarAxisPointer = function(_super) {
   __extends(PolarAxisPointer2, _super);
   function PolarAxisPointer2() {
@@ -62504,17 +57489,6 @@ var pointerShapeBuilder2 = {
 var PolarAxisPointer_default = PolarAxisPointer;
 
 // node_modules/echarts/lib/coord/polar/PolarModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolarModel = function(_super) {
   __extends(PolarModel2, _super);
   function PolarModel2() {
@@ -62544,17 +57518,6 @@ var PolarModel = function(_super) {
 var PolarModel_default = PolarModel;
 
 // node_modules/echarts/lib/coord/polar/AxisModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PolarAxisModel = function(_super) {
   __extends(PolarAxisModel2, _super);
   function PolarAxisModel2() {
@@ -62588,44 +57551,7 @@ var RadiusAxisModel = function(_super) {
   return RadiusAxisModel2;
 }(PolarAxisModel);
 
-// node_modules/echarts/lib/coord/polar/polarCreator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/polar/Polar.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/polar/RadiusAxis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RadiusAxis = function(_super) {
   __extends(RadiusAxis2, _super);
   function RadiusAxis2(scale4, radiusExtent) {
@@ -62641,17 +57567,6 @@ RadiusAxis.prototype.radiusToData = Axis_default.prototype.coordToData;
 var RadiusAxis_default = RadiusAxis;
 
 // node_modules/echarts/lib/coord/polar/AngleAxis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner14 = makeInner();
 var AngleAxis = function(_super) {
   __extends(AngleAxis2, _super);
@@ -62920,17 +57835,6 @@ var polarCreator = {
 var polarCreator_default = polarCreator;
 
 // node_modules/echarts/lib/component/axis/AngleAxisView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var elementList2 = ["axisLine", "axisLabel", "axisTick", "minorTick", "splitLine", "minorSplitLine", "splitArea"];
 function getAxisLineShape(polar, rExtent, angle) {
   rExtent[1] > rExtent[0] && (rExtent = rExtent.slice().reverse());
@@ -63190,17 +58094,6 @@ var angelAxisElementsBuilders = {
 var AngleAxisView_default = AngleAxisView;
 
 // node_modules/echarts/lib/component/axis/RadiusAxisView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var axisBuilderAttrs3 = ["axisLine", "axisTickLabel", "axisName"];
 var selfBuilderAttrs2 = ["splitLine", "splitArea", "minorSplitLine"];
 var RadiusAxisView = function(_super) {
@@ -63345,17 +58238,6 @@ function layoutAxis(polar, radiusAxisModel, axisAngle) {
 var RadiusAxisView_default = RadiusAxisView;
 
 // node_modules/echarts/lib/layout/barPolar.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function getSeriesStackId2(seriesModel) {
   return seriesModel.get("stack") || "__ec_stack_" + seriesModel.seriesIndex;
 }
@@ -63571,44 +58453,7 @@ function install31(registers) {
   registers.registerLayout(curry(barPolar_default, "bar"));
 }
 
-// node_modules/echarts/lib/component/singleAxis/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/axis/SingleAxisView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/single/singleAxisHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function layout3(axisModel, opt) {
   opt = opt || {};
   var single = axisModel.coordinateSystem;
@@ -63751,17 +58596,6 @@ var axisElementBuilders3 = {
 var SingleAxisView_default = SingleAxisView;
 
 // node_modules/echarts/lib/coord/single/AxisModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SingleAxisModel = function(_super) {
   __extends(SingleAxisModel2, _super);
   function SingleAxisModel2() {
@@ -63816,44 +58650,7 @@ var SingleAxisModel = function(_super) {
 mixin(SingleAxisModel, AxisModelCommonMixin.prototype);
 var AxisModel_default2 = SingleAxisModel;
 
-// node_modules/echarts/lib/coord/single/singleCreator.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/coord/single/Single.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/single/SingleAxis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SingleAxis = function(_super) {
   __extends(SingleAxis2, _super);
   function SingleAxis2(dim, scale4, coordExtent, axisType, position2) {
@@ -64031,17 +58828,6 @@ var singleCreator = {
 var singleCreator_default = singleCreator;
 
 // node_modules/echarts/lib/component/axisPointer/SingleAxisPointer.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var XY = ["x", "y"];
 var WH = ["width", "height"];
 var SingleAxisPointer = function(_super) {
@@ -64157,31 +58943,7 @@ function install32(registers) {
   registers.registerCoordinateSystem("single", singleCreator_default);
 }
 
-// node_modules/echarts/lib/component/calendar/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/coord/calendar/CalendarModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CalendarModel = function(_super) {
   __extends(CalendarModel2, _super);
   function CalendarModel2() {
@@ -64274,17 +59036,6 @@ function mergeAndNormalizeLayoutParams(target, raw) {
 var CalendarModel_default = CalendarModel;
 
 // node_modules/echarts/lib/component/calendar/CalendarView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CalendarView = function(_super) {
   __extends(CalendarView2, _super);
   function CalendarView2() {
@@ -64605,17 +59356,6 @@ var CalendarView = function(_super) {
 var CalendarView_default = CalendarView;
 
 // node_modules/echarts/lib/coord/calendar/Calendar.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PROXIMATE_ONE_DAY = 864e5;
 var Calendar = function() {
   function Calendar2(calendarModel, ecModel, api) {
@@ -64879,31 +59619,7 @@ function install33(registers) {
   registers.registerCoordinateSystem("calendar", Calendar_default);
 }
 
-// node_modules/echarts/lib/component/graphic/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/graphic/GraphicModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function setKeyInfoToNewElOption(resultItem, newElOption) {
   var existElOption = resultItem.existing;
   newElOption.id = resultItem.keyInfo.id;
@@ -65059,17 +59775,6 @@ var GraphicComponentModel = function(_super) {
 }(Component_default);
 
 // node_modules/echarts/lib/component/graphic/GraphicView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var nonShapeGraphicElements = {
   path: null,
   compoundPath: null,
@@ -65381,70 +60086,7 @@ function install34(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/toolbox/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/dataZoom/installDataZoomSelect.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/dataZoom/SelectZoomModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/dataZoom/DataZoomModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DATA_ZOOM_AXIS_DIMENSIONS = ["x", "y", "radius", "angle", "single"];
 var SERIES_COORDS = ["cartesian2d", "polar", "singleAxis"];
 function isCoordSupported(seriesModel) {
@@ -65832,31 +60474,7 @@ var SelectDataZoomModel = function(_super) {
 }(DataZoomModel_default);
 var SelectZoomModel_default = SelectDataZoomModel;
 
-// node_modules/echarts/lib/component/dataZoom/SelectZoomView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/DataZoomView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DataZoomView = function(_super) {
   __extends(DataZoomView2, _super);
   function DataZoomView2() {
@@ -65887,44 +60505,7 @@ var SelectDataZoomView = function(_super) {
 }(DataZoomView_default);
 var SelectZoomView_default = SelectDataZoomView;
 
-// node_modules/echarts/lib/component/dataZoom/installCommon.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/dataZoom/dataZoomProcessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/AxisProxy.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each9 = each;
 var asc2 = asc;
 var AxisProxy = function() {
@@ -66179,17 +60760,6 @@ var dataZoomProcessor = {
 var dataZoomProcessor_default = dataZoomProcessor;
 
 // node_modules/echarts/lib/component/dataZoom/dataZoomAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installDataZoomAction(registers) {
   registers.registerAction("dataZoom", function(payload, ecModel) {
     var effectedModels = findEffectedDataZooms(ecModel, payload);
@@ -66225,31 +60795,7 @@ function install35(registers) {
   installCommon(registers);
 }
 
-// node_modules/echarts/lib/component/toolbox/ToolboxModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/toolbox/featureManager.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ToolboxFeature = function() {
   function ToolboxFeature2() {
   }
@@ -66321,31 +60867,7 @@ var ToolboxModel = function(_super) {
 }(Component_default);
 var ToolboxModel_default = ToolboxModel;
 
-// node_modules/echarts/lib/component/toolbox/ToolboxView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/helper/listComponent.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function layout4(group, componentModel, api) {
   var boxLayoutParams = componentModel.getBoxLayoutParams();
   var padding = componentModel.get("padding");
@@ -66584,17 +61106,6 @@ function isUserFeatureName(featureName) {
 var ToolboxView_default = ToolboxView;
 
 // node_modules/echarts/lib/component/toolbox/feature/SaveAsImage.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SaveAsImage = function(_super) {
   __extends(SaveAsImage2, _super);
   function SaveAsImage2() {
@@ -66678,17 +61189,6 @@ var SaveAsImage = function(_super) {
 var SaveAsImage_default = SaveAsImage;
 
 // node_modules/echarts/lib/component/toolbox/feature/MagicType.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var INNER_STACK_KEYWORD = "__ec_magicType_stack__";
 var radioTypes = [["line", "bar"], ["stack"]];
 var MagicType = function(_super) {
@@ -66836,17 +61336,6 @@ registerAction({
 var MagicType_default = MagicType;
 
 // node_modules/echarts/lib/component/toolbox/feature/DataView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var BLOCK_SPLITER = new Array(60).join("-");
 var ITEM_SPLITER = "	";
 function groupSeries(ecModel) {
@@ -67202,31 +61691,7 @@ registerAction({
 });
 var DataView_default = DataView;
 
-// node_modules/echarts/lib/component/toolbox/feature/Restore.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/history.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each10 = each;
 var inner16 = makeInner();
 function push(ecModel, newSnapshot) {
@@ -67319,31 +61784,7 @@ registerAction({
 });
 var Restore_default = RestoreOption;
 
-// node_modules/echarts/lib/component/toolbox/feature/DataZoom.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/helper/BrushTargetManager.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var INCLUDE_FINDER_MAIN_TYPES = ["grid", "xAxis", "yAxis", "geo", "graph", "polar", "radiusAxis", "angleAxis", "bmap"];
 var BrushTargetManager = function() {
   function BrushTargetManager2(finder, ecModel, opt) {
@@ -67802,31 +62243,7 @@ function install36(registers) {
   use(install35);
 }
 
-// node_modules/echarts/lib/component/tooltip/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/tooltip/TooltipModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TooltipModel = function(_super) {
   __extends(TooltipModel2, _super);
   function TooltipModel2() {
@@ -67881,44 +62298,7 @@ var TooltipModel = function(_super) {
 }(Component_default);
 var TooltipModel_default = TooltipModel;
 
-// node_modules/echarts/lib/component/tooltip/TooltipView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/tooltip/TooltipHTMLContent.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/tooltip/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function shouldTooltipConfine(tooltipModel) {
   var confineOption = tooltipModel.get("confine");
   return confineOption != null ? !!confineOption : tooltipModel.get("renderMode") === "richText";
@@ -68230,17 +62610,6 @@ var TooltipHTMLContent = function() {
 var TooltipHTMLContent_default = TooltipHTMLContent;
 
 // node_modules/echarts/lib/component/tooltip/TooltipRichContent.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TooltipRichContent = function() {
   function TooltipRichContent2(api) {
     this._show = false;
@@ -69051,31 +63420,7 @@ function install37(registers) {
   }, noop);
 }
 
-// node_modules/echarts/lib/component/brush/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/brush/preprocessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_TOOLBOX_BTNS = ["rect", "polygon", "keep", "clear"];
 function brushPreprocessor(option, isNew) {
   var brushComponents = normalizeToArray(option ? option.brush : []);
@@ -69119,44 +63464,7 @@ function removeDuplicate(arr) {
   });
 }
 
-// node_modules/echarts/lib/component/brush/BrushView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/brush/visualEncoding.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/visual/visualSolution.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each12 = each;
 function hasKeys(obj) {
   if (obj) {
@@ -69284,17 +63592,6 @@ function incrementalApplyVisual(stateList, visualMappings, getValueState, dim) {
 }
 
 // node_modules/echarts/lib/component/brush/selector.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function makeBrushCommonSelectorForSeries(area) {
   var brushType = area.brushType;
   var selectors = {
@@ -69593,17 +63890,6 @@ var BrushView = function(_super) {
 var BrushView_default = BrushView;
 
 // node_modules/echarts/lib/component/brush/BrushModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_OUT_OF_BRUSH_COLOR = "#ddd";
 var BrushModel = function(_super) {
   __extends(BrushModel2, _super);
@@ -69675,17 +63961,6 @@ function generateBrushOption(option, brushOption) {
 var BrushModel_default = BrushModel;
 
 // node_modules/echarts/lib/component/toolbox/feature/Brush.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ICON_TYPES = ["rect", "polygon", "lineX", "lineY", "keep", "clear"];
 var BrushFeature = function(_super) {
   __extends(BrushFeature2, _super);
@@ -69801,17 +64076,6 @@ function install38(registers) {
 }
 
 // node_modules/echarts/lib/component/title/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TitleModel = function(_super) {
   __extends(TitleModel2, _super);
   function TitleModel2() {
@@ -69976,44 +64240,7 @@ function install39(registers) {
   registers.registerComponentView(TitleView);
 }
 
-// node_modules/echarts/lib/component/timeline/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/timeline/SliderTimelineModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/timeline/TimelineModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TimelineModel = function(_super) {
   __extends(TimelineModel2, _super);
   function TimelineModel2() {
@@ -70226,31 +64453,7 @@ var SliderTimelineModel = function(_super) {
 mixin(SliderTimelineModel, DataFormatMixin.prototype);
 var SliderTimelineModel_default = SliderTimelineModel;
 
-// node_modules/echarts/lib/component/timeline/SliderTimelineView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/timeline/TimelineView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TimelineView = function(_super) {
   __extends(TimelineView2, _super);
   function TimelineView2() {
@@ -70264,17 +64467,6 @@ var TimelineView = function(_super) {
 var TimelineView_default = TimelineView;
 
 // node_modules/echarts/lib/component/timeline/TimelineAxis.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var TimelineAxis = function(_super) {
   __extends(TimelineAxis2, _super);
   function TimelineAxis2(dim, scale4, coordExtent, axisType) {
@@ -70838,17 +65030,6 @@ function pointerMoveTo(pointer, progressLine, dataIndex, axis, timelineModel, no
 var SliderTimelineView_default = SliderTimelineView;
 
 // node_modules/echarts/lib/component/timeline/timelineAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installTimelineAction(registers) {
   registers.registerAction({
     type: "timelineChange",
@@ -70887,17 +65068,6 @@ function installTimelineAction(registers) {
 }
 
 // node_modules/echarts/lib/component/timeline/preprocessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function timelinePreprocessor(option) {
   var timelineOpt = option && option.timeline;
   if (!isArray(timelineOpt)) {
@@ -70975,31 +65145,7 @@ function install40(registers) {
   registers.registerPreprocessor(timelinePreprocessor);
 }
 
-// node_modules/echarts/lib/component/marker/installMarkPoint.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/marker/checkMarkerInSeries.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function checkMarkerInSeries(seriesOpts, markerType) {
   if (!seriesOpts) {
     return false;
@@ -71013,31 +65159,7 @@ function checkMarkerInSeries(seriesOpts, markerType) {
   return false;
 }
 
-// node_modules/echarts/lib/component/marker/MarkPointModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/marker/MarkerModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function fillLabel(opt) {
   defaultEmphasis(opt, "label", ["show"]);
 }
@@ -71172,31 +65294,7 @@ var MarkPointModel = function(_super) {
 }(MarkerModel_default);
 var MarkPointModel_default = MarkPointModel;
 
-// node_modules/echarts/lib/component/marker/MarkPointView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/marker/markerHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function hasXOrY(item) {
   return !(isNaN(parseFloat(item.x)) && isNaN(parseFloat(item.y)));
 }
@@ -71305,17 +65403,6 @@ function numCalculate(data, valueDataDim, type) {
 }
 
 // node_modules/echarts/lib/component/marker/MarkerView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner18 = makeInner();
 var MarkerView = function(_super) {
   __extends(MarkerView2, _super);
@@ -71502,31 +65589,7 @@ function install41(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/marker/installMarkLine.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/marker/MarkLineModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var MarkLineModel = function(_super) {
   __extends(MarkLineModel2, _super);
   function MarkLineModel2() {
@@ -71570,17 +65633,6 @@ var MarkLineModel = function(_super) {
 var MarkLineModel_default = MarkLineModel;
 
 // node_modules/echarts/lib/component/marker/MarkLineView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner19 = makeInner();
 var markLineTransform = function(seriesModel, coordSys, mlModel, item) {
   var data = seriesModel.getData();
@@ -71849,31 +65901,7 @@ function install42(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/marker/installMarkArea.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/marker/MarkAreaModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var MarkAreaModel = function(_super) {
   __extends(MarkAreaModel2, _super);
   function MarkAreaModel2() {
@@ -71910,17 +65938,6 @@ var MarkAreaModel = function(_super) {
 var MarkAreaModel_default = MarkAreaModel;
 
 // node_modules/echarts/lib/component/marker/MarkAreaView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner20 = makeInner();
 var markAreaTransform = function(seriesModel, coordSys, maModel, item) {
   var lt2 = dataTransform(seriesModel, item[0]);
@@ -72183,44 +66200,7 @@ function install43(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/legend/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/legend/installLegendPlain.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/legend/LegendModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var getDefaultSelectorOptions = function(ecModel, type) {
   if (type === "all") {
     return {
@@ -72457,17 +66437,6 @@ var LegendModel = function(_super) {
 var LegendModel_default = LegendModel;
 
 // node_modules/echarts/lib/component/legend/LegendView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var curry2 = curry;
 var each13 = each;
 var Group3 = Group_default;
@@ -72850,17 +66819,6 @@ function dispatchDownplayAction(seriesName, dataName, api, excludeSeriesId) {
 var LegendView_default = LegendView;
 
 // node_modules/echarts/lib/component/legend/legendFilter.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function legendFilter(ecModel) {
   var legendModels = ecModel.findComponents({
     mainType: "legend"
@@ -72878,17 +66836,6 @@ function legendFilter(ecModel) {
 }
 
 // node_modules/echarts/lib/component/legend/legendAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function legendSelectActionHandler(methodName, payload, ecModel) {
   var selectedMap = {};
   var isToggleSelect = methodName === "toggleSelected";
@@ -72942,31 +66889,7 @@ function install44(registers) {
   installLegendAction(registers);
 }
 
-// node_modules/echarts/lib/component/legend/installLegendScroll.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/legend/ScrollableLegendModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var ScrollableLegendModel = function(_super) {
   __extends(ScrollableLegendModel2, _super);
   function ScrollableLegendModel2() {
@@ -73019,17 +66942,6 @@ function mergeAndNormalizeLayoutParams2(legendModel, target, raw) {
 var ScrollableLegendModel_default = ScrollableLegendModel;
 
 // node_modules/echarts/lib/component/legend/ScrollableLegendView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Group4 = Group_default;
 var WH2 = ["width", "height"];
 var XY2 = ["x", "y"];
@@ -73317,17 +67229,6 @@ var ScrollableLegendView = function(_super) {
 var ScrollableLegendView_default = ScrollableLegendView;
 
 // node_modules/echarts/lib/component/legend/scrollableLegendAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function installScrollableLegendAction(registers) {
   registers.registerAction("legendScroll", "legendscroll", function(payload, ecModel) {
     var scrollDataIndex = payload.scrollDataIndex;
@@ -73355,44 +67256,7 @@ function install46(registers) {
   use(install45);
 }
 
-// node_modules/echarts/lib/component/dataZoom/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/dataZoom/installDataZoomInside.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/InsideZoomModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var InsideZoomModel = function(_super) {
   __extends(InsideZoomModel2, _super);
   function InsideZoomModel2() {
@@ -73413,31 +67277,7 @@ var InsideZoomModel = function(_super) {
 }(DataZoomModel_default);
 var InsideZoomModel_default = InsideZoomModel;
 
-// node_modules/echarts/lib/component/dataZoom/InsideZoomView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/roams.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var inner21 = makeInner();
 function setViewInfoToCoordSysRecord(api, dataZoomModel, getRange) {
   inner21(api).coordSysRecordMap.each(function(coordSysRecord) {
@@ -73736,31 +67576,7 @@ function install47(registers) {
   installDataZoomRoamProcessor(registers);
 }
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomSlider.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/dataZoom/SliderZoomModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var SliderZoomModel = function(_super) {
   __extends(SliderZoomModel2, _super);
   function SliderZoomModel2() {
@@ -73839,17 +67655,6 @@ var SliderZoomModel = function(_super) {
 var SliderZoomModel_default = SliderZoomModel;
 
 // node_modules/echarts/lib/component/dataZoom/SliderZoomView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var Rect3 = Rect_default;
 var DEFAULT_LOCATION_EDGE_GAP = 7;
 var DEFAULT_FRAME_BORDER_WIDTH = 1;
@@ -74546,70 +68351,7 @@ function install49(registers) {
   use(install48);
 }
 
-// node_modules/echarts/lib/component/visualMap/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/visualMap/installVisualMapContinuous.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/visualMap/ContinuousModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/visualMap/VisualMapModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/visual/visualDefault.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var visualDefault = {
   get: function(visualType, key, isCategory2) {
     var value = clone((defaultOption2[visualType] || {})[key]);
@@ -75065,31 +68807,7 @@ function getColorStopValues(visualMapModel, valueState, dataExtent) {
 }
 var ContinuousModel_default = ContinuousModel;
 
-// node_modules/echarts/lib/component/visualMap/ContinuousView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/visualMap/VisualMapView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var VisualMapView = function(_super) {
   __extends(VisualMapView2, _super);
   function VisualMapView2() {
@@ -75180,17 +68898,6 @@ var VisualMapView = function(_super) {
 var VisualMapView_default = VisualMapView;
 
 // node_modules/echarts/lib/component/visualMap/helper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var paramsSet = [["left", "right", "width"], ["top", "bottom", "height"]];
 function getItemAlign(visualMapModel, api, itemSize) {
   var modelOption = visualMapModel.option;
@@ -75786,31 +69493,7 @@ function getCursor2(orient) {
 }
 var ContinuousView_default = ContinuousView;
 
-// node_modules/echarts/lib/component/visualMap/installCommon.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/visualMap/visualMapAction.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var visualMapActionInfo = {
   type: "selectDataRange",
   event: "dataRangeSelected",
@@ -75826,17 +69509,6 @@ var visualMapActionHander = function(payload, ecModel) {
 };
 
 // node_modules/echarts/lib/component/visualMap/visualEncoding.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var visualMapEncodingHandlers = [
   {
     createOnAllSeries: true,
@@ -75895,17 +69567,6 @@ function getColorVisual(seriesModel, visualMapModel, value, valueState) {
 }
 
 // node_modules/echarts/lib/component/visualMap/preprocessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var each16 = each;
 function visualMapPreprocessor(option) {
   var visualMap = option && option.visualMap;
@@ -75963,31 +69624,7 @@ function install50(registers) {
   installCommon2(registers);
 }
 
-// node_modules/echarts/lib/component/visualMap/installVisualMapPiecewise.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/component/visualMap/PiecewiseModel.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PiecewiseModel = function(_super) {
   __extends(PiecewiseModel2, _super);
   function PiecewiseModel2() {
@@ -76310,17 +69947,6 @@ function normalizeReverse(thisOption, pieceList) {
 var PiecewiseModel_default = PiecewiseModel;
 
 // node_modules/echarts/lib/component/visualMap/PiecewiseView.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var PiecewiseVisualMapView = function(_super) {
   __extends(PiecewiseVisualMapView2, _super);
   function PiecewiseVisualMapView2() {
@@ -76489,31 +70115,7 @@ function install52(registers) {
   use(install51);
 }
 
-// node_modules/echarts/lib/component/aria/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/visual/aria.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DEFAULT_OPTION = {
   label: {
     enabled: true
@@ -76690,17 +70292,6 @@ function ariaVisual(ecModel, api) {
 }
 
 // node_modules/echarts/lib/component/aria/preprocessor.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 function ariaPreprocessor(option) {
   if (!option || !option.aria) {
     return;
@@ -76723,44 +70314,7 @@ function install53(registers) {
   registers.registerVisual(registers.PRIORITY.VISUAL.ARIA, ariaVisual);
 }
 
-// node_modules/echarts/lib/component/transform/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/component/transform/filterTransform.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/echarts/lib/util/conditionalExpression.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var RELATIONAL_EXPRESSION_OP_ALIAS_MAP = {
   value: "eq",
   "<": "lt",
@@ -77009,17 +70563,6 @@ var filterTransform = {
 };
 
 // node_modules/echarts/lib/component/transform/sortTransform.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var sampleLog = "";
 if (true) {
   sampleLog = ["Valid config is like:", '{ dimension: "age", order: "asc" }', 'or [{ dimension: "age", order: "asc"], { dimension: "date", order: "desc" }]'].join(" ");
@@ -77129,17 +70672,6 @@ function install54(registers) {
 }
 
 // node_modules/echarts/lib/component/dataset/install.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var DatasetModel = function(_super) {
   __extends(DatasetModel2, _super);
   function DatasetModel2() {
@@ -77183,83 +70715,7 @@ function install55(registers) {
   registers.registerComponentView(DatasetView);
 }
 
-// node_modules/echarts/lib/export/features.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/animation/universalTransition.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/echarts/lib/animation/morphTransitionHelper.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/tool/morphPath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
-// node_modules/zrender/lib/tool/dividePath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
-
 // node_modules/zrender/lib/tool/convertPath.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPTIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_DOCSEARCH_OPTIONS();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var CMD5 = PathProxy_default.CMD;
 function aroundEqual(a, b) {
   return Math.abs(a - b) < 1e-5;

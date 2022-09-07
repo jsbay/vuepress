@@ -36,8 +36,9 @@
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="eslint-一键修复" tabindex="-1"><a class="header-anchor" href="#eslint-一键修复" aria-hidden="true">#</a> eslint 一键修复</h2>
 <div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token comment"># 一键修复 src 下 js/vue 文件的格式错误</span>
-npx eslint --ext .js,.vue src --fix
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><div class="custom-container info"><p class="custom-container-title">参数说明</p>
+npx eslint <span class="token parameter variable">--ext</span> .js,.vue src <span class="token parameter variable">--fix</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><div class="custom-container info">
+<p class="custom-container-title">参数说明</p>
 <p>eslint [options] file.js [file.js] [dir]</p>
 <p>Basic configuration:</p>
 <ul>
@@ -106,3 +107,5 @@ npx eslint --ext .js,.vue src --fix
 </ul>
 </div>
 </div></template>
+
+

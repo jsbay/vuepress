@@ -1,26 +1,30 @@
 import { defineClientConfig } from "@vuepress/client";
 
-import CommonWrapper from "@theme-hope/components/CommonWrapper";
-import HomePage from "@theme-hope/components/HomePage";
-import NormalPage from "@theme-hope/components/NormalPage";
-import Navbar from "@theme-hope/module/navbar/components/Navbar";
-import Sidebar from "@theme-hope/module/sidebar/components/Sidebar";
+import CommonWrapper from "@theme-hope/components/CommonWrapper.js";
+import HomePage from "@theme-hope/components/HomePage.js";
+import NormalPage from "@theme-hope/components/NormalPage.js";
+import Navbar from "@theme-hope/modules/navbar/components/Navbar.js";
+import Sidebar from "@theme-hope/modules/sidebar/components/Sidebar.js";
+import Layout from "/Users/baizhanying/Github/vuepress-blog/node_modules/vuepress-theme-hope/lib/client/layouts/Layout.js";
+import NotFound from "/Users/baizhanying/Github/vuepress-blog/node_modules/vuepress-theme-hope/lib/client/layouts/NotFound.js";
 
-import { useScrollPromise } from "@theme-hope/composables";
-import { injectDarkMode, setupDarkMode } from "@theme-hope/module/outlook/composables";
-import { setupSidebarItems } from "@theme-hope/module/sidebar/composables";
+import { useScrollPromise } from "@theme-hope/composables/index.js";
+import { injectDarkMode, setupDarkMode } from "@theme-hope/modules/outlook/composables/index.js";
+import { setupSidebarItems } from "@theme-hope/modules/sidebar/composables/index.js";
 
-import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
+import "/Users/baizhanying/Github/vuepress-blog/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
 
 
-import BloggerInfo from "@theme-hope/module/blog/components/BloggerInfo";
-import BlogHome from "@theme-hope/module/blog/components/BlogHome";
-import BlogPage from "@theme-hope/module/blog/components/BlogPage";
-import { setupBlog } from "@theme-hope/module/blog/composables";
-import "/Users/baizhanying/Github/vuepress-hope/node_modules/vuepress-theme-hope/lib/client/module/blog/styles/layout.scss";
+import BloggerInfo from "@theme-hope/modules/blog/components/BloggerInfo.js";
+import BlogHome from "@theme-hope/modules/blog/components/BlogHome.js";
+import BlogPage from "@theme-hope/modules/blog/components/BlogPage.js";
+import { setupBlog } from "@theme-hope/modules/blog/composables/index.js";
+import "/Users/baizhanying/Github/vuepress-blog/node_modules/vuepress-theme-hope/lib/client/modules/blog/styles/layout.scss";
 
-import GloablEncrypt from "@theme-hope/module/encrypt/components/GloablEncrypt";
-import LocalEncrypt from "@theme-hope/module/encrypt/components/LocalEncrypt";
+import GloablEncrypt from "@theme-hope/modules/encrypt/components/GloablEncrypt.js";
+import LocalEncrypt from "@theme-hope/modules/encrypt/components/LocalEncrypt.js";
+import Slide from "/Users/baizhanying/Github/vuepress-blog/node_modules/vuepress-theme-hope/lib/client/layouts/Slide.js";
+import Blog from "/Users/baizhanying/Github/vuepress-blog/node_modules/vuepress-theme-hope/lib/client/modules/blog/layouts/Blog.js";
 
 
 export default defineClientConfig({
@@ -58,4 +62,11 @@ export default defineClientConfig({
     setupBlog();
     
   },
+  layouts: {
+    Layout,
+    NotFound,
+    Slide,
+    Blog,
+    
+  }
 });
