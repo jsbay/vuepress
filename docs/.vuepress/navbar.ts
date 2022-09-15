@@ -66,9 +66,9 @@ export default navbar([
         link: 'git',
       },
       {
-        text: "git",
+        text: "docker",
         icon: "edit",
-        link: 'git',
+        link: 'docker',
       },
     ],
   },

@@ -9,6 +9,10 @@ export const pagesComponents = {
   "v-99378618": defineAsyncComponent(() => import(/* webpackChunkName: "v-99378618" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/weixin/index.html.vue")),
   // path: /weixin/regex.html
   "v-0be500e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-0be500e6" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/weixin/regex.html.vue")),
+  // path: /other/docker/
+  "v-c1312892": defineAsyncComponent(() => import(/* webpackChunkName: "v-c1312892" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/other/docker/index.html.vue")),
+  // path: /other/docker/oracle.html
+  "v-072e23f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-072e23f8" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/other/docker/oracle.html.vue")),
   // path: /other/git/
   "v-7ae11416": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ae11416" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/other/git/index.html.vue")),
   // path: /other/git/frontend-git-commit-constraints.html
@@ -29,6 +33,8 @@ export const pagesComponents = {
   "v-0e22b024": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e22b024" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/PWA.html.vue")),
   // path: /web/vue2/
   "v-7d269cef": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d269cef" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/index.html.vue")),
+  // path: /web/vue2/axios.html
+  "v-f3b7e75c": defineAsyncComponent(() => import(/* webpackChunkName: "v-f3b7e75c" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/axios.html.vue")),
   // path: /web/vue2/depoly.html
   "v-181f3646": defineAsyncComponent(() => import(/* webpackChunkName: "v-181f3646" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/depoly.html.vue")),
   // path: /web/vue2/dynamic-components.html

@@ -7,6 +7,10 @@ export const pagesData = {
   "v-99378618": () => import(/* webpackChunkName: "v-99378618" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/weixin/index.html.js").then(({ data }) => data),
   // path: /weixin/regex.html
   "v-0be500e6": () => import(/* webpackChunkName: "v-0be500e6" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/weixin/regex.html.js").then(({ data }) => data),
+  // path: /other/docker/
+  "v-c1312892": () => import(/* webpackChunkName: "v-c1312892" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/other/docker/index.html.js").then(({ data }) => data),
+  // path: /other/docker/oracle.html
+  "v-072e23f8": () => import(/* webpackChunkName: "v-072e23f8" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/other/docker/oracle.html.js").then(({ data }) => data),
   // path: /other/git/
   "v-7ae11416": () => import(/* webpackChunkName: "v-7ae11416" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/other/git/index.html.js").then(({ data }) => data),
   // path: /other/git/frontend-git-commit-constraints.html
@@ -27,6 +31,8 @@ export const pagesData = {
   "v-0e22b024": () => import(/* webpackChunkName: "v-0e22b024" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/PWA.html.js").then(({ data }) => data),
   // path: /web/vue2/
   "v-7d269cef": () => import(/* webpackChunkName: "v-7d269cef" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/index.html.js").then(({ data }) => data),
+  // path: /web/vue2/axios.html
+  "v-f3b7e75c": () => import(/* webpackChunkName: "v-f3b7e75c" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/axios.html.js").then(({ data }) => data),
   // path: /web/vue2/depoly.html
   "v-181f3646": () => import(/* webpackChunkName: "v-181f3646" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/depoly.html.js").then(({ data }) => data),
   // path: /web/vue2/dynamic-components.html

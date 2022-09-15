@@ -15,5 +15,7 @@ export default sidebar({
   "/sys/mac/": [],
   "/sys/win/": ['nginx2service'],
   "/sys/linux/": [],
+  "/other": ['git', 'docker'],
   "/other/git/": ['oh-my-zsh-alias', 'multiple-remote', 'frontend-git-commit-constraints'],
+  "/other/docker/": ['oracle'],
 });
