@@ -8,6 +8,14 @@
 docker exec -it qinglong /bin/bash
 ```
 
+- 查看容器
+
+```bash
+docker ps
+docker ps -l # 查看正在运行的容器
+docker ps -a # 查看所有容器
+```
+
 - 启动所有容器
 
 ```bash
@@ -36,6 +44,24 @@ docker rmi $(docker p_w_picpaths | awk '{print $3}' |tail -n +2)
 
 ```bash
 docker restart $(docker ps -a | awk '{ print $1}' | tail -n +2)
+```
+
+## 设置 jbot 监控活动
+
+### 方案一
+
+1. 进入 `http://144.24.86.199:5700/script`, 打开 `jk.json`
+2. 修改活动
+3. 进入 `http://144.24.86.199:5700/crontab`, 执行 `替换 jbot 监控`
+
+### 方案 二
+
+```bash
+docker exec -it qinglong /bin/bash
+
+cd /ql/data/jbot/conf
+
+rm jk.json && touch jk.json && vi jk.json
 ```
 
 ## docker 容器自启动
