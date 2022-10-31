@@ -1,5 +1,16 @@
 # oracle 甲骨文服务器常用命令
 
+## 解决 sendNotify 被覆盖问题
+
+```bash
+# 4. ql repo拉库逻辑
+# ql repo 会默认复制 deps 目录下的文件到仓库目录，所以你要固定你的 sendNotify 或者其他文件时，只需要把文件放到deps目录即可
+
+docker exec -it qinglong /bin/bash
+cd /ql/data/deps/
+wget -O sendNotify.js https://raw.githubusercontent.com/ccwav/QLScript2/main/sendNotify.js
+```
+
 ## 一些常用的命令
 
 - 进入 docker 容器

@@ -11,6 +11,7 @@ export default sidebar({
     "eslint",
     "webpack",
     "mock",
+    "page-custom"
   ],
   "/sys/mac/": [],
   "/sys/win/": ['nginx2service'],
