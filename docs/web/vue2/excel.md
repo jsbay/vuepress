@@ -25,7 +25,7 @@ npm install exceljs
 
 结果:
 
-![vue2-excel-1](/vue2-excel-1.png)
+![vue2-excel-1](./img/vue2-excel-2.png)
 
 ```js
 // download-excel.js
