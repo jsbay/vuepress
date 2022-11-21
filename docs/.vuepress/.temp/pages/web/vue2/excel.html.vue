@@ -15,7 +15,7 @@
 </div>
 <h2 id="示例" tabindex="-1"><a class="header-anchor" href="#示例" aria-hidden="true">#</a> 示例</h2>
 <p>结果:</p>
-<p><img src="/vue2-excel-1.png" alt="vue2-excel-1" loading="lazy"></p>
+<p><img src="@source/web/vue2/img/vue2-excel-2.png" alt="vue2-excel-1" loading="lazy"></p>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token comment">// download-excel.js</span>
 <span class="token keyword">import</span> <span class="token punctuation">{</span> saveAs <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"file-saver"</span><span class="token punctuation">;</span>
 

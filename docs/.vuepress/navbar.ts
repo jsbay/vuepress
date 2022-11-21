@@ -70,6 +70,11 @@ export default navbar([
         icon: "edit",
         link: 'docker',
       },
+      {
+        text: "薅羊毛",
+        icon: "edit",
+        link: 'hym',
+      },
     ],
   },
 ]);
