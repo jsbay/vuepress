@@ -9,13 +9,13 @@
 @tab:active yarn
 
 ```bash
-yarn add terser-webpack-plugin -D
+yarn add terser-webpack-plugin@4.2.3 -D
 ```
 
 @tab npm
 
 ```bash
-npm install terser-webpack-plugin -D
+npm install terser-webpack-plugin@4.2.3 -D
 ```
 
 :::
@@ -23,9 +23,10 @@ npm install terser-webpack-plugin -D
 ### vue.config.js 配置
 
 ```js
-const TerserPlugin = require('terser-webpack-plugin');
+const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
+  configureWebpack: {
     optimization: {
       minimizer: [
         new TerserPlugin({
@@ -33,7 +34,7 @@ module.exports = {
             compress: {
               drop_console: true, // 移除所有console相关代码；
               drop_debugger: true, // 移除自动断点功能；
-              pure_funcs: ['console.log', 'console.error'], // 配置移除指定的指令，如console.log,alert等
+              pure_funcs: ["console.log", "console.error"], // 配置移除指定的指令，如console.log,alert等
             },
             format: {
               comments: false,

@@ -6,7 +6,7 @@
 
 ## [路由懒加载](./router-lazyload.md)
 
-## [动态路由](./dynamic-components.md)
+## [动态组件](./dynamic-components.md)
 
 ## [v-for-v-if](./v-for-v-if.md)
 
@@ -19,3 +19,5 @@
 ## [Mock 数据模拟](./mock.md)
 
 ## [页面 自定义(定制化)](./page-custom.md)
+
+## [vue 跨组件通信之 provide/inject](./provide-inject.md)

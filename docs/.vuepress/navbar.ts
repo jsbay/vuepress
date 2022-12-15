@@ -18,6 +18,11 @@ export default navbar([
         //   "article3",
         //   "article4",
         // ],
+      },
+      {
+        text: "CSS",
+        icon: "edit",
+        link: 'CSS',
       }
     ],
   },

@@ -11,7 +11,11 @@ export default sidebar({
     "eslint",
     "webpack",
     "mock",
-    "page-custom"
+    "page-custom",
+    "provide-inject"
+  ],
+  "/web/css/": [
+    "bem",
   ],
   "/sys/mac/": [],
   "/sys/win/": ['nginx2service'],
