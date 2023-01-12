@@ -10,6 +10,7 @@
 <h2 id="mock-数据模拟" tabindex="-1"><a class="header-anchor" href="#mock-数据模拟" aria-hidden="true">#</a> <RouterLink to="/web/vue2/mock.html">Mock 数据模拟</RouterLink></h2>
 <h2 id="页面-自定义-定制化" tabindex="-1"><a class="header-anchor" href="#页面-自定义-定制化" aria-hidden="true">#</a> <RouterLink to="/web/vue2/page-custom.html">页面 自定义(定制化)</RouterLink></h2>
 <h2 id="vue-跨组件通信之-provide-inject" tabindex="-1"><a class="header-anchor" href="#vue-跨组件通信之-provide-inject" aria-hidden="true">#</a> <RouterLink to="/web/vue2/provide-inject.html">vue 跨组件通信之 provide/inject</RouterLink></h2>
+<h2 id="开发中碰到的问题" tabindex="-1"><a class="header-anchor" href="#开发中碰到的问题" aria-hidden="true">#</a> <a href="'./dev-question.md'">开发中碰到的问题</a></h2>
 </div></template>
 
 

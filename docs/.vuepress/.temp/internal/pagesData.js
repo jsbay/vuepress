@@ -1,8 +1,16 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /collect.html
+  "v-fbf96130": () => import(/* webpackChunkName: "v-fbf96130" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/collect.html.js").then(({ data }) => data),
   // path: /home.html
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
+  // path: /web/content-disposition.html
+  "v-79239fac": () => import(/* webpackChunkName: "v-79239fac" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/content-disposition.html.js").then(({ data }) => data),
+  // path: /web/oAuth2.0.html
+  "v-6d75ce48": () => import(/* webpackChunkName: "v-6d75ce48" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/oAuth2.0.html.js").then(({ data }) => data),
+  // path: /web/pm2.html
+  "v-fa587410": () => import(/* webpackChunkName: "v-fa587410" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/pm2.html.js").then(({ data }) => data),
   // path: /weixin/
   "v-99378618": () => import(/* webpackChunkName: "v-99378618" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/weixin/index.html.js").then(({ data }) => data),
   // path: /weixin/regex.html
@@ -43,6 +51,8 @@ export const pagesData = {
   "v-f3b7e75c": () => import(/* webpackChunkName: "v-f3b7e75c" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/axios.html.js").then(({ data }) => data),
   // path: /web/vue2/depoly.html
   "v-181f3646": () => import(/* webpackChunkName: "v-181f3646" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/depoly.html.js").then(({ data }) => data),
+  // path: /web/vue2/dev-question.html
+  "v-7d7c2fec": () => import(/* webpackChunkName: "v-7d7c2fec" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/dev-question.html.js").then(({ data }) => data),
   // path: /web/vue2/dynamic-components.html
   "v-1b3e8426": () => import(/* webpackChunkName: "v-1b3e8426" */"/Users/baizhanying/Github/vuepress-blog/docs/.vuepress/.temp/pages/web/vue2/dynamic-components.html.js").then(({ data }) => data),
   // path: /web/vue2/eslint.html

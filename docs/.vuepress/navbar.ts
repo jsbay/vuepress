@@ -4,12 +4,12 @@ export default navbar([
   "/",
   {
     text: "前端",
-    icon: "web",
+    icon: "hot",
     prefix: "/web/",
     children: [
       {
         text: "vue2",
-        icon: "edit",
+        icon: "vue",
         link: 'vue2',
         // prefix: "vue2/",
         // children: [
@@ -21,14 +21,14 @@ export default navbar([
       },
       {
         text: "CSS",
-        icon: "edit",
+        icon: "css",
         link: 'CSS',
       }
     ],
   },
   {
     text: "系统",
-    icon: "web",
+    icon: "OS",
     prefix: "/sys/",
     children: [
       {
@@ -38,19 +38,19 @@ export default navbar([
       },
       {
         text: "win",
-        icon: "edit",
+        icon: "windows",
         link: 'win',
       },
       {
         text: "linux",
-        icon: "edit",
+        icon: "linux",
         link: 'linux',
       }
     ],
   },
   {
     text: "微信",
-    icon: "weixin",
+    icon: "wechat",
     prefix: "/weixin/",
     children: [
       {
@@ -62,12 +62,17 @@ export default navbar([
   },
   {
     text: "其它",
-    icon: "other",
+    icon: "others",
     prefix: "/other/",
     children: [
       {
+        text: "collect",
+        icon: "ability",
+        link: 'collect',
+      },
+      {
         text: "git",
-        icon: "edit",
+        icon: "git",
         link: 'git',
       },
       {
