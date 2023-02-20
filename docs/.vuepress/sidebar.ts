@@ -21,7 +21,7 @@ export default sidebar({
   "/sys/win/": ['nginx2service'],
   "/sys/linux/": [],
   "/other": ['git', 'docker', 'hym'],
-  "/other/git/": ['oh-my-zsh-alias', 'multiple-remote', 'frontend-git-commit-constraints'],
+  "/other/git/": ['oh-my-zsh-alias', 'multiple-remote', 'frontend-git-commit-constraints', 'crlf-lf'],
   "/other/docker/": ['oracle'],
   "/other/hym/": ['ql-panel', ],
 });
